@@ -1,0 +1,559 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+tuvaluan,,87,tvl,tvl,{},-8.5,179.166666667,Papunesia,,Tuvaluan,1967,False,False
+fijian,,87,fij,fij,{},-17.8333333333,178.0,Papunesia,,Fijian,2510,True,True
+nadroga,,87,ndr,fij,{},-18.0833333333,177.416666667,Papunesia,,Nadroga,2639,False,False
+fijianwayan,,87,fiw,wyy,{},-17.0,177.3,Papunesia,,Fijian (Wayan),60,False,False
+rotuman,,87,rot,rtm,{},-12.5,177.066666667,Papunesia,,Rotuman,2084,False,False
+nanumea,,87,nnm,tvl,{},-5.66666666667,176.116666667,Papunesia,,Nanumea,412,False,False
+maori,,87,mao,mri,{},-40.0,176.0,Papunesia,,Maori,2532,False,True
+kiribati,,87,krb,gil,{},1.33333333333,173.0,Papunesia,,Kiribati,2363,False,True
+newzealandsignlanguage,,330,nzs,nzs,{},-43.0,172.0,Papunesia,,New Zealand Sign Language,418,False,False
+marshallese,,87,msh,mah,{},7.11666666667,171.05,Papunesia,,Marshallese,1130,False,False
+futunaaniwa,,87,fut,fut,{},-19.5333333333,170.216666667,Papunesia,,Futuna-Aniwa,2093,False,False
+anejom,,87,anj,aty,{},-20.2,169.8,Papunesia,,Anejom,2035,False,False
+kwamera,,87,kwr,tnk,{},-19.5833333333,169.416666667,Papunesia,,Kwamera,813,False,False
+tannasouthwest,,87,tns,nwi,{},-19.5666666667,169.333333333,Papunesia,,Tanna (Southwest),755,False,False
+lenakel,,87,len,tnl,{},-19.45,169.25,Papunesia,,Lenakel,2251,False,False
+erromangan,,87,err,erg,{},-18.8333333333,169.166666667,Papunesia,,Erromangan,2150,False,False
+ura,,87,ura,uur,{},-18.6666666667,169.083333333,Papunesia,,Ura,1665,False,False
+nguna,,87,ngu,llp,{},-16.9166666667,168.5,Papunesia,,Nguna,1194,False,False
+efatesouth,,87,erk,erk,{},-17.75,168.416666667,Papunesia,,Efate (South),2638,False,False
+lewo,,87,lew,lww,{},-16.75,168.333333333,Papunesia,,Lewo,1464,False,False
+paamese,,87,pms,pma,{},-16.5,168.25,Papunesia,,Paamese,2404,False,True
+ifiramele,,87,mxe,mxe,{},-17.75,168.25,Papunesia,,Ifira-Mele,2640,False,False
+southeastambrym,,87,sea,tvk,{},-16.3,168.216666667,Papunesia,,Southeast Ambrym,1007,False,False
+raga,,87,rag,lml,{},-15.5,168.166666667,Papunesia,,Raga,205,False,False
+lamen,,87,lmu,lmu,{},-16.5833333333,168.166666667,Papunesia,,Lamen,2637,False,False
+bislama,,331,bsm,bis,{},-16.0,168.0,Papunesia,,Bislama,289,False,False
+lonwolwol,,87,lnw,crc,{},-16.2166666667,168.0,Papunesia,,Lonwolwol,814,False,False
+nengone,,87,nne,nen,{},-21.5,168.0,Papunesia,,Nengone,1258,False,False
+ambaelolovolinortheast,,87,aml,omb,{},-15.4166666667,167.883333333,Papunesia,,Ambae (Lolovoli Northeast),1582,False,False
+portsandwich,,87,psw,psw,{},-16.5,167.75,Papunesia,,Port Sandwich,2636,False,False
+aulua,,87,aul,aul,{},-16.3333333333,167.666666667,Papunesia,,Aulua,19,False,False
+mwotlap,,87,mwo,mlv,{},-13.5833333333,167.583333333,Papunesia,,Mwotlap,1697,False,False
+vinmavis,,87,vnm,vnm,{},-16.1666666667,167.416666667,Papunesia,,Vinmavis,2635,False,False
+atchin,,87,atc,upv,{},-16.0,167.333333333,Papunesia,,Atchin,912,False,False
+mae,,87,mae,mme,{},-16.0,167.25,Papunesia,,Mae,1727,False,False
+drehu,,87,dre,dhv,{},-21.0,167.25,Papunesia,,Drehu,2402,False,True
+nambasbig,,87,nbb,nmb,{},-16.0833333333,167.2,Papunesia,,Nambas (Big),1046,False,False
+tamabo,,87,tmm,mla,{},-15.6666666667,167.166666667,Papunesia,,Tamabo,606,False,False
+sakao,,87,sak,sku,{},-15.1666666667,167.083333333,Papunesia,,Sakao,1736,False,False
+araki,,87,ark,akr,{},-15.6666666667,166.916666667,Papunesia,,Araki,506,False,False
+nauruan,,87,nau,nau,{},-0.5,166.916666667,Papunesia,,Nauruan,1047,False,False
+buma,,87,bum,tkw,{},-11.6333333333,166.833333333,Papunesia,,Buma,1675,False,False
+iaai,,87,iaa,iai,{},-20.4166666667,166.583333333,Papunesia,,Iaai,2319,False,False
+paita,,87,pta,duf,{},-22.0833333333,166.5,Papunesia,,Paita,829,False,False
+tayo,,331,tay,cks,{},-22.0,166.333333333,Papunesia,,Tayo,229,False,False
+ayiwo,,87,ayw,nfl,{},-10.3333333333,166.25,Papunesia,,Ayiwo,1155,False,False
+pileni,,87,pil,piv,{},-10.2166666667,166.216666667,Papunesia,,Pileni,895,False,False
+xaracuu,,87,xar,ane,{},-21.6666666667,166.0,Papunesia,,Xârâcùù,485,False,False
+natugu,,87,nbk,stc,{},-10.7833333333,165.866666667,Papunesia,,Natügu,1135,False,False
+tinrin,,87,tin,cir,{},-21.6666666667,165.75,Papunesia,,Tinrin,2273,False,False
+ajie,,87,aji,aji,{},-21.3333333333,165.5,Papunesia,,Ajië,270,False,False
+cemuhi,,87,cem,cam,{},-20.8333333333,165.166666667,Papunesia,,Cèmuhî,1862,False,False
+poai,,87,poa,fwa,{},-20.6666666667,164.833333333,Papunesia,,Po-Ai,1264,False,False
+nyelayu,,87,nyl,yly,{},-20.3333333333,164.333333333,Papunesia,,Nyelâyu,576,False,False
+nelemwa,,87,nel,nee,{},-20.25,164.083333333,Papunesia,,Nelemwa,996,False,False
+kosraean,,87,kos,kos,{},5.3,163.0,Papunesia,,Kosraean,2190,False,False
+lau,,87,lau,llu,{},-9.58333333333,161.5,Papunesia,,Lau,371,False,False
+saa,,87,saa,apb,{},-9.61666666667,161.45,Papunesia,,Sa'a,1049,False,False
+arosi,,87,aro,aia,{},-10.25,161.333333333,Papunesia,,Arosi,1947,False,False
+areare,,87,arx,alu,{},-9.25,161.166666667,Papunesia,,'Are'are,276,False,False
+kwaio,,87,kwa,kwd,{},-8.95,161.0,Papunesia,,Kwaio,2221,False,False
+pingilapese,,87,pgl,pif,{},6.21666666667,160.7,Papunesia,,Pingilapese,199,False,False
+longgu,,87,lgu,lgu,{},-9.75,160.666666667,Papunesia,,Longgu,1806,False,False
+toqabaqita,,87,toq,mlu,{},-8.41666666667,160.583333333,Papunesia,,Toqabaqita,956,False,False
+rennellese,,87,rnn,mnv,{},-11.6166666667,160.25,Papunesia,,Rennellese,442,False,False
+gela,,87,gel,nlg,{},-9.08333333333,160.25,Papunesia,,Gela,1548,False,False
+savosavo,,397,svs,svs,{},-9.13333333333,159.8,Papunesia,,Savosavo,1272,False,False
+mokilese,,87,mok,mkj,{},6.66666666667,159.75,Papunesia,,Mokilese,2294,False,False
+chekeholo,,87,ckh,mrn,{},-8.33333333333,159.666666667,Papunesia,,Cheke Holo,43,False,False
+luangiua,,87,lga,ojv,{},-5.33333333333,159.416666667,Papunesia,,Luangiua,150,False,False
+lavukaleve,,396,lav,lvk,{},-9.08333333333,159.2,Papunesia,,Lavukaleve,2484,True,True
+kokota,,87,kkt,kkk,{},-8.0,159.133333333,Papunesia,,Kokota,1689,False,False
+pohnpeian,,87,poh,pon,{},6.88333333333,158.25,Papunesia,,Pohnpeian,2280,False,False
+hoava,,87,hoa,hoa,{},-8.08333333333,157.5,Papunesia,,Hoava,684,False,False
+roviana,,87,rov,rug,{},-8.25,157.333333333,Papunesia,,Roviana,1569,False,False
+sisiqa,,87,sis,baa,{},-7.0,156.833333333,Papunesia,,Sisiqa,1738,False,False
+bilua,,398,bil,blb,{},-7.75,156.666666667,Papunesia,,Bilua,1748,False,False
+buin,,152,bun,buo,{},-6.75,155.75,Papunesia,,Buin,973,False,False
+monoalu,,87,moa,mte,{},-7.05,155.75,Papunesia,,Mono-Alu,1767,False,False
+nasioi,,152,nas,nas,{},-6.33333333333,155.583333333,Papunesia,,Nasioi,2230,False,False
+motuna,,152,mot,siw,{},-6.61666666667,155.416666667,Papunesia,,Motuna,1728,False,False
+banoni,,87,bnn,bcm,{},-6.41666666667,155.25,Papunesia,,Banoni,1587,False,False
+rotokas,,489,rtk,roo,{},-6.0,155.166666667,Papunesia,,Rotokas,1270,False,False
+teop,,87,teo,tio,{},-5.66666666667,155.0,Papunesia,,Teop,1816,False,False
+nukuoro,,87,nkr,nkr,{},3.83333333333,154.916666667,Papunesia,,Nukuoro,729,False,False
+konua,,489,knu,kyx,{},-5.83333333333,154.833333333,Papunesia,,Konua,550,False,False
+kapingamarangi,,87,kpn,kpg,{},1.05,154.75,Papunesia,,Kapingamarangi,349,False,False
+halia,,87,hal,hla,{},-5.25,154.666666667,Papunesia,,Halia,1798,False,False
+taiof,,87,taf,sps,{},-5.53333333333,154.633333333,Papunesia,,Taiof,1426,False,False
+nehan,,87,neh,nsn,{},-4.5,154.2,Papunesia,,Nehan,1474,False,False
+yelidnye,,502,yel,yle,{},-11.3666666667,154.166666667,Papunesia,,Yelî Dnye,2198,False,False
+sudest,,87,sud,tgo,{},-11.5,153.45,Papunesia,,Sudest,1484,False,False
+tangga,,87,tga,tgg,{},-3.46666666667,153.2,Papunesia,,Tangga,902,False,False
+siar,,87,sir,sjr,{},-4.66666666667,152.916666667,Papunesia,,Siar,1483,False,False
+sursurunga,,87,sur,sgz,{},-4.0,152.766666667,Papunesia,,Sursurunga,839,False,False
+muyuw,,87,muy,myw,{},-9.08333333333,152.75,Papunesia,,Muyuw,406,False,False
+patpatar,,87,ptp,gfk,{},-3.76666666667,152.5,Papunesia,,Patpatar,735,False,False
+mali,,104,mli,gcc,{},-4.83333333333,152.25,Papunesia,,Mali,162,False,False
+taulil,,103,tll,tuh,{},-4.41666666667,152.083333333,Papunesia,,Taulil,228,False,False
+tolai,,87,tla,ksd,{},-4.25,152.083333333,Papunesia,,Tolai,2197,False,False
+baining,,104,bng,byx,{},-4.58333333333,152.0,Papunesia,,Baining,1440,False,False
+sulka,,400,sul,sua,{},-5.08333333333,151.916666667,Papunesia,,Sulka,2030,False,False
+chuukese,,87,cuu,chk,{},7.33333333333,151.75,Papunesia,,Chuukese,1026,False,False
+kuot,,220,kuo,kto,{},-3.05,151.5,Papunesia,,Kuot,2025,False,False
+nalik,,87,nal,nal,{},-2.95,151.333333333,Papunesia,,Nalik,1257,False,False
+karainpapuanewguinea,,87,kra,leu,{},-2.83333333333,151.116666667,Papunesia,,Kara (in Papua New Guinea),696,False,False
+kilivila,,87,klv,kij,{},-8.5,151.083333333,Papunesia,,Kilivila,2451,False,True
+gumawana,,87,gmw,gvs,{},-9.25,150.833333333,Papunesia,,Gumawana,2041,False,False
+tigak,,87,tgk,tgc,{},-2.71666666667,150.8,Papunesia,,Tigak,2321,False,False
+salibainpapuanewguinea,,87,slb,sbe,{},-10.5833333333,150.716666667,Papunesia,,Saliba (in Papua New Guinea),1982,False,False
+tawala,,87,taw,tbo,{},-10.3333333333,150.666666667,Papunesia,,Tawala,2130,False,False
+nakanai,,87,nak,nak,{},-5.58333333333,150.583333333,Papunesia,,Nakanai,2027,False,False
+minaveha,,87,mnv,mvn,{},-9.6,150.466666667,Papunesia,,Minaveha,1132,False,False
+tungak,,87,tnk,lcm,{},-2.55,150.25,Papunesia,,Tungak,1431,False,False
+iduna,,87,idn,viv,{},-9.33333333333,150.25,Papunesia,,Iduna,1599,False,False
+wedau,,87,wed,wed,{},-10.1666666667,150.166666667,Papunesia,,Wedau,1377,False,False
+gapapaiwa,,87,gap,pwg,{},-9.75,149.833333333,Papunesia,,Gapapaiwa,1546,False,False
+kaulong,,87,kau,pss,{},-6.16666666667,149.666666667,Papunesia,,Kaulong,1686,False,False
+lusi,,87,kkv,khl,{},-5.58333333333,149.666666667,Papunesia,,Lusi,2163,False,False
+mussau,,87,mus,emi,{},-1.45,149.616666667,Papunesia,,Mussau,1316,False,False
+magi,,450,mgi,mgu,{},-10.3333333333,149.333333333,Papunesia,,Magi,1083,False,False
+puluwat,,87,pul,puw,{},7.33333333333,149.333333333,Papunesia,,Puluwat,1912,False,False
+daga,,146,dag,dgz,{},-10.0,149.333333333,Papunesia,,Daga,2408,True,True
+maisin,,87,msn,mbq,{},-9.5,149.166666667,Papunesia,,Maisin,1900,False,False
+balivitu,,87,bvi,"bbn, wiv",{},-4.9,149.116666667,Papunesia,,Bali-Vitu,1537,False,False
+korafe,,442,krf,kpr,{},-9.05,149.083333333,Papunesia,,Korafe,362,False,False
+anem,,23,ane,anz,{},-5.58333333333,149.083333333,Papunesia,,Anêm,1859,False,False
+amara,,87,ama,aie,{},-5.66666666667,148.5,Papunesia,,Amara,1100,False,False
+yareba,,499,yar,yrb,{},-9.5,148.5,Papunesia,,Yareba,2011,False,False
+maleu,,87,mlu,mgl,{},-5.71666666667,148.416666667,Papunesia,,Maleu,1693,False,False
+orokaiva,,442,oro,okv,{},-8.83333333333,148.25,Papunesia,,Orokaiva,1660,False,False
+omie,,439,omi,aom,{},-9.05,148.083333333,Papunesia,,Ömie,1521,False,False
+mangapmbula,,87,mmb,mna,{},-5.66666666667,148.083333333,Papunesia,,Mangap-Mbula,1609,False,False
+barai,,439,baa,"bbb, nvm",{},-9.33333333333,148.083333333,Papunesia,,Barai,2017,False,False
+binandere,,442,bin,bhg,{},-8.25,148.0,Papunesia,,Binandere,1443,False,False
+sinaugoro,,87,sng,snc,{},-9.83333333333,147.833333333,Papunesia,,Sinaugoro,1914,False,False
+jabem,,87,jab,jae,{},-6.58333333333,147.783333333,Papunesia,,Jabêm,2023,False,False
+kate,,434,kat,kmg,{},-6.5,147.75,Papunesia,,Kâte,1458,False,False
+ono,,434,ono,ons,{},-6.16666666667,147.583333333,Papunesia,,Ono,1090,False,False
+suena,,442,sue,sue,{},-7.75,147.55,Papunesia,,Suena,2382,False,True
+koialimountain,,439,kmo,kpx,{},-9.0,147.5,Papunesia,,Koiali (Mountain),1646,False,False
+burum,,434,bmr,bmu,{},-6.5,147.333333333,Papunesia,,Burum,662,False,False
+guhusamane,,442,guh,ghs,{},-8.0,147.333333333,Papunesia,,Guhu-Samane,1170,False,False
+koiari,,439,koi,kbk,{},-9.5,147.333333333,Papunesia,,Koiari,1899,False,False
+sio,,87,sio,xsi,{},-5.95,147.333333333,Papunesia,,Sio,1964,False,False
+loniu,,87,lon,los,{},-2.06666666667,147.333333333,Papunesia,,Loniu,2115,False,False
+lou,,87,lou,loj,{},-2.38333333333,147.316666667,Papunesia,,Lou,1465,False,False
+tokpisin,,331,tpi,tpi,{},-9.5,147.166666667,Papunesia,,Tok Pisin,1428,False,False
+selepet,,434,slp,spl,{},-6.16666666667,147.166666667,Papunesia,,Selepet,2085,False,False
+kelaapoze,,87,kap,kcl,{},-7.41666666667,147.083333333,Papunesia,,Kela (Apoze),546,False,False
+kele,,87,kel,sbc,{},-2.08333333333,147.083333333,Papunesia,,Kele,1510,False,False
+koita,,439,kta,kqi,{},-9.33333333333,147.083333333,Papunesia,,Koita,1604,False,False
+aroplokep,,87,alk,apr,{},-5.38333333333,147.05,Papunesia,,Arop-Lokep,1632,False,False
+aribwatsa,,87,ari,laz,{},-6.71666666667,147.0,Papunesia,,Aribwatsa,856,False,False
+musom,,87,msm,msu,{},-6.58333333333,147.0,Papunesia,,Musom,1366,False,False
+nabak,,434,nab,naf,{},-6.41666666667,147.0,Papunesia,,Nabak,1843,False,False
+motu,,87,mtu,meu,{},-9.33333333333,147.0,Papunesia,,Motu,1938,False,False
+weri,,435,wer,wer,{},-7.75,146.916666667,Papunesia,,Weri,766,False,False
+labu,,87,lab,lbu,{},-6.75,146.916666667,Papunesia,,Labu,2634,False,False
+kunimaipa,,435,kmp,kup,{},-8.0,146.833333333,Papunesia,,Kunimaipa,1999,False,False
+alaala,,87,all,nrz,{},-8.91666666667,146.75,Papunesia,,Ala'ala,1437,False,False
+roro,,87,ror,rro,{},-8.75,146.583333333,Papunesia,,Roro,1420,False,False
+patep,,87,pat,ptp,{},-6.91666666667,146.583333333,Papunesia,,Patep,1568,False,False
+mekeo,,87,mke,mek,{},-8.33333333333,146.5,Papunesia,,Mekeo,1190,False,False
+wantoat,,434,wnt,wnc,{},-6.16666666667,146.5,Papunesia,,Wantoat,1285,False,False
+nankina,,434,nnk,nnk,{},-5.78333333333,146.45,Papunesia,,Nankina,1413,False,False
+toaripi,,156,toa,tqo,{},-8.33333333333,146.25,Papunesia,,Toaripi,1373,False,False
+angaatiha,,449,ant,agm,{},-7.21666666667,146.25,Papunesia,,Angaatiha,1438,False,False
+adzera,,87,adz,adz,{},-6.25,146.25,Papunesia,,Adzera,1494,False,False
+hamtai,,449,ham,hmt,{},-7.5,146.25,Papunesia,,Hamtai,2334,False,True
+ampeeli,,449,ape,apz,{},-6.75,146.083333333,Papunesia,,Ampeeli,630,False,False
+binumarien,,430,bnm,bjr,{},-6.28333333333,146.083333333,Papunesia,,Binumarien,659,False,False
+menya,,449,mey,mcr,{},-7.25,146.0,Papunesia,,Menya,721,False,False
+rawa,,434,rwa,rwo,{},-5.83333333333,146.0,Papunesia,,Rawa,1267,False,False
+tairora,,430,trr,tbg,{},-6.5,146.0,Papunesia,,Tairora,1485,False,False
+takia,,87,tak,tbc,{},-4.66666666667,146.0,Papunesia,,Takia,1623,False,False
+agarabi,,430,aga,agd,{},-6.16666666667,146.0,Papunesia,,Agarabi,1669,False,False
+gadsup,,430,gds,gaj,{},-6.25,146.0,Papunesia,,Gadsup,1954,False,False
+siroi,,437,sro,ssd,{},-5.5,146.0,Papunesia,,Siroi,2029,False,False
+waskia,,437,wsk,wsk,{},-4.5,146.0,Papunesia,,Waskia,2168,False,False
+bongu,,437,bon,bpu,{},-5.5,145.916666667,Papunesia,,Bongu,1297,False,False
+baruya,,449,bry,byr,{},-6.91666666667,145.916666667,Papunesia,,Baruya,1347,False,False
+kakiae,,155,kae,tbd,{},-8.0,145.833333333,Papunesia,,Kaki Ae,1358,False,False
+auyana,,430,auy,auy,{},-6.5,145.75,Papunesia,,Auyana,20,False,False
+matukar,,87,mtk,mjk,{},-4.91666666667,145.75,Papunesia,,Matukar,169,False,False
+carolinian,,87,crl,cal,{},15.2,145.75,Papunesia,,Carolinian,296,False,False
+mugil,,437,mug,mlp,{},-4.88333333333,145.75,Papunesia,,Mugil,567,False,False
+awa,,430,awa,awb,{},-6.66666666667,145.75,Papunesia,,Awa,1585,False,False
+garus,,437,grs,gyb,{},-4.95,145.666666667,Papunesia,,Garus,532,False,False
+kamanokafe,,430,kak,kbq,{},-6.25,145.666666667,Papunesia,,Kamano-Kafe,694,False,False
+bau,,437,bau,bbd,{},-5.25,145.616666667,Papunesia,,Bau,282,False,False
+usarufa,,430,usr,usa,{},-6.41666666667,145.583333333,Papunesia,,Usarufa,1577,False,False
+amele,,437,ame,aey,{},-5.25,145.583333333,Papunesia,,Amele,2538,True,True
+benabena,,430,beb,bef,{},-6.16666666667,145.5,Papunesia,,Benabena,283,False,False
+fore,,430,for,for,{},-6.75,145.5,Papunesia,,Fore,1830,False,False
+gahuku,,430,gah,gah,{},-6.0,145.416666667,Papunesia,,Gahuku,1593,False,False
+yagaria,,430,ygr,ygr,{},-6.33333333333,145.416666667,Papunesia,,Yagaria,2257,False,False
+orokolo,,156,orl,oro,{},-7.83333333333,145.333333333,Papunesia,,Orokolo,427,False,False
+hua,,430,hua,ygr,{},-6.33333333333,145.333333333,Papunesia,,Hua,2151,False,False
+tauya,,437,tau,tya,{},-5.75,145.333333333,Papunesia,,Tauya,2298,False,False
+siane,,430,sia,snp,{},-6.08333333333,145.2,Papunesia,,Siane,1528,False,False
+usan,,437,usa,wnu,{},-4.83333333333,145.166666667,Papunesia,,Usan,2398,False,True
+chuave,,438,cve,cjv,{},-6.11666666667,145.116666667,Papunesia,,Chuave,1108,False,False
+pawaian,,412,paw,pwa,{},-7.0,145.083333333,Papunesia,,Pawaian,1980,False,False
+saltyui,,438,syu,sll,{},-6.28333333333,145.033333333,Papunesia,,Salt-Yui,2103,False,False
+monumbo,,254,mbo,mxk,{},-4.25,145.0,Papunesia,,Monumbo,887,False,False
+tabare,,438,tba,sst,{},-6.08333333333,145.0,Papunesia,,Tabare,952,False,False
+anamuxra,,437,amx,imi,{},-4.66666666667,145.0,Papunesia,,Anamuxra,1293,False,False
+kuman,,438,kmn,kue,{},-5.91666666667,145.0,Papunesia,,Kuman,1460,False,False
+manam,,87,mnm,mva,{},-4.0,145.0,Papunesia,,Manam,2046,False,False
+mikarew,,234,mkr,msy,{},-4.41666666667,144.916666667,Papunesia,,Mikarew,391,False,False
+nend,,437,nnd,anh,{},-5.0,144.916666667,Papunesia,,Nend,1136,False,False
+kaian,,235,kai,kct,{},-4.08333333333,144.75,Papunesia,,Kaian,342,False,False
+kire,,234,kie,geb,{},-4.25,144.75,Papunesia,,Kire,1079,False,False
+golin,,438,gln,gvf,{},-6.33333333333,144.75,Papunesia,,Golin,1681,False,False
+chamorro,,74,cha,cha,{},13.45,144.75,Papunesia,,Chamorro,2508,True,True
+wahgi,,438,wah,"wgi, whg",{},-5.83333333333,144.716666667,Papunesia,,Wahgi,2141,False,False
+maring,,438,mav,mbw,{},-5.5,144.666666667,Papunesia,,Maring,715,False,False
+dadibi,,411,dad,mps,{},-6.55,144.583333333,Papunesia,,Dadibi,1224,False,False
+kalam,,437,klq,kmh,{},-5.25,144.583333333,Papunesia,,Kalam,1601,False,False
+folopa,,411,pdp,ppo,{},-7.0,144.5,Papunesia,,Folopa,737,False,False
+watam,,235,wtm,wax,{},-3.91666666667,144.5,Papunesia,,Watam,1012,False,False
+rao,,233,rao,rao,{},-4.75,144.5,Papunesia,,Rao,1141,False,False
+taiap,,160,tap,gpn,{},-4.08333333333,144.5,Papunesia,,Taiap,1202,False,False
+kobon,,437,kob,kpw,{},-5.16666666667,144.333333333,Papunesia,,Kobon,2477,False,True
+murik,,231,mrk,mtf,{},-3.83333333333,144.25,Papunesia,,Murik,568,False,False
+rumu,,460,rum,klq,{},-7.16666666667,144.25,Papunesia,,Rumu,1705,False,False
+haruai,,461,har,tmd,{},-5.08333333333,144.166666667,Papunesia,,Haruai,539,False,False
+kambot,,232,kbo,kbx,{},-4.25,144.133333333,Papunesia,,Kambot,1033,False,False
+meryammir,,490,mer,ulk,{},-9.91666666667,144.083333333,Papunesia,,Meryam Mir,1518,False,False
+kyaka,,433,kyk,kyc,{},-5.55,144.083333333,Papunesia,,Kyaka,1690,False,False
+umbu ungu,,438,kgl,ubu,{},-6.0,144.0,Papunesia,,Umbu Ungu,128,False,False
+woleaian,,87,wol,woe,{},7.33333333333,143.833333333,Papunesia,,Woleaian,2052,False,False
+kewa,,433,kew,"kew, kjs",{},-6.5,143.833333333,Papunesia,,Kewa,2454,True,True
+enga,,433,ena,enq,{},-5.5,143.666666667,Papunesia,,Enga,675,False,False
+kamasau,,425,kmz,kms,{},-3.91666666667,143.666666667,Papunesia,,Kamasau,2657,False,False
+kairiru,,87,krr,kxa,{},-3.33333333333,143.583333333,Papunesia,,Kairiru,1933,False,False
+yimas,,231,yim,yee,{},-4.66666666667,143.55,Papunesia,,Yimas,2430,False,True
+boiken,,368,boi,bzf,{},-3.5,143.5,Papunesia,,Boiken,516,False,False
+foe,,444,foe,foi,{},-6.5,143.5,Papunesia,,Foe,983,False,False
+kiwai,,216,kiw,"kiw, kjd",{},-8.0,143.5,Papunesia,,Kiwai,2125,False,False
+fasu,,440,fas,faa,{},-6.58333333333,143.333333333,Papunesia,,Fasu,1929,False,False
+alamblak,,370,ala,amp,{},-4.66666666667,143.333333333,Papunesia,,Alamblak,2480,True,True
+iatmul,,368,iat,ian,{},-4.25,143.25,Papunesia,,Iatmul,687,False,False
+sare,,370,sar,dju,{},-4.5,143.166666667,Papunesia,,Sare,1777,False,False
+arapeshmountain,,427,arp,ape,{},-3.46666666667,143.166666667,Papunesia,,Arapesh (Mountain),2440,True,True
+chambri,,231,chb,can,{},-4.16666666667,143.083333333,Papunesia,,Chambri,975,False,False
+ambulas,,368,amb,abt,{},-3.83333333333,143.0,Papunesia,,Ambulas,1919,False,False
+mufian,,427,aoj,aoj,{},-3.5,143.0,Papunesia,,Mufian,2656,False,False
+hangahundi,,368,hhu,wos,{},-3.83333333333,142.916666667,Papunesia,,Hanga Hundi,1306,False,False
+manambu,,368,mbu,mle,{},-4.25,142.833333333,Papunesia,,Manambu,163,False,False
+bahinemo,,370,bhn,bjh,{},-4.58333333333,142.833333333,Papunesia,,Bahinemo,640,False,False
+gogodala,,162,gog,ggw,{},-8.08333333333,142.833333333,Papunesia,,Gogodala,796,False,False
+urat,,428,urt,urt,{},-3.66666666667,142.833333333,Papunesia,,Urat,2654,False,False
+kaluli,,111,kll,bco,{},-6.5,142.75,Papunesia,,Kaluli,1075,False,False
+kwoma,,368,kwo,kmo,{},-4.16666666667,142.75,Papunesia,,Kwoma,2126,False,False
+kombio,,427,xbi,xbi,{},-3.5,142.75,Papunesia,,Kombio,2655,False,False
+urim,,424,uri,uri,{},-3.58333333333,142.666666667,Papunesia,,Urim,481,False,False
+edolo,,111,edo,etr,{},-6.16666666667,142.666666667,Papunesia,,Edolo,1068,False,False
+yessanmayo,,371,yes,yss,{},-4.16666666667,142.583333333,Papunesia,,Yessan-Mayo,2012,False,False
+mehek,,371,mhk,nux,{},-3.75,142.5,Papunesia,,Mehek,559,False,False
+duna,,431,dun,duc,{},-5.5,142.5,Papunesia,,Duna,793,False,False
+walman,,428,wal,van,{},-3.21666666667,142.5,Papunesia,,Walman,1783,False,False
+tumleo,,87,tum,tmq,{},-3.08333333333,142.416666667,Papunesia,,Tumleo,959,False,False
+wogamusin,,367,wog,wog,{},-4.25,142.333333333,Papunesia,,Wogamusin,769,False,False
+ningil,,428,nin,niz,{},-3.5,142.25,Papunesia,,Ningil,727,False,False
+nomad,,154,nmd,smq,{},-6.16666666667,142.25,Papunesia,,Nomad,728,False,False
+oksapmin,,326,oks,opm,{},-5.16666666667,142.166666667,Papunesia,,Oksapmin,1089,False,False
+yil,,428,yil,yll,{},-3.53333333333,142.15,Papunesia,,Yil,622,False,False
+kalalagawya,,560,kly,mwp,{},-10.1166666667,142.116666667,Papunesia,,Kala Lagaw Ya,1397,False,False
+au,,428,au,avt,{},-3.58333333333,142.083333333,Papunesia,,Au,1974,False,False
+barupu,,394,brp,wra,{},-3.08333333333,142.083333333,Papunesia,,Barupu,2648,False,False
+iwam,,367,iwm,iwm,{},-4.33333333333,142.0,Papunesia,,Iwam,1354,False,False
+olo,,428,olo,ong,{},-3.41666666667,142.0,Papunesia,,Olo,1812,False,False
+awtuw,,369,awt,kmn,{},-3.58333333333,142.0,Papunesia,,Awtuw,2288,False,False
+one,,426,one,aun,{},-3.25,141.916666667,Papunesia,,One,1137,False,False
+womo,,393,wom,,{},-2.91666666667,141.833333333,Papunesia,,Womo,1208,False,False
+suki,,161,suk,sui,{},-8.0,141.75,Papunesia,,Suki,603,False,False
+telefol,,441,tlf,tlf,{},-5.0,141.75,Papunesia,,Telefol,1779,False,False
+namia,,372,nam,nnm,{},-3.83333333333,141.75,Papunesia,,Namia,1809,False,False
+owininga,,229,owi,owi,{},-4.5,141.75,Papunesia,,Owininga,2653,False,False
+ama,,229,amm,amm,{},-4.21666666667,141.616666667,Papunesia,,Ama,2652,False,False
+pokorawo,,393,pok,rwa,{},-2.83333333333,141.583333333,Papunesia,,Poko-Rawo,1701,False,False
+momu,,226,fqs,fqs,{},-3.0,141.583333333,Papunesia,,Momu,2649,False,False
+nagatman,,496,nag,nce,{},-3.75,141.5,Papunesia,,Nagatman,1560,False,False
+mian,,441,mpt,mpt,{},-4.75,141.5,Papunesia,,Mian,2642,False,False
+kwomtari,,225,kwt,kwo,{},-3.5,141.5,Papunesia,,Kwomtari,2650,False,False
+zimakani,,246,zim,zik,{},-7.43333333333,141.433333333,Papunesia,,Zimakani,779,False,False
+aekyom,,101,awi,awi,{},-5.75,141.416666667,Papunesia,,Aekyom,639,False,False
+tifal,,441,tif,tif,{},-5.0,141.333333333,Papunesia,,Tifal,759,False,False
+boazi,,246,boa,kvg,{},-7.0,141.333333333,Papunesia,,Boazi,1104,False,False
+dumo,,392,dum,vam,{},-2.68333333333,141.3,Papunesia,,Dumo,2189,False,False
+isaka,,395,isa,ksi,{},-2.83333333333,141.283333333,Papunesia,,I'saka,1395,False,False
+nai,,225,bio,bio,{},-3.71666666667,141.266666667,Papunesia,,Nai,2651,False,False
+abau,,367,aba,aau,{},-4.0,141.25,Papunesia,,Abau,968,False,False
+amanab,,110,amn,amn,{},-3.58333333333,141.25,Papunesia,,Amanab,1581,False,False
+anggor,,365,ang,agg,{},-3.75,141.166666667,Papunesia,,Anggor,1713,False,False
+imonda,,110,imo,imn,{},-3.33333333333,141.166666667,Papunesia,,Imonda,2475,True,True
+karkaryuri,,203,kyr,yuj,{},-3.75,141.083333333,Papunesia,,Karkar-Yuri,1243,False,False
+dlamenggwa,,365,dlm,kbv,{},-3.55,141.033333333,Papunesia,,Dla (Menggwa),2647,False,False
+waris,,110,wrs,wrs,{},-3.16666666667,141.0,Papunesia,,Waris,1333,False,False
+dlaproper,,365,der,kbv,{},-3.58333333333,141.0,Papunesia,,Dla (Proper),1753,False,False
+kanumngkalmpw,,255,knp,kcd,{},-8.66666666667,140.916666667,Papunesia,,Kanum (Ngkâlmpw),804,False,False
+skou,,392,sko,skv,{},-2.66666666667,140.916666667,Papunesia,,Skou,951,False,False
+katiinwestpapuaindonesia,,441,kti,yon,{},-5.75,140.916666667,Papunesia,,"Kati (in West Papua, Indonesia)",1036,False,False
+yei,,255,yei,jei,{},-7.91666666667,140.916666667,Papunesia,,Yei,1057,False,False
+manem,,110,mem,jet,{},-3.0,140.833333333,Papunesia,,Manem,713,False,False
+kanumbadi,,255,knb,khd,{},-8.83333333333,140.75,Papunesia,,Kanum (Bädi),1035,False,False
+indonesianpapuan,,519,iir,pmy,{},-2.5,140.666666667,Papunesia,,Indonesian (Papuan),108,False,False
+moraori,,527,mri,mok,{},-8.58333333333,140.666666667,Papunesia,,Moraori,1134,False,False
+tobati,,87,tbt,tti,{},-2.58333333333,140.666666667,Papunesia,,Tobati,1490,False,False
+awyi,,110,awy,auw,{},-2.91666666667,140.583333333,Papunesia,,Awyi,913,False,False
+sentani,,366,snt,set,{},-2.58333333333,140.583333333,Papunesia,,Sentani,2362,False,True
+elseng,,256,els,mrf,{},-3.0,140.5,Papunesia,,Elseng,57,False,False
+ketengban,,446,ktn,xte,{},-4.5,140.5,Papunesia,,Ketengban,702,False,False
+tabla,,366,tbl,tnm,{},-2.45,140.416666667,Papunesia,,Tabla,1664,False,False
+wambon,,445,wbn,wms,{},-5.5,140.416666667,Papunesia,,Wambon,2051,False,False
+kemtuik,,323,kmt,kmt,{},-2.66666666667,140.333333333,Papunesia,,Kemtuik,701,False,False
+aghu,,445,ahu,ahh,{},-6.16666666667,140.166666667,Papunesia,,Aghu,1015,False,False
+nimboran,,323,nim,nir,{},-2.5,140.166666667,Papunesia,,Nimboran,1561,False,False
+marind,,246,mrd,mrz,{},-7.83333333333,140.166666667,Papunesia,,Marind,2338,False,True
+eipo,,446,eip,eip,{},-4.33333333333,140.083333333,Papunesia,,Eipo,527,False,False
+kaure,,207,kaj,bpp,{},-3.41666666667,140.083333333,Papunesia,,Kaure,700,False,False
+korowai,,445,krw,khe,{},-5.25,140.0,Papunesia,,Korowai,1835,False,False
+kombai,,445,kmb,"tyn, wng",{},-5.58333333333,140.0,Papunesia,,Kombai,2114,False,False
+una,,446,una,mtg,{},-4.66666666667,140.0,Papunesia,,Una,2348,False,True
+orya,,422,ory,ury,{},-2.75,139.833333333,Papunesia,,Orya,1196,False,False
+ulithian,,87,uli,uli,{},9.91666666667,139.583333333,Papunesia,,Ulithian,961,False,False
+yalekosarek,,446,yal,kkl,{},-4.08333333333,139.5,Papunesia,,Yale (Kosarek),1578,False,False
+maklew,,112,mkl,mgf,{},-7.66666666667,139.416666667,Papunesia,,Maklew,1085,False,False
+yali,,432,yli,yli,{},-4.0,139.333333333,Papunesia,,Yali,848,False,False
+tamagario,,208,tmg,tcg,{},-6.41666666667,139.25,Papunesia,,Tamagario,953,False,False
+yaqay,,246,yqy,jaq,{},-6.58333333333,139.25,Papunesia,,Yaqay,1097,False,False
+momuna,,443,mqf,mqf,{},-4.83333333333,139.25,Papunesia,,Momuna,2641,False,False
+yelmek,,112,ylm,jel,{},-7.66666666667,139.166666667,Papunesia,,Yelmek,1058,False,False
+pisa,,445,pis,psa,{},-5.16666666667,139.166666667,Papunesia,,Pisa,1140,False,False
+berik,,423,brk,bkl,{},-2.25,138.833333333,Papunesia,,Berik,972,False,False
+danilowergrandvalley,,432,dni,dni,{},-4.33333333333,138.833333333,Papunesia,,Dani (Lower Grand Valley),2424,True,True
+mombum,,253,mom,mso,{},-8.25,138.75,Papunesia,,Mombum,1042,False,False
+sobei,,87,sob,sob,{},-1.91666666667,138.75,Papunesia,,Sobei,1369,False,False
+isirawa,,224,isi,srl,{},-1.83333333333,138.5,Papunesia,,Isirawa,542,False,False
+riantana,,217,ria,ran,{},-7.5,138.5,Papunesia,,Riantana,740,False,False
+kwerba,,224,kwb,kwe,{},-2.25,138.5,Papunesia,,Kwerba,1125,False,False
+kimaghama,,217,kim,kig,{},-8.0,138.5,Papunesia,,Kimaghama,1687,False,False
+asmat,,447,asm,tml,{},-5.5,138.5,Papunesia,,Asmat,2442,True,True
+sikaritai,,228,skr,tty,{},-2.91666666667,138.25,Papunesia,,Sikaritai,750,False,False
+doutai,,228,dou,tds,{},-3.33333333333,138.166666667,Papunesia,,Doutai,672,False,False
+yapese,,82,yap,yap,{},9.58333333333,138.166666667,Papunesia,,Yapese,2318,False,False
+obokuitai,,228,obk,afz,{},-3.0,138.0,Papunesia,,Obokuitai,731,False,False
+warembori,,79,wrm,wsa,{},-1.66666666667,137.583333333,Papunesia,,Warembori,1536,False,False
+bauzi,,153,bzi,bvz,{},-2.5,137.5,Papunesia,,Bauzi,1538,False,False
+iau,,228,iau,tmu,{},-3.16666666667,137.5,Papunesia,,Iau,1551,False,False
+kirikiri,,228,kkr,kiy,{},-3.0,137.166666667,Papunesia,,Kirikiri,547,False,False
+moni,,436,mni,mnz,{},-3.66666666667,137.0,Papunesia,,Moni,1043,False,False
+waropen,,79,wrp,wrp,{},-2.33333333333,136.583333333,Papunesia,,Waropen,764,False,False
+ambai,,79,amq,amk,{},-1.83333333333,136.5,Papunesia,,Ambai,1789,False,False
+yawa,,501,yaw,yva,{},-1.75,136.25,Papunesia,,Yawa,1580,False,False
+biak,,79,bik,bhw,{},-1.0,136.0,Papunesia,,Biak,864,False,False
+kamoro,,447,kmr,kgq,{},-4.33333333333,136.0,Papunesia,,Kamoro,1176,False,False
+mor,,79,mor,mhz,{},-2.95,135.75,Papunesia,,Mor,1876,False,False
+ekari,,436,eka,ekg,{},-3.83333333333,135.5,Papunesia,,Ekari,2333,False,True
+dobel,,75,dob,kvo,{},-6.25,134.666666667,Papunesia,,Dobel,792,False,False
+palauan,,85,pal,pau,{},7.5,134.583333333,Papunesia,,Palauan,2302,False,False
+kola,,75,koo,kvv,{},-5.5,134.5,Papunesia,,Kola,807,False,False
+taranganwest,,75,tgw,txn,{},-6.5,134.166666667,Papunesia,,Tarangan (West),756,False,False
+mairasi,,448,mrs,zrs,{},-3.5,134.0,Papunesia,,Mairasi,1084,False,False
+sougb,,151,sgb,mnx,{},-1.5,134.0,Papunesia,,Sougb,1530,False,False
+hatam,,495,hat,had,{},-1.0,134.0,Papunesia,,Hatam,2293,False,False
+meyah,,151,mea,mej,{},-1.16666666667,133.5,Papunesia,,Meyah,1612,False,False
+irarutu,,79,irr,irh,{},-3.0,133.5,Papunesia,,Irarutu,2077,False,False
+mpur,,492,mpu,akc,{},-0.75,133.25,Papunesia,,Mpur,1519,False,False
+arandai,,247,ard,jbj,{},-2.08333333333,133.0,Papunesia,,Arandai,15,False,False
+kei,,75,kei,kei,{},-5.83333333333,132.916666667,Papunesia,,Kei,987,False,False
+baham,,488,bdw,bdw,{},-3.16666666667,132.666666667,Papunesia,,Baham,2646,False,False
+abun,,493,abu,kgr,{},-0.5,132.5,Papunesia,,Abun,2245,False,False
+maybrat,,493,may,ayz,{},-1.33333333333,132.5,Papunesia,,Maybrat,2505,True,True
+iha,,488,iha,ihp,{},-2.91666666667,132.25,Papunesia,,Iha,878,False,False
+sonsoroltobi,,87,son,sov,{},5.33333333333,132.25,Papunesia,,Sonsorol-Tobi,1739,False,False
+inanwatan,,247,ina,szp,{},-2.08333333333,132.083333333,Papunesia,,Inanwatan,332,False,False
+tehit,,491,tht,kps,{},-1.5,132.0,Papunesia,,Tehit,607,False,False
+yamdena,,75,ymd,jmd,{},-7.5,131.5,Papunesia,,Yamdena,849,False,False
+fordata,,75,frd,frd,{},-6.75,131.5,Papunesia,,Fordata,924,False,False
+selaru,,75,sru,slu,{},-8.2,131.0,Papunesia,,Selaru,746,False,False
+maya,,79,mya,slz,{},-1.25,130.916666667,Papunesia,,Ma'ya,1254,False,False
+nuaulu,,75,nua,"nni, nxl",{},-3.25,129.166666667,Papunesia,,Nuaulu,2067,False,False
+paulohi,,75,plh,plh,{},-3.25,128.75,Papunesia,,Paulohi,1941,False,False
+buliinindonesia,,79,bui,bzq,{},1.0,128.5,Papunesia,,Buli (in Indonesia),1105,False,False
+tobelo,,494,tlo,tlb,{},1.5,128.5,Papunesia,,Tobelo,1710,False,False
+galela,,494,gll,gbi,{},2.41666666667,128.333333333,Papunesia,,Galela,1169,False,False
+alune,,75,aln,alp,{},-3.0,128.333333333,Papunesia,,Alune,1858,False,False
+wetan,,75,wet,lex,{},-8.16666666667,128.0,Papunesia,,Wetan,767,False,False
+sawai,,79,swi,szw,{},0.5,128.0,Papunesia,,Sawai,834,False,False
+larike,,75,lrk,alo,{},-3.75,127.916666667,Papunesia,,Larike,1183,False,False
+pagu,,494,pag,pgu,{},1.25,127.75,Papunesia,,Pagu,581,False,False
+leti,,75,let,lti,{},-8.2,127.666666667,Papunesia,,Leti,1726,False,False
+westmakian,,494,wma,mqs,{},0.5,127.583333333,Papunesia,,West Makian,2243,False,False
+sahu,,494,sah,saj,{},1.16666666667,127.5,Papunesia,,Sahu,2165,False,False
+tidore,,494,tid,tvo,{},0.75,127.5,Papunesia,,Tidore,2256,False,False
+taba,,79,tab,mky,{},0.0,127.5,Papunesia,,Taba,2437,False,True
+tabaru,,494,tbr,tby,{},1.5,127.25,Papunesia,,Tabaru,754,False,False
+ternate,,494,trt,tft,{},0.833333333333,127.25,Papunesia,,Ternate,757,False,False
+kisar,,75,ksr,kje,{},-8.08333333333,127.116666667,Papunesia,,Kisar,806,False,False
+talaud,,524,tld,tld,{},4.25,126.75,Papunesia,,Talaud,605,False,False
+tugun,,75,tgn,tzn,{},-7.71666666667,126.75,Papunesia,,Tugun,1491,False,False
+buru,,75,buu,mhs,{},-3.5,126.5,Papunesia,,Buru,1676,False,False
+makasae,,416,mkj,mkz,{},-8.66666666667,126.5,Papunesia,,Makasae,2643,False,False
+tetun,,75,ttn,tet,{},-9.0,126.0,Papunesia,,Tetun,2255,False,False
+tetundili,,75,ttd,tet,{},-8.58333333333,125.583333333,Papunesia,,Tetun Dili,2633,False,False
+sangir,,524,sgr,sxn,{},3.5,125.5,Papunesia,,Sangir,595,False,False
+mamanwa,,513,mmn,mmn,{},9.41666666667,125.5,Papunesia,,Mamanwa,1694,False,False
+bilaan,,517,biq,"bps, smk",{},6.0,125.333333333,Papunesia,,Bilaan,36,False,False
+kolana,,415,kln,kvw,{},-8.25,125.116666667,Papunesia,,Kolana,361,False,False
+tanglapui,,415,tgp,swt,{},-8.28333333333,125.083333333,Papunesia,,Tanglapui,840,False,False
+waraywaray,,513,wwy,war,{},12.0,125.0,Papunesia,,Waray-Waray,247,False,False
+kulamanen,,513,kuz,mbt,{},7.75,125.0,Papunesia,,Kulamanen,552,False,False
+tondano,,523,tno,tdn,{},1.25,125.0,Papunesia,,Tondano,1987,False,False
+binukid,,513,bkd,bkd,{},8.25,124.833333333,Papunesia,,Binukid,515,False,False
+toratan,,524,tor,rth,{},1.08333333333,124.833333333,Papunesia,,Toratán,1053,False,False
+manadonese,,519,mds,xmm,{},1.5,124.833333333,Papunesia,,Manadonese,1466,False,False
+woisika,,417,woi,woi,{},-8.25,124.833333333,Papunesia,,Woisika,1884,False,False
+bantik,,524,bnt,bnq,{},1.41666666667,124.75,Papunesia,,Bantik,645,False,False
+manobowesternbukidnon,,513,mwb,mbb,{},7.66666666667,124.75,Papunesia,,Manobo (Western Bukidnon),1765,False,False
+abui,,417,abv,abz,{},-8.25,124.666666667,Papunesia,,Abui,2644,False,False
+kuiinindonesia,,417,kiu,kvd,{},-8.43333333333,124.55,Papunesia,,Kui (in Indonesia),810,False,False
+magindanao,,513,mgn,mdh,{},6.83333333333,124.5,Papunesia,,Magindanao,158,False,False
+timorese,,75,tse,aoz,{},-9.66666666667,124.5,Papunesia,,Timorese,611,False,False
+tontemboan,,523,tnt,tnt,{},1.08333333333,124.5,Papunesia,,Tontemboan,612,False,False
+tboli,,517,tbo,tbl,{},6.16666666667,124.5,Papunesia,,Tboli,1881,False,False
+maranao,,513,mrn,mrw,{},7.83333333333,124.25,Papunesia,,Maranao,1189,False,False
+tiruray,,517,try,tiy,{},6.75,124.166666667,Papunesia,,Tiruray,1489,False,False
+mongondow,,513,mgd,mog,{},0.666666666667,124.0,Papunesia,,Mongondow,566,False,False
+cebuano,,513,ceb,ceb,{},10.0,124.0,Papunesia,,Cebuano,2018,False,False
+adang,,417,adg,adn,{},-8.2,124.0,Papunesia,,Adang,2645,False,False
+kedang,,75,ked,ksx,{},-8.25,123.75,Papunesia,,Kedang,1245,False,False
+bikol,,513,bkl,bcl,{},13.3333333333,123.5,Papunesia,,Bikol,1672,False,False
+tukangbesi,,526,tuk,"bhq, khc",{},-5.5,123.5,Papunesia,,Tukang Besi,2506,True,True
+balantak,,526,blk,blz,{},-0.833333333333,123.25,Papunesia,,Balantak,642,False,False
+roti,,75,rti,twu,{},-10.6666666667,123.25,Papunesia,,Roti,1006,False,False
+banggai,,526,bgg,bgz,{},-1.41666666667,123.166666667,Papunesia,,Banggai,860,False,False
+hiligaynon,,513,hil,hil,{},10.25,123.0,Papunesia,,Hiligaynon,1550,False,False
+bajausama,,76,baj,bdl,{},-4.33333333333,123.0,Papunesia,,Bajau (Sama),1948,False,False
+lamaholot,,75,lmh,slp,{},-8.25,122.916666667,Papunesia,,Lamaholot,1554,False,False
+wolio,,526,wlo,wlo,{},-5.5,122.75,Papunesia,,Wolio,1885,False,False
+muna,,526,mna,mnb,{},-5.0,122.5,Papunesia,,Muna,2269,False,False
+aklanon,,513,akl,akl,{},11.5833333333,122.333333333,Papunesia,,Aklanon,629,False,False
+sika,,75,sik,ski,{},-8.7,122.25,Papunesia,,Sika,216,False,False
+chavacano,,331,cvc,cbk,{},7.0,122.083333333,Papunesia,,Chavacano,788,False,False
+agtadupaningan,,513,agd,duo,{},18.0,122.083333333,Papunesia,,Agta (Dupaningan),2630,False,False
+gorontalo,,513,grt,gor,{},0.5,122.0,Papunesia,,Gorontalo,87,False,False
+ivatan,,516,iva,ivv,{},20.5,122.0,Papunesia,,Ivatan,118,False,False
+dumagatcasiguran,,514,dca,dgc,{},16.3333333333,122.0,Papunesia,,Dumagat (Casiguran),314,False,False
+yakan,,76,ykn,yka,{},6.5,122.0,Papunesia,,Yakan,771,False,False
+sawu,,75,saw,hvn,{},-11.5,121.916666667,Papunesia,,Sawu,1621,False,False
+samabalangingi,,76,sbg,sse,{},6.16666666667,121.833333333,Papunesia,,Sama (Balangingi),594,False,False
+ivatansouthern,,516,ivs,ivv,{},20.3333333333,121.833333333,Papunesia,,Ivatan (Southern),1239,False,False
+agtacentral,,513,agc,agt,{},17.9666666667,121.833333333,Papunesia,,Agta (Central),1822,False,False
+ibanag,,514,ibn,ibg,{},17.5,121.666666667,Papunesia,,Ibanag,105,False,False
+itawis,,514,itw,itv,{},17.75,121.5,Papunesia,,Itawis,337,False,False
+yami,,516,ymi,tao,{},22.0,121.5,Papunesia,,Yami,487,False,False
+seediq,,89,see,trv,{},24.1666666667,121.416666667,Papunesia,,Seediq,1708,False,False
+padoe,,526,pad,pdo,{},-2.33333333333,121.333333333,Papunesia,,Padoe,828,False,False
+amis,,539,ami,ami,{},23.3333333333,121.333333333,Papunesia,,Amis,910,False,False
+atayal,,89,ata,tay,{},24.5,121.333333333,Papunesia,,Atayal,2143,False,False
+keo,,75,keo,xxk,{},-8.83333333333,121.25,Papunesia,,Ke'o,131,False,False
+hanunoo,,513,hnn,hnn,{},12.3333333333,121.25,Papunesia,,Hanunóo,797,False,False
+balangao,,514,blg,blw,{},17.1666666667,121.166666667,Papunesia,,Balangao,641,False,False
+ifugaobatad,,514,ifu,ifb,{},16.8333333333,121.083333333,Papunesia,,Ifugao (Batad),1801,False,False
+isnag,,514,isn,isd,{},18.25,121.0,Papunesia,,Isnag,112,False,False
+taiwanesesignlanguageziranshouyu,,330,tzi,tss,{},24.0,121.0,Papunesia,,Taiwanese Sign Language (Ziran Shouyu),455,False,False
+tausug,,513,tsg,tsg,{},6.0,121.0,Papunesia,,Tausug,1487,False,False
+ilocano,,514,ilo,ilo,{},16.0,121.0,Papunesia,,Ilocano,1641,False,False
+ngada,,75,ngd,nxg,{},-8.83333333333,121.0,Papunesia,,Ngad'a,1811,False,False
+tagalog,,513,tag,tgl,{},15.0,121.0,Papunesia,,Tagalog,2525,True,True
+thao,,540,thw,ssf,{},23.8833333333,120.916666667,Papunesia,,Thao,232,False,False
+bontok,,514,btk,bnc,{},17.0833333333,120.916666667,Papunesia,,Bontok,1791,False,False
+karao,,514,kao,kyj,{},16.5,120.833333333,Papunesia,,Karao,126,False,False
+pamona,,526,pna,pmf,{},-1.75,120.833333333,Papunesia,,Pamona,1001,False,False
+rukai,,522,ruk,dru,{},22.8333333333,120.833333333,Papunesia,,Rukai (Tanan),2140,False,False
+paiwan,,86,pai,pwn,{},22.5,120.833333333,Papunesia,,Paiwan,2399,True,True
+tsou,,96,tso,tsu,{},23.5,120.75,Papunesia,,Tsou,1742,False,False
+kankanay,,514,kky,kne,{},16.75,120.583333333,Papunesia,,Kankanay,347,False,False
+selayar,,525,sly,sly,{},-6.0,120.5,Papunesia,,Selayar,747,False,False
+kapampangan,,515,kpm,pam,{},15.3333333333,120.5,Papunesia,,Kapampangan,1869,False,False
+napu,,526,npu,npy,{},-1.33333333333,120.416666667,Papunesia,,Napu,724,False,False
+konjo,,525,kjo,kjc,{},-5.46666666667,120.333333333,Papunesia,,Konjo,1122,False,False
+pangasinan,,514,pnn,pag,{},15.9166666667,120.333333333,Papunesia,,Pangasinan,1775,False,False
+manggarai,,75,mng,mqy,{},-8.5,120.333333333,Papunesia,,Manggarai,1935,False,False
+siraya,,539,sry,fos,{},23.0,120.25,Papunesia,,Siraya,217,False,False
+kambera,,75,kam,xbr,{},-9.83333333333,120.166666667,Papunesia,,Kambera,2096,False,False
+kaili,,526,kli,lew,{},-1.16666666667,120.0,Papunesia,,Kaili,544,False,False
+lauje,,526,lje,law,{},-0.5,120.0,Papunesia,,Lauje,554,False,False
+uma,,526,uma,ppk,{},-1.83333333333,120.0,Papunesia,,Uma,1281,False,False
+bugis,,525,bug,bug,{},-4.0,120.0,Papunesia,,Bugis,1298,False,False
+toraja,,525,trd,sda,{},-3.0,119.75,Papunesia,,Toraja,613,False,False
+mamasa,,525,mms,mqj,{},-3.08333333333,119.666666667,Papunesia,,Mamasa,556,False,False
+daa,,526,daa,kzf,{},-1.0,119.583333333,Papunesia,,Da'a,521,False,False
+makassar,,525,mks,mak,{},-5.41666666667,119.583333333,Papunesia,,Makassar,988,False,False
+aralletabulahan,,525,atb,atq,{},-2.75,119.25,Papunesia,,Aralle-Tabulahan,507,False,False
+batak,,513,bat,bya,{},10.25,119.083333333,Papunesia,,Batak,31,False,False
+mandar,,525,mnr,mdr,{},-3.41666666667,119.083333333,Papunesia,,Mandar,165,False,False
+bambam,,525,bbm,ptu,{},-3.08333333333,119.083333333,Papunesia,,Bambam,643,False,False
+begakidaan,,518,beg,dbj,{},5.25,118.833333333,Papunesia,,Begak-Ida'an,657,False,False
+samasouthern,,76,bjs,ssb,{},4.5,118.5,Papunesia,,Sama (Southern),26,False,False
+tagbanwaaborlan,,513,tgb,tbw,{},9.5,118.5,Papunesia,,Tagbanwa (Aborlan),222,False,False
+bima,,75,bim,bhp,{},-8.5,118.5,Papunesia,,Bima,514,False,False
+kadazan,,518,kdz,kzj,{},5.91666666667,117.166666667,Papunesia,,Kadazan,1509,False,False
+banggi,,73,bgz,bdg,{},7.25,117.166666667,Papunesia,,Banggi,2631,False,False
+kutai,,519,kuy,vkt,{},-0.333333333333,116.666666667,Papunesia,,Kutai,144,False,False
+bajauwestcoast,,76,bwc,bdr,{},6.33333333333,116.333333333,Papunesia,,Bajau (West Coast),2632,False,False
+timugon,,518,tim,tih,{},5.0,116.0,Papunesia,,Timugon,1817,False,False
+lundayeh,,518,lud,lnd,{},4.0,115.916666667,Papunesia,,Lun Dayeh,152,False,False
+saban,,518,sab,snv,{},3.66666666667,115.666666667,Papunesia,,Sa'ban,1198,False,False
+tatana,,518,tat,txx,{},5.5,115.5,Papunesia,,Tatana',1145,False,False
+kelabit,,518,klt,kzi,{},3.66666666667,115.416666667,Papunesia,,Kelabit,132,False,False
+balinese,,519,bal,ban,{},-8.33333333333,115.25,Papunesia,,Balinese,1294,False,False
+katakolok,,330,kkl,bqy,{},-8.25,115.166666667,Papunesia,,Kata Kolok,352,False,False
+maanyan,,73,myn,mhy,{},-2.0,115.0,Papunesia,,Ma'anyan,1514,False,False
+kayanbaram,,518,kbr,kys,{},3.5,114.5,Papunesia,,Kayan (Baram),129,False,False
+narom,,518,nrm,nrm,{},4.41666666667,114.0,Papunesia,,Narom,184,False,False
+madurese,,519,mdr,mad,{},-7.0,113.5,Papunesia,,Madurese,1039,False,False
+olohmangtangai,,73,olm,nij,{},-0.833333333333,113.0,Papunesia,,Oloh Mangtangai,733,False,False
+embaloh,,525,eml,emb,{},1.16666666667,112.333333333,Papunesia,,Embaloh,58,False,False
+iban,,519,iba,iba,{},2.0,112.0,Papunesia,,Iban,2152,False,False
+melanau,,518,mel,mel,{},2.5,111.5,Papunesia,,Melanau,171,False,False
+mentuhtapuh,,95,mta,sdo,{},1.25,111.0,Papunesia,,Mentuh Tapuh,720,False,False
+javanese,,90,jav,jav,{},-7.0,111.0,Papunesia,,Javanese,1896,False,False
+semandang,,95,smd,sdm,{},-0.75,110.5,Papunesia,,Semandang,214,False,False
+biatah,,95,bit,bth,{},1.25,110.0,Papunesia,,Biatah,35,False,False
+pulopetak,,73,plp,nij,{},1.41666666667,109.833333333,Papunesia,,Pulopetak,584,False,False
+melayubetawi,,331,meb,bew,{},-6.5,107.0,Papunesia,,Melayu Betawi,560,False,False
+sundanese,,519,sun,sun,{},-7.0,107.0,Papunesia,,Sundanese,2233,False,False
+indonesianjakarta,,519,inj,ind,{},-6.16666666667,106.75,Papunesia,,Indonesian (Jakarta),109,False,False
+indonesian,,519,ind,ind,{},0.0,106.0,Papunesia,,Indonesian,2545,True,True
+lampung,,88,lmp,ljp,{},-5.0,105.0,Papunesia,,Lampung,2000,False,False
+kayuagung,,88,kag,kge,{},-3.16666666667,104.916666667,Papunesia,,Kayu Agung,130,False,False
+rejang,,84,rej,rej,{},-3.41666666667,102.5,Papunesia,,Rejang,586,False,False
+enggano,,520,eno,eno,{},-5.41666666667,102.25,Papunesia,,Enggano,1795,False,False
+minangkabau,,519,min,min,{},-1.0,101.0,Papunesia,,Minangkabau,2063,False,False
+mentawai,,521,mnt,mwv,{},-1.5,99.0,Papunesia,,Mentawai,991,False,False
+bataktoba,,521,bto,bbc,{},2.5,99.0,Papunesia,,Batak (Toba),2201,False,False
+batakkaro,,521,bkr,btx,{},3.25,98.25,Papunesia,,Batak (Karo),2418,False,True
+alas,,521,alx,btz,{},3.66666666667,97.8333333333,Papunesia,,Alas,9,False,False
+nias,,521,nia,nia,{},1.0,97.75,Papunesia,,Nias,2081,False,False
+gayo,,521,gay,gay,{},4.5,97.5,Papunesia,,Gayo,679,False,False
+simeulue,,521,sim,smr,{},2.5,96.25,Papunesia,,Simeulue,1275,False,False
+sikule,,521,skl,skh,{},2.66666666667,96.0,Papunesia,,Sikule,599,False,False
+rapanui,,87,rap,rap,{},-27.1166666667,-109.366666667,Papunesia,,Rapanui,2485,True,True
+marquesan,,87,mrq,"mqm, mrq",{},-8.91666666667,-140.083333333,Papunesia,,Marquesan,557,False,False
+tuamotuan,,87,tua,pmt,{},-17.0,-144.0,Papunesia,,Tuamotuan,905,False,False
+tahitian,,87,tah,tah,{},-17.6666666667,-149.583333333,Papunesia,,Tahitian,2211,False,False
+hawaiian,,87,haw,haw,{},19.5833333333,-155.5,Papunesia,,Hawaiian,2350,False,False
+niuean,,87,niu,niu,{},-19.05,-170.116666667,Papunesia,,Niuean,2118,False,False
+samoan,,87,sam,smo,{},-13.9166666667,-171.833333333,Papunesia,,Samoan,2304,False,False
+tokelauan,,87,tke,tkl,{},-9.0,-172.0,Papunesia,,Tokelauan,1374,False,False
+tongan,,87,tng,ton,{},-21.1666666667,-175.166666667,Papunesia,,Tongan,2107,False,False
+niuafoou,,87,nif,num,{},-15.5666666667,-175.616666667,Papunesia,,Niuafo'ou,422,False,False
+wallisian,,87,wll,wls,{},-13.3,-176.2,Papunesia,,Wallisian,617,False,False
+futunaeast,,87,fue,fud,{},-14.3333333333,-178.166666667,Papunesia,,Futuna (East),981,False,False

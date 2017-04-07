@@ -1,0 +1,398 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+beothuk,,108,beo,bue,{},48.0,-57.0,North America,,Beothuk,286,False,False
+martiniquecreole,,331,mqc,gcf,{},14.6666666667,-61.0,North America,,Martinique Creole,168,False,False
+lesserantilleanfrenchcreole,,331,lcr,"acf, gcf",{},15.0,-61.1666666667,North America,,Lesser Antillean French Creole,375,False,False
+guadeloupecreole,,331,gdl,gcf,{},16.25,-61.5,North America,,Guadeloupe Creole,89,False,False
+micmac,,17,mic,mic,{},45.0,-63.0,North America,,Micmac,992,False,False
+montagnais,,17,mtg,moe,{},52.0,-65.0,North America,,Montagnais,993,False,False
+passamaquoddymaliseet,,17,psm,pqm,{},45.0,-67.0,North America,,Passamaquoddy-Maliseet,2385,False,True
+papiamentu,,331,pap,pap,{},12.25,-69.0,North America,,Papiamentu,894,False,False
+naskapi,,17,nsk,nsk,{},56.0,-70.0,North America,,Naskapi,413,False,False
+massachusett,,17,mtt,wam,{},42.5,-71.0,North America,,Massachusett,1407,False,False
+abenakiwestern,,17,abw,abe,{},44.0,-72.25,North America,,Abenaki (Western),267,False,False
+haitiancreole,,331,hcr,hat,{},19.0,-72.5,North America,,Haitian Creole,984,False,False
+inuktitutquebeclabrador,,158,iql,ike,{},62.0,-73.0,North America,,Inuktitut (Quebec-Labrador),688,False,False
+mahican,,17,mhc,mof,{},42.6666666667,-73.5,North America,,Mahican,385,False,False
+atikamekw,,17,ati,atj,{},48.0,-74.0,North America,,Atikamekw,277,False,False
+mohawk,,192,moh,moh,{},43.5,-74.25,North America,,Mohawk,2065,False,False
+munsee,,17,mse,umu,{},41.5,-74.6666666667,North America,,Munsee,995,False,False
+languedessignesquebecoise,,330,lsq,fcs,{},48.0,-75.0,North America,,Langue des Signes Québecoise,369,False,False
+unami,,17,unm,unm,{},40.0,-75.1666666667,North America,,Unami,761,False,False
+oneida,,192,ond,one,{},43.0,-75.6666666667,North America,,Oneida,2441,True,True
+inuktitutsalluit,,158,ins,ike,{},62.0,-76.0,North America,,Inuktitut (Salluit),689,False,False
+onondaga,,192,onn,ono,{},42.75,-76.1666666667,North America,,Onondaga,425,False,False
+nanticoke,,17,nnt,nnt,{},38.0,-76.25,North America,,Nanticoke,183,False,False
+powhatan,,17,pow,pim,{},37.3333333333,-76.5,North America,,Powhatan,436,False,False
+cayuga,,192,cyg,cay,{},42.75,-76.75,North America,,Cayuga,787,False,False
+algonquin,,17,alg,alq,{},46.0,-77.0,North America,,Algonquin,272,False,False
+jamaicancreole,,331,jcr,jam,{},18.1666666667,-77.25,North America,,Jamaican Creole,120,False,False
+wyandot,,192,wya,wya,{},44.3333333333,-77.5,North America,,Wyandot,1013,False,False
+tuscarora,,192,tus,tus,{},36.0,-77.5,North America,,Tuscarora,1916,False,False
+seneca,,192,snc,see,{},42.5,-77.5,North America,,Seneca,2209,False,False
+americansignlanguage,,330,asl,ase,{},39.0,-78.0,North America,,American Sign Language,274,False,False
+tutelo,,391,tte,tta,{},37.6666666667,-78.75,North America,,Tutelo,1574,False,False
+ojibwaeastern,,17,oji,"ojg, otw",{},46.0,-80.0,North America,,Ojibwa (Eastern),2207,False,False
+catawba,,569,ctw,chc,{},35.5,-80.5,North America,,Catawba,1106,False,False
+buglere,,122,bgl,sab,{},8.5,-81.25,North America,,Buglere,660,False,False
+ngabere,,122,nbr,gym,{},8.66666666667,-82.0,North America,,Ngäbere,2117,False,False
+timucua,,419,tmc,tjm,{},30.25,-82.5,North America,,Timucua,1534,False,False
+teribe,,123,trb,tfr,{},9.33333333333,-82.6666666667,North America,,Teribe,2195,False,False
+shawnee,,17,shw,sjw,{},40.0,-83.0,North America,,Shawnee,597,False,False
+fox,,17,fox,sac,{},43.0,-83.0,North America,,Fox,873,False,False
+bribri,,123,bri,bzd,{},9.41666666667,-83.0,North America,,Bribri,2310,False,True
+boruca,,123,brc,brn,{},8.83333333333,-83.25,North America,,Boruca,290,False,False
+cabecar,,123,cab,cjp,{},9.75,-83.4166666667,North America,,Cabécar,293,False,False
+cherokee,,191,che,chr,{},35.5,-83.5,North America,,Cherokee,2214,False,False
+miskito,,251,mis,miq,{},14.0,-83.6666666667,North America,,Miskito,2239,False,False
+rama,,125,ram,rma,{},11.75,-83.75,North America,,Rama,2468,True,True
+kickapoo,,17,kic,kic,{},42.25,-84.0,North America,,Kickapoo,929,False,False
+seminole,,260,smn,mus,{},33.0,-84.0,North America,,Seminole,1479,False,False
+sumu,,251,sum,sum,{},13.0,-84.5,North America,,Sumu,604,False,False
+potawatomi,,17,pot,pot,{},44.5,-85.0,North America,,Potawatomi,435,False,False
+creek,,260,crk,mus,{},34.0,-85.0,North America,,Creek,922,False,False
+mikasuki,,260,mki,mik,{},32.0,-85.0,North America,,Mikasuki,1409,False,False
+koasati,,260,koa,cku,{},34.8333333333,-85.1666666667,North America,,Koasati,2459,True,True
+pech,,126,pec,pay,{},15.0,-85.5,North America,,Pech,1981,False,False
+yuchi,,504,yuc,yuc,{},35.75,-86.75,North America,,Yuchi,2359,False,True
+tol,,420,tol,jic,{},14.6666666667,-87.0,North America,,Tol,2087,False,False
+alabama,,260,abm,akz,{},32.3333333333,-87.4166666667,North America,,Alabama,1787,False,False
+chickasaw,,260,cck,cic,{},34.0,-88.0,North America,,Chickasaw,1444,False,False
+garifuna,,550,grf,cab,{},15.6666666667,-88.0,North America,,Garífuna,1995,False,False
+menomini,,17,men,mez,{},45.5,-88.3333333333,North America,,Menomini,2079,False,False
+winnebago,,391,wnb,win,{},43.5,-88.5,North America,,Winnebago,965,False,False
+choctaw,,260,cct,cho,{},32.25,-88.5,North America,,Choctaw,2186,False,False
+mopan,,250,mop,mop,{},16.5833333333,-88.6666666667,North America,,Mopan,820,False,False
+biloxi,,391,blx,bll,{},30.5,-88.6666666667,North America,,Biloxi,1949,False,False
+miskitocoastenglishcreole,,331,mce,bzj,{},16.25,-88.8333333333,North America,,Mískito Coast English Creole,173,False,False
+yucatec,,250,yct,yua,{},20.0,-89.0,North America,,Yucatec,1744,False,False
+chorti,,250,coi,caa,{},14.8333333333,-89.25,North America,,Chortí,665,False,False
+pipil,,476,pip,ppl,{},13.8333333333,-89.5833333333,North America,,Pipil,2324,False,False
+pocomamoriental,,250,poc,poa,{},14.75,-89.75,North America,,Pocomam Oriental,433,False,False
+itzaj,,250,itz,itz,{},17.0,-89.8333333333,North America,,Itzaj,1307,False,False
+kekchi,,250,kek,kek,{},16.0,-89.8333333333,North America,,K'ekchí,1356,False,False
+illinois,,17,ill,mia,{},40.0,-90.0,North America,,Illinois,331,False,False
+ojibwasevern,,17,ojs,ojs,{},53.0,-90.0,North America,,Ojibwa (Severn),893,False,False
+creeswampy,,17,cea,"crj, csw",{},56.0,-90.0,North America,,Cree (Swampy),1591,False,False
+achi,,250,aci,"acc, acr",{},15.1666666667,-90.5,North America,,Achí,2,False,False
+pocomam,,250,pcm,poc,{},14.6666666667,-90.5,North America,,Pocomam,201,False,False
+pokomchi,,250,pkm,"pob, poh",{},15.4166666667,-90.5,North America,,Pokomchí,738,False,False
+ixil,,250,ixi,"ixi, ixl",{},15.5,-91.0,North America,,Ixil,1173,False,False
+cakchiquel,,250,cak,ckf,{},14.5,-91.0,North America,,Cakchiquel,1716,False,False
+chitimacha,,134,ctm,ctm,{},29.6666666667,-91.0,North America,,Chitimacha,2040,False,False
+tunica,,453,tun,tun,{},32.6666666667,-91.0,North America,,Tunica,2381,False,True
+aguacatec,,250,agu,agu,{},15.4166666667,-91.3333333333,North America,,Aguacatec,1060,False,False
+natchez,,271,nat,ncz,{},31.75,-91.3333333333,North America,,Natchez,1472,False,False
+tzutujil,,250,tzu,"tzj, tzt",{},14.6666666667,-91.3333333333,North America,,Tzutujil,2325,False,False
+quiche,,250,qch,quc,{},15.0,-91.4166666667,North America,,Quiché,948,False,False
+tojolabal,,250,toj,toj,{},16.3333333333,-91.5,North America,,Tojolabal,1010,False,False
+lacandon,,250,lac,lac,{},17.0,-91.5,North America,,Lacandón,1463,False,False
+chuj,,250,chj,"cac, cnm",{},15.9166666667,-91.5833333333,North America,,Chuj,1109,False,False
+mamsouthern,,250,mmz,mms,{},14.8333333333,-91.6666666667,North America,,Mam (Southern),81,False,False
+kanjobaleastern,,250,kea,kjb,{},15.3333333333,-91.6666666667,North America,,Kanjobal (Eastern),346,False,False
+jakaltek,,250,jak,"jac, jai",{},15.6666666667,-91.6666666667,North America,,Jakaltek,2487,True,True
+sipakapense,,250,qum,qum,{},15.25,-91.75,North America,,Sipakapense,2662,False,False
+kanjobalwestern,,250,kwe,knj,{},15.8333333333,-91.8333333333,North America,,Kanjobal (Western),803,False,False
+mam,,250,mam,mvc,{},15.0,-91.8333333333,North America,,Mam,2252,False,False
+inuktitutrankininlet,,158,inr,ikt,{},63.0,-92.0,North America,,Inuktitut (Rankin Inlet),334,False,False
+tzeltalbachajon,,250,tzb,tzb,{},16.9166666667,-92.0,North America,,Tzeltal (Bachajón),477,False,False
+teco,,250,tec,ttc,{},15.4166666667,-92.0833333333,North America,,Teco,230,False,False
+chicomuceltec,,250,cec,cob,{},15.5,-92.25,North America,,Chicomuceltec,301,False,False
+tzeltal,,250,tze,"tzb, tzh",{},16.8333333333,-92.25,North America,,Tzeltal,476,False,False
+tzeltaltenejapa,,250,tzt,tzh,{},16.6666666667,-92.3333333333,North America,,Tzeltal (Tenejapa),478,False,False
+ojibweminnesota,,17,ojm,ciw,{},47.6666666667,-92.5,North America,,Ojibwe (Minnesota),732,False,False
+chol,,250,col,"cti, ctu",{},17.75,-92.5,North America,,Chol,789,False,False
+tzeltalaguacatenango,,250,tza,tzh,{},16.4166666667,-92.5,North America,,Tzeltal (Aguacatenango),1280,False,False
+chontalmaya,,250,cmy,chf,{},18.1666666667,-92.5833333333,North America,,Chontal Maya,1925,False,False
+tzotzil,,250,tzo,tzc,{},16.5,-92.6666666667,North America,,Tzotzil,1853,False,False
+tzotzilsanandres,,250,tzs,tzs,{},17.0,-92.8333333333,North America,,Tzotzil (San Andrés),479,False,False
+tzotzilzinacantan,,250,tzz,tzz,{},16.8333333333,-92.8333333333,North America,,Tzotzil (Zinacantán),615,False,False
+zoquerayon,,252,zqr,zor,{},17.0833333333,-93.0,North America,,Zoque (Rayon),264,False,False
+zoquefranciscoleon,,252,zfl,zos,{},17.3333333333,-93.25,North America,,Zoque (Francisco León),496,False,False
+zoquecopainala,,252,zqc,zoc,{},17.0,-93.25,North America,,Zoque (Copainalá),2417,True,True
+zoqueostuacan,,252,zqo,zoc,{},17.4166666667,-93.3,North America,,Zoque (Ostuacan),1059,False,False
+dakota,,391,dak,dak,{},45.0,-93.5,North America,,Dakota,870,False,False
+caddo,,115,cad,cad,{},33.3333333333,-93.5,North America,,Caddo,1221,False,False
+atakapa,,27,atk,aqp,{},30.0,-93.5,North America,,Atakapa,1824,False,False
+osage,,391,osa,osa,{},37.0,-94.0,North America,,Osage,1565,False,False
+nahuatlpajapan,,476,npa,nhp,{},18.25,-94.75,North America,,Nahuatl (Pajapan),410,False,False
+zoquechimalapa,,252,zch,zoh,{},16.75,-94.75,North America,,Zoque (Chimalapa),1785,False,False
+nahuatlmecayapanisthmus,,476,nmi,nhx,{},18.25,-94.8333333333,North America,,Nahuatl (Mecayapan Isthmus),889,False,False
+chippewaredlakeandpillager,,17,cpw,ciw,{},48.0,-95.0,North America,,Chippewa (Red Lake and Pillager),45,False,False
+sayultec,,252,say,pos,{},17.8333333333,-95.0,North America,,Sayultec,745,False,False
+olutec,,252,olu,plo,{},17.95,-95.0,North America,,Olutec,825,False,False
+cheyenne,,17,cyn,chy,{},47.0,-95.0,North America,,Cheyenne,920,False,False
+zapotecisthmus,,332,zai,zai,{},16.416667,-95.0,North America,,Zapotec (Isthmus),2015,False,False
+huavesanmateodelmar,,178,hve,huv,{},16.2166666667,-95.0,North America,,Huave (San Mateo del Mar),2283,False,False
+zoquesoteapan,,252,zqs,poi,{},18.3333333333,-95.1666666667,North America,,Zoque (Soteapan),1435,False,False
+mixecoatlan,,252,mco,mco,{},16.9166666667,-95.6666666667,North America,,Mixe (Coatlán),1557,False,False
+chontalhighland,,413,cho,chd,{},16.25,-95.75,North America,,Chontal (Highland),1107,False,False
+chontalhuamelultecoaxaca,,413,chx,clo,{},16.0,-95.75,North America,,Chontal (Huamelultec Oaxaca),1540,False,False
+chinanteclealao,,335,cle,cle,{},17.3333333333,-95.9166666667,North America,,Chinantec (Lealao),2414,False,True
+oto,,391,oto,iow,{},40.5,-96.0,North America,,Oto,578,False,False
+mixetotontepec,,252,mtp,mto,{},17.25,-96.0,North America,,Mixe (Totontepec),1365,False,False
+zapotecquiegolani,,332,zaq,zpi,{},16.1666666667,-96.0833333333,North America,,Zapotec (Quiegolani),852,False,False
+mixetlahuitoltepec,,252,mth,mxp,{},17.0833333333,-96.1666666667,North America,,Mixe (Tlahuitoltepec),397,False,False
+zapotecyatzachi,,332,zya,zav,{},17.2,-96.2,North America,,Zapotec (Yatzachi),1629,False,False
+zapoteczoogocho,,332,zzo,zpq,{},17.25,-96.25,North America,,Zapotec (Zoogocho),495,False,False
+zapotecmitla,,332,zap,zaw,{},16.8,-96.25,North America,,Zapotec (Mitla),1820,False,False
+zapotecmixtepec,,332,zam,zpm,{},16.3333333333,-96.3333333333,North America,,Zapotec (Mixtepec),494,False,False
+popolocasanjuanatzingo,,339,psj,poe,{},18.1666666667,-96.4166666667,North America,,Popoloca (San Juan Atzingo),1265,False,False
+chinanteccomaltepec,,335,ccm,cco,{},17.5833333333,-96.4166666667,North America,,Chinantec (Comaltepec),2039,False,False
+zapotecsanlucasquiavini,,332,zsq,zab,{},16.9,-96.4666666667,North America,,Zapotec (San Lucas Quiaviní),967,False,False
+nahuatlpochutla,,476,nhp,,{},15.75,-96.5,North America,,Nahuatl (Pochutla),182,False,False
+zapotecixtlan,,332,zpi,zpd,{},17.25,-96.5,North America,,Zapotec (Ixtlan),262,False,False
+chinantecsanfelipeusila,,335,csf,cuc,{},17.9166666667,-96.5,North America,,Chinantec (San Felipe Usila),303,False,False
+chinantectepetotutla,,335,cte,cnt,{},17.8333333333,-96.5,North America,,Chinantec (Tepetotutla),304,False,False
+kitsai,,115,kit,kii,{},31.8333333333,-96.5,North America,,Kitsai,703,False,False
+mixteccoatzospan,,334,mxz,miz,{},18.0833333333,-96.5833333333,North America,,Mixtec (Coatzospan),399,False,False
+zapotecjuarez,,332,zaj,zaa,{},17.5,-96.5833333333,North America,,Zapotec (Juárez),493,False,False
+chinantecsochiapan,,335,csc,cso,{},17.75,-96.6666666667,North America,,Chinantec (Sochiapan),44,False,False
+chinantecquiotepec,,335,chq,chq,{},17.5833333333,-96.6666666667,North America,,Chinantec (Quiotepec),2073,False,False
+chinantecpalantla,,335,cpl,cpa,{},18.8333333333,-96.75,North America,,Chinantec (Palantla),1890,False,False
+tonkawa,,421,ton,tqw,{},30.25,-96.75,North America,,Tonkawa,2322,False,False
+cuicatec,,334,ctc,"cut, cux",{},17.8333333333,-96.8333333333,North America,,Cuicatec,309,False,False
+mazatechuautla,,339,mzh,mau,{},18.25,-96.8333333333,North America,,Mazatec (Huautla),1408,False,False
+mazatecchiquihuitlan,,339,mzc,maq,{},17.75,-96.9166666667,North America,,Mazatec (Chiquihuitlán),1903,False,False
+totonacmisantla,,429,tot,tlc,{},19.9166666667,-96.9166666667,North America,,Totonac (Misantla),1988,False,False
+mixtecpenoles,,334,mxp,mil,{},17.0833333333,-96.9166666667,North America,,Mixtec (Peñoles),2064,False,False
+karankawa,,201,kkw,zkk,{},28.0,-97.0,North America,,Karankawa,1077,False,False
+chatinonopala,,332,cht,cya,{},16.0833333333,-97.1666666667,North America,,Chatino (Nopala),42,False,False
+ixcatec,,339,ixc,ixc,{},17.8333333333,-97.1666666667,North America,,Ixcatec,338,False,False
+zapotectexmelucan,,332,zte,zpz,{},16.5,-97.1666666667,North America,,Zapotec (Texmelucan),778,False,False
+omaha,,391,omh,oma,{},42.0,-97.25,North America,,Omaha,1324,False,False
+chatinoyaitepec,,332,cya,ctp,{},16.25,-97.25,North America,,Chatino (Yaitepec),1717,False,False
+nahuatlsierradezacapoaxtla,,476,nsz,azz,{},19.5833333333,-97.3333333333,North America,,Nahuatl (Sierra de Zacapoaxtla),569,False,False
+totonacpapantla,,429,tpa,top,{},20.3333333333,-97.3333333333,North America,,Totonac (Papantla),1535,False,False
+chatinosierraoccidental,,332,cso,ctp,{},16.25,-97.3333333333,North America,,Chatino (Sierra Occidental),2133,False,False
+wichita,,115,wic,wic,{},33.3333333333,-97.3333333333,North America,,Wichita,2449,True,True
+totonacsierra,,429,tos,tos,{},19.9166666667,-97.4166666667,North America,,Totonac (Sierra),471,False,False
+chocho,,339,cch,coz,{},17.6666666667,-97.4166666667,North America,,Chocho,977,False,False
+popolocametzontla,,339,pop,pbe,{},18.1666666667,-97.5,North America,,Popoloca (Metzontla),898,False,False
+mixtecsanmiguelelgrande,,334,mxg,mig,{},17.05,-97.5666666667,North America,,Mixtec (San Miguel el Grande),401,False,False
+chatinotataltepec,,332,ctt,cta,{},16.1666666667,-97.5833333333,North America,,Chatino (Tataltepec),299,False,False
+mixtecmolinos,,334,mxm,mig,{},17.0,-97.5833333333,North America,,Mixtec (Molinos),1191,False,False
+mixtecyosondua,,334,mxy,mpm,{},16.9166666667,-97.5833333333,North America,,Mixtec (Yosondúa),1656,False,False
+mixtecchalcatongo,,334,mxc,mig,{},17.05,-97.5833333333,North America,,Mixtec (Chalcatongo),2483,True,True
+mixtecatatlahuca,,334,mxa,mib,{},17.0,-97.75,North America,,Mixtec (Atatlahuca),942,False,False
+mixtecocotepec,,334,mxo,mie,{},17.1666666667,-97.75,North America,,Mixtec (Ocotepec),1841,False,False
+mixtecchayuco,,334,mxu,mih,{},16.4166666667,-97.8333333333,North America,,Mixtec (Chayuco),398,False,False
+popolocasanvicentecoyotepec,,339,psv,pbf,{},18.25,-97.8333333333,North America,,Popoloca (San Vicente Coyotepec),434,False,False
+triquechicahuaxtla,,334,trc,trs,{},17.1666666667,-97.8333333333,North America,,Trique (Chicahuaxtla),472,False,False
+mixtecjamiltepec,,334,mja,mxt,{},16.25,-97.8333333333,North America,,Mixtec (Jamiltepec),564,False,False
+totonacxicotepecdejuarez,,429,txj,too,{},20.4166666667,-97.8333333333,North America,,Totonac (Xicotepec de Juárez),2031,False,False
+otomiixtenco,,336,oix,otz,{},19.0833333333,-97.9166666667,North America,,Otomí (Ixtenco),1000,False,False
+triquecopala,,334,tri,trc,{},17.1666666667,-97.9166666667,North America,,Trique (Copala),2032,False,False
+mixtecsanjuancolorado,,334,mjc,mjc,{},16.5,-98.0,North America,,Mixtec (San Juan Colorado),400,False,False
+amuzgo,,337,amz,amu,{},16.8333333333,-98.0,North America,,Amuzgo,1495,False,False
+mixtecjicaltepec,,334,mxj,mio,{},16.3333333333,-98.0,North America,,Mixtec (Jicaltepec),1655,False,False
+tepehuahuehuetla,,429,tee,tee,{},20.5,-98.0,North America,,Tepehua (Huehuetla),2660,False,False
+mixtecsilacayoapan,,334,mxs,mks,{},17.5,-98.1666666667,North America,,Mixtec (Silacayoapan),402,False,False
+nahuatlcentral,,476,nhc,nhn,{},19.0,-98.25,North America,,Nahuatl (Central),181,False,False
+tepehuatlachichilco,,429,tep,tpt,{},20.5833333333,-98.25,North America,,Tepehua (Tlachichilco),1849,False,False
+nahuatlnorthpuebla,,476,nhn,ncj,{},20.0,-98.25,North America,,Nahuatl (North Puebla),2102,False,False
+mixtecalacatlatzala,,334,mxl,mim,{},17.25,-98.5833333333,North America,,Mixtec (Alacatlatzala),174,False,False
+pawnee,,115,pwn,paw,{},41.0,-98.6666666667,North America,,Pawnee,1617,False,False
+otomisierra,,336,ots,otm,{},20.6666666667,-98.8333333333,North America,,Otomí (Sierra),579,False,False
+comecrudo,,144,cmc,xcm,{},25.8333333333,-99.0,North America,,Comecrudo,307,False,False
+nahuatlhuasteca,,476,nhh,"nhe, nhw",{},22.0,-99.0,North America,,Nahuatl (Huasteca),1768,False,False
+tlapanec,,333,tlp,tcf,{},17.0833333333,-99.0,North America,,Tlapanec,2183,False,False
+nahuatltetelcingo,,476,nht,nhg,{},19.6666666667,-99.0,North America,,Nahuatl (Tetelcingo),2429,False,True
+kiowa,,215,kio,kio,{},37.0,-99.0,North America,,Kiowa,2448,True,True
+mixtecayutla,,334,mxt,miy,{},16.9166666667,-99.1666666667,North America,,Mixtec (Ayutla),562,False,False
+otomimezquital,,336,otm,ote,{},20.1666666667,-99.1666666667,North America,,Otomí (Mezquital),2409,True,True
+huastec,,250,htc,hsf,{},22.0833333333,-99.3333333333,North America,,Huastec,2261,False,False
+nahuatlxalitla,,476,nhx,ngu,{},18.0,-99.5,North America,,Nahuatl (Xalitla),411,False,False
+pame,,338,pam,pbs,{},22.0,-99.5,North America,,Pame,1326,False,False
+ocuilteco,,548,ocu,ocu,{},18.9166666667,-99.6666666667,North America,,Ocuilteco,1774,False,False
+mazahua,,336,maz,"maz, mmc",{},19.4166666667,-99.9166666667,North America,,Mazahua,1516,False,False
+plainsindianssignlanguage,,330,psl,psd,{},40.0,-100.0,North America,,Plains-Indians Sign Language,200,False,False
+coahuilteco,,142,coa,xcw,{},28.0,-100.0,North America,,Coahuilteco,1223,False,False
+otomisantiagomexquititlan,,336,osm,otq,{},20.0833333333,-100.083333333,North America,,Otomí (Santiago Mexquititlan),428,False,False
+michif,,17,mcf,crg,{},52.0,-100.166666667,North America,,Michif,172,False,False
+arikara,,115,akr,ari,{},45.5,-100.5,North America,,Arikara,637,False,False
+chichimecajonaz,,340,cjo,pei,{},21.6666666667,-100.5,North America,,Chichimeca-Jonaz,1065,False,False
+cuitlatec,,145,cut,,{},17.5,-101.0,North America,,Cuitlatec,310,False,False
+comanche,,477,cmn,com,{},33.5,-101.5,North America,,Comanche,2419,False,True
+purepecha,,408,pur,tsz,{},19.5,-101.666666667,North America,,Purépecha,2347,False,False
+lakhota,,391,lkt,lkt,{},43.8333333333,-101.833333333,North America,,Lakhota,2488,True,True
+hidatsa,,391,hid,hid,{},47.0,-102.5,North America,,Hidatsa,1597,False,False
+mandan,,391,mdn,mhq,{},46.5,-102.5,North America,,Mandan,1901,False,False
+arapaho,,17,aho,arp,{},40.0,-103.0,North America,,Arapaho,508,False,False
+nahuatlmichoacan,,476,nhm,ncl,{},18.5,-103.0,North America,,Nahuatl (Michoacán),1731,False,False
+apachejicarilla,,262,apj,apj,{},36.5833333333,-104.0,North America,,Apache (Jicarilla),501,False,False
+huichol,,471,hui,hch,{},22.0,-104.0,North America,,Huichol,1800,False,False
+tepehuansoutheastern,,478,tps,stp,{},23.0,-104.5,North America,,Tepehuan (Southeastern),1915,False,False
+tepecano,,478,tpc,tep,{},21.75,-104.75,North America,,Tepecano,231,False,False
+cora,,471,cor,crn,{},22.1666666667,-104.833333333,North America,,Cora,2020,False,False
+tiwanorthern,,215,twn,twf,{},36.5,-105.5,North America,,Tiwa (Northern),1986,False,False
+chipewyan,,262,chp,chp,{},59.0,-106.0,North America,,Chipewyan,2058,False,False
+tewasanjuanpueblo,,215,tsj,tew,{},36.0833333333,-106.083333333,North America,,Tewa (San Juan Pueblo),465,False,False
+tewariogrande,,215,trg,tew,{},36.25,-106.166666667,North America,,Tewa (Rio Grande),464,False,False
+tiwasouthern,,215,tws,tix,{},35.0,-106.333333333,North America,,Tiwa (Southern),468,False,False
+keresansantaana,,209,ksa,kee,{},35.4166666667,-106.666666667,North America,,Keresan (Santa Ana),1511,False,False
+jemez,,215,jem,tow,{},35.8333333333,-107.0,North America,,Jemez,340,False,False
+tepehuannorthern,,478,tpn,ntp,{},26.3333333333,-107.0,North America,,Tepehuan (Northern),2181,False,False
+tarahumaracentral,,479,tce,tar,{},27.5,-107.5,North America,,Tarahumara (Central),1847,False,False
+acoma,,209,aco,kjq,{},34.9166666667,-107.583333333,North America,,Acoma,2438,True,True
+tubar,,472,tub,tbu,{},27.0,-108.0,North America,,Tubar,473,False,False
+mayo,,475,myo,mfy,{},26.0,-108.0,North America,,Mayo,558,False,False
+apachechiricahua,,262,apc,apm,{},33.25,-108.0,North America,,Apache (Chiricahua),632,False,False
+crow,,391,cro,cro,{},47.0,-108.0,North America,,Crow,1541,False,False
+tarahumarawestern,,479,twe,tac,{},27.5,-108.0,North America,,Tarahumara (Western),1965,False,False
+navajo,,262,nav,nav,{},36.1666666667,-108.0,North America,,Navajo,2416,False,True
+guarijio,,479,grj,var,{},27.75,-108.666666667,North America,,Guarijío,1755,False,False
+shoshonewindriver,,477,swr,shh,{},43.4166666667,-108.833333333,North America,,Shoshone (Wind River),215,False,False
+zuni,,510,zun,zun,{},35.0833333333,-108.833333333,North America,,Zuni,2361,False,False
+ute,,477,ute,ute,{},39.0,-109.0,North America,,Ute,2068,False,False
+eudeve,,475,eud,opt,{},29.1666666667,-109.666666667,North America,,Eudeve,1679,False,False
+apachewestern,,262,apw,apw,{},33.75,-110.0,North America,,Apache (Western),1583,False,False
+hopi,,473,hop,hop,{},36.0,-110.0,North America,,Hopi,2238,False,False
+creeplains,,17,cre,crk,{},54.0,-110.0,North America,,Cree (Plains),2428,True,True
+yaqui,,475,yaq,yaq,{},27.5,-110.25,North America,,Yaqui,2515,True,True
+tewaarizona,,215,tew,tew,{},35.8333333333,-110.416666667,North America,,Tewa (Arizona),609,False,False
+pimabajo,,478,pba,pia,{},29.0,-111.0,North America,,Pima Bajo,1845,False,False
+seri,,171,ser,sei,{},29.0,-112.0,North America,,Seri,2104,False,False
+oodham,,478,ood,ood,{},32.0,-112.0,North America,,O'odham,2354,False,False
+havasupai,,170,hav,yuf,{},35.75,-112.5,North America,,Havasupai,100,False,False
+nevome,,478,nev,ood,{},31.0,-112.5,North America,,Nevome,1769,False,False
+blackfoot,,17,bla,bla,{},50.0,-112.666666667,North America,,Blackfoot,2091,False,False
+maricopa,,170,mar,mrc,{},33.1666666667,-113.166666667,North America,,Maricopa,2479,True,True
+yavapai,,170,yav,yuf,{},34.0,-113.333333333,North America,,Yavapai,1014,False,False
+paiutesouthern,,477,put,ute,{},37.8333333333,-113.333333333,North America,,Paiute (Southern),1139,False,False
+hualapai,,170,hlp,yuf,{},35.5,-113.75,North America,,Hualapai,1719,False,False
+shoshone,,477,sho,shh,{},41.0,-114.0,North America,,Shoshone,1622,False,False
+quechan,,170,que,yum,{},32.8333333333,-114.333333333,North America,,Quechan,899,False,False
+mojave,,170,moj,mov,{},34.6666666667,-114.583333333,North America,,Mojave,1088,False,False
+cocopa,,170,ccp,coc,{},32.3333333333,-115.0,North America,,Cocopa,2092,False,False
+chemehuevi,,477,cmh,ute,{},34.3333333333,-115.166666667,North America,,Chemehuevi,2134,False,False
+kiliwa,,170,klw,klb,{},31.3333333333,-115.666666667,North America,,Kiliwa,1644,False,False
+sarcee,,262,src,srs,{},52.5,-116.0,North America,,Sarcee,1943,False,False
+nezperce,,348,nez,nez,{},46.0,-116.0,North America,,Nez Perce,2411,False,True
+kutenai,,222,kut,kut,{},49.5,-116.0,North America,,Kutenai,2482,True,True
+dieguenomesagrande,,170,die,dih,{},32.6666666667,-116.166666667,North America,,Diegueño (Mesa Grande),2327,False,False
+cahuilla,,566,cah,chl,{},33.5,-116.25,North America,,Cahuilla,2413,False,True
+cupeno,,566,cup,cup,{},33.1666666667,-116.5,North America,,Cupeño,669,False,False
+stoney,,391,sto,sto,{},53.75,-116.5,North America,,Stoney,752,False,False
+coeurdalene,,362,coe,crd,{},47.25,-116.5,North America,,Coeur d'Alene,1164,False,False
+tiipayjamul,,170,tja,dih,{},32.1666666667,-116.5,North America,,Tiipay (Jamul),2196,False,False
+serrano,,566,srr,ser,{},34.5,-117.0,North America,,Serrano,835,False,False
+kalispel,,362,kls,fla,{},48.0,-117.0,North America,,Kalispel,1758,False,False
+tumpisashoshone,,477,tsh,par,{},37.0,-117.0,North America,,Tümpisa Shoshone,2316,False,False
+luiseno,,566,lui,lui,{},33.3333333333,-117.166666667,North America,,Luiseño,2228,False,False
+kawaiisu,,477,kws,xaw,{},36.0,-117.5,North America,,Kawaiisu,2112,False,False
+spokane,,362,spo,spo,{},47.6666666667,-117.75,North America,,Spokane,901,False,False
+paiutenorthern,,477,pno,pao,{},42.0,-118.0,North America,,Paiute (Northern),2120,False,False
+tubatulabal,,566,tbb,tub,{},36.0,-118.333333333,North America,,Tübatulabal,957,False,False
+okanagan,,362,oka,oka,{},49.5,-118.5,North America,,Okanagan,824,False,False
+sahaptinumatilla,,348,smt,uma,{},45.6666666667,-118.5,North America,,Sahaptin (Umatilla),1142,False,False
+monoinunitedstates,,477,mno,mnr,{},38.0,-119.0,North America,,Mono (in United States),1696,False,False
+yawelmani,,344,ywl,yok,{},35.4166666667,-119.0,North America,,Yawelmani,1918,False,False
+yokutsyaudanchi,,344,yok,yok,{},36.0833333333,-119.083333333,North America,,Yokuts (Yaudanchi),1667,False,False
+wikchamni,,344,wik,yok,{},36.4166666667,-119.083333333,North America,,Wikchamni,1990,False,False
+columbiawenatchi,,362,cwe,col,{},47.5,-120.0,North America,,Columbia-Wenatchi,48,False,False
+slavey,,262,slv,xsl,{},60.0,-120.0,North America,,Slavey,449,False,False
+sahaptinnorthern,,348,shp,"waa, yak",{},46.5,-120.0,North America,,Sahaptin (Northern),1620,False,False
+washo,,487,was,was,{},39.25,-120.0,North America,,Washo,2161,False,False
+shuswap,,362,shu,shs,{},52.0,-120.0,North America,,Shuswap,2223,False,False
+miwoksouthernsierra,,350,mss,skd,{},37.5,-120.0,North America,,Miwok (Southern Sierra),2405,False,True
+chumashineseno,,141,cin,inz,{},34.6666666667,-120.25,North America,,Chumash (Ineseño),1110,False,False
+chumashbarbareno,,141,cba,boi,{},34.5,-120.25,North America,,Chumash (Barbareño),1951,False,False
+miwokcentralsierra,,350,mcs,csm,{},38.0,-120.333333333,North America,,Miwok (Central Sierra),940,False,False
+miwoknorthernsierra,,350,mwn,nsq,{},38.3333333333,-120.666666667,North America,,Miwok (Northern Sierra),941,False,False
+maidunortheast,,345,mne,nmu,{},40.0,-120.666666667,North America,,Maidu (Northeast),2332,False,False
+miwokplains,,350,mwp,pmw,{},38.0,-121.0,North America,,Miwok (Plains),396,False,False
+atsugewi,,173,ats,atw,{},40.75,-121.0,North America,,Atsugewi,971,False,False
+nisenan,,345,nsn,nsz,{},39.0,-121.0,North America,,Nisenan,1562,False,False
+achumawi,,173,acm,acv,{},41.5,-121.0,North America,,Achumawi,2069,False,False
+salinan,,359,sal,sln,{},36.0,-121.0,North America,,Salinan,2121,False,False
+konkow,,345,knw,mjd,{},39.5,-121.5,North America,,Konkow,1400,False,False
+mutsun,,347,mut,css,{},36.8333333333,-121.5,North America,,Mutsun,1808,False,False
+klamath,,353,klm,kla,{},42.5,-121.5,North America,,Klamath,2289,False,False
+esselen,,159,ess,esq,{},36.25,-121.75,North America,,Esselen,676,False,False
+thompson,,362,tho,thp,{},49.75,-121.75,North America,,Thompson,1095,False,False
+halkomelemupriver,,360,hlu,hur,{},49.25,-121.916666667,North America,,Halkomelem (Upriver),2555,False,False
+rumsien,,347,cos,"css, cst",{},37.0,-122.0,North America,,Rumsien,978,False,False
+lushootseed,,360,lus,lut,{},48.0,-122.0,North America,,Lushootseed,1404,False,False
+yana,,175,yan,ynn,{},40.5,-122.0,North America,,Yana,1579,False,False
+lillooet,,362,lil,lil,{},50.75,-122.0,North America,,Lillooet,1837,False,False
+patwin,,349,ptw,wit,{},39.0,-122.333333333,North America,,Patwin,1197,False,False
+molala,,351,mll,mbe,{},44.5,-122.5,North America,,Molala,175,False,False
+salishsouthernpugetsound,,360,sps,slh,{},47.25,-122.5,North America,,Salish (Southern Puget Sound),593,False,False
+chinookupper,,346,cku,wac,{},45.5,-122.5,North America,,Chinook (Upper),1590,False,False
+wappo,,485,wap,wao,{},38.5,-122.5,North America,,Wappo,2307,False,False
+wintu,,349,win,wit,{},41.0,-122.5,North America,,Wintu,2308,False,False
+pomosoutheastern,,176,pso,pom,{},39.0,-122.5,North America,,Pomo (Southeastern),2360,False,True
+salishsamishstraits,,360,sss,str,{},48.5833333333,-122.583333333,North America,,Salish (Samish Straits),592,False,False
+lummi,,360,lum,str,{},48.7,-122.666666667,North America,,Lummi,151,False,False
+miwoklake,,350,mwl,lmw,{},38.9166666667,-122.666666667,North America,,Miwok (Lake),395,False,False
+shasta,,174,shs,sht,{},41.8333333333,-122.666666667,North America,,Shasta,1737,False,False
+pomoeastern,,176,pme,peb,{},39.0,-122.666666667,North America,,Pomo (Eastern),1942,False,False
+twana,,360,twa,twa,{},47.6666666667,-122.75,North America,,Twana,239,False,False
+chemakum,,131,cmk,xch,{},48.0833333333,-122.916666667,North America,,Chemakum,300,False,False
+miwokbodega,,350,mkb,csi,{},38.3333333333,-123.0,North America,,Miwok (Bodega),394,False,False
+kalapuya,,199,klp,kyl,{},44.5,-123.0,North America,,Kalapuya,693,False,False
+chehalisupper,,364,chl,cjh,{},46.5833333333,-123.0,North America,,Chehalis (Upper),1637,False,False
+chimariko,,172,chi,cid,{},41.0,-123.0,North America,,Chimariko,1889,False,False
+takelma,,407,tkl,tkm,{},42.5,-123.0,North America,,Takelma,2212,False,False
+karok,,204,krk,kyh,{},41.6666666667,-123.0,North America,,Karok,2435,True,True
+halkomelemisland,,360,hli,hur,{},49.2,-123.0,North America,,Halkomelem (Island),2554,False,False
+musqueam,,360,msq,hur,{},49.1666666667,-123.0,North America,,Musqueam,2659,False,False
+squamish,,360,squ,squ,{},49.6666666667,-123.166666667,North America,,Squamish,2422,False,True
+salishstraits,,360,sst,str,{},48.75,-123.25,North America,,Salish (Straits),212,False,False
+songish,,360,sgs,str,{},48.45,-123.333333333,North America,,Songish,218,False,False
+kashaya,,176,ksh,kju,{},38.6666666667,-123.333333333,North America,,Kashaya,881,False,False
+pomocentral,,176,pmc,poo,{},39.0,-123.333333333,North America,,Pomo (Central),946,False,False
+saanich,,360,sch,str,{},48.5833333333,-123.416666667,North America,,Saanich,210,False,False
+yuki,,484,yki,yuk,{},39.6666666667,-123.5,North America,,Yuki,623,False,False
+carrier,,262,crq,crx,{},53.75,-123.5,North America,,Carrier,664,False,False
+pomonorthern,,176,pmn,pej,{},39.3333333333,-123.5,North America,,Pomo (Northern),1003,False,False
+chinooklower,,346,ckl,chh,{},46.25,-123.5,North America,,Chinook (Lower),1793,False,False
+kato,,262,kto,ktw,{},39.6666666667,-123.666666667,North America,,Kato,354,False,False
+hupa,,262,hup,hup,{},41.0833333333,-123.666666667,North America,,Hupa,2217,False,False
+sooke,,360,soo,str,{},48.3333333333,-123.75,North America,,Sooke,219,False,False
+clallam,,360,cla,clm,{},48.0833333333,-123.75,North America,,Clallam,667,False,False
+tillamook,,361,til,til,{},45.3333333333,-123.75,North America,,Tillamook,760,False,False
+alsea,,328,als,aes,{},44.6666666667,-123.916666667,North America,,Alsea,1061,False,False
+chastacosta,,262,cco,,{},42.6666666667,-124.0,North America,,Chasta Costa,298,False,False
+siuslaw,,329,siu,sis,{},44.0,-124.0,North America,,Siuslaw,2232,False,False
+yurok,,16,yur,yur,{},41.3333333333,-124.0,North America,,Yurok,2407,False,True
+mattole,,262,mtl,mvb,{},40.1666666667,-124.166666667,North America,,Mattole,389,False,False
+wiyot,,18,wiy,wiy,{},40.8333333333,-124.166666667,North America,,Wiyot,2244,False,False
+cooshanis,,327,coo,csz,{},43.5,-124.166666667,North America,,Coos (Hanis),2427,False,True
+quileute,,131,qui,qui,{},47.9166666667,-124.25,North America,,Quileute,2296,False,False
+makah,,481,mak,myh,{},48.3333333333,-124.666666667,North America,,Makah,2379,True,True
+nitinaht,,481,nit,noo,{},48.6666666667,-124.75,North America,,Nitinaht,421,False,False
+comox,,360,cmx,coo,{},50.1666666667,-125.0,North America,,Comox,1446,False,False
+slave,,262,sla,"scs, xsl",{},67.0,-125.0,North America,,Slave,2517,True,True
+bellacoola,,363,bco,blc,{},52.5,-126.666666667,North America,,Bella Coola,2131,False,False
+nuuchahnulth,,481,nuu,noo,{},49.6666666667,-126.666666667,North America,,Nuuchahnulth,2191,False,False
+kwakwala,,482,kwk,kwk,{},51.0,-127.0,North America,,Kwakw'ala,2137,False,False
+kyuquot,,481,kyq,noo,{},50.1666666667,-127.166666667,North America,,Kyuquot,1361,False,False
+heiltsuk,,482,hei,hei,{},52.0,-127.5,North America,,Heiltsuk,1394,False,False
+gitksan,,352,git,git,{},55.3333333333,-127.75,North America,,Gitksan,1549,False,False
+haisla,,482,hsl,has,{},54.0,-128.75,North America,,Haisla,98,False,False
+tsimshiancoast,,352,tsi,tsi,{},52.5,-129.0,North America,,Tsimshian (Coast),2380,False,True
+nisgha,,352,nsg,ncg,{},55.0,-130.0,North America,,Nisgha,2005,False,False
+haida,,167,hai,"hax, hdn",{},53.0,-132.0,North America,,Haida,2396,False,True
+haidanorthern,,167,hno,hdn,{},54.0,-132.5,North America,,Haida (Northern),682,False,False
+kangiryuarmiut,,158,kgt,ikt,{},68.3333333333,-133.75,North America,,Kangiryuarmiut,345,False,False
+tlingit,,263,tli,tli,{},59.0,-135.0,North America,,Tlingit,2372,False,True
+tutchonenorthern,,262,tut,ttm,{},63.0,-137.0,North America,,Tutchone (Northern),475,False,False
+tanacross,,262,tnc,tcb,{},63.5,-143.5,North America,,Tanacross,1624,False,False
+ahtna,,262,aht,aht,{},62.0,-145.0,North America,,Ahtna,1382,False,False
+eyak,,264,eya,eya,{},60.5,-145.0,North America,,Eyak,1391,False,False
+kutchin,,262,kth,gwi,{},67.0,-146.0,North America,,Kutchin,365,False,False
+tanaina,,262,tnj,tfn,{},62.0,-150.0,North America,,Tanaina,457,False,False
+tananalower,,262,tnl,taa,{},65.0,-150.0,North America,,Tanana (Lower),458,False,False
+koyukon,,262,kyn,koy,{},65.0,-155.0,North America,,Koyukon,1180,False,False
+upperkuskokwim,,262,uku,kuu,{},63.0,-157.0,North America,,Upper Kuskokwim,847,False,False
+alutiiq,,158,atq,ems,{},57.0,-157.0,North America,,Alutiiq,854,False,False
+hawaiiancreole,,331,hwc,hwc,{},21.5,-158.0,North America,,Hawaiian Creole,798,False,False
+degexitan,,262,dgx,ing,{},62.0,-160.0,North America,,Degexit'an,313,False,False
+yupikcentral,,158,ypk,esu,{},59.5,-160.0,North America,,Yup'ik (Central),2365,False,True
+inupiaq,,158,inu,esi,{},67.0,-161.0,North America,,Iñupiaq,540,False,False
+yupiknortonsound,,158,yun,esu,{},64.0,-161.0,North America,,Yup'ik (Norton Sound),776,False,False
+aleuteastern,,157,aea,ale,{},54.75,-164.0,North America,,Aleut (Eastern),1292,False,False
+yupikchevak,,158,ych,esu,{},61.5,-165.75,North America,,Yup'ik (Chevak),775,False,False
+aleut,,157,ale,ale,{},54.0,-166.0,North America,,Aleut,1788,False,False
+internationalsign,,330,isl,,{},40.0,-170.0,North America,,International Sign,110,False,False

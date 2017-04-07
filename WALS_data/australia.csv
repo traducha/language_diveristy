@@ -1,0 +1,178 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+bandjalangcasino,,557,bca,bdy,{},-28.9166666667,153.0,Australia,,Bandjalang (Casino),281,False,False
+yaygir,,557,yyg,,{},-29.6666666667,153.0,Australia,,Yaygir,906,False,False
+bandjalangyugumbir,,557,byu,bdy,{},-27.9166666667,153.0,Australia,,Bandjalang (Yugumbir),1344,False,False
+bandjalang,,557,bnj,bdy,{},-28.75,153.0,Australia,,Bandjalang,1861,False,False
+bandjalangwaalubal,,557,bwa,bdy,{},-29.0833333333,152.583333333,Australia,,Bandjalang (Waalubal),859,False,False
+gumbaynggir,,557,gum,kgs,{},-30.1666666667,152.5,Australia,,Gumbaynggir,2110,False,False
+wagawaga,,557,wkw,wkw,{},-26.5,152.5,Australia,,Wagawaga,2570,False,False
+gidabal,,557,gid,bdy,{},-28.4166666667,152.416666667,Australia,,Gidabal,1638,False,False
+gurenggureng,,557,ggu,gnr,{},-25.25,151.0,Australia,,Gureng Gureng,1455,False,False
+dharawal,,557,dhw,tbh,{},-34.5,150.5,Australia,,Dharawal,1028,False,False
+dharumbal,,560,dhb,bjy,{},-22.75,150.5,Australia,,Dharumbal,1029,False,False
+dhurga,,557,dhu,dhu,{},-35.6666666667,150.0,Australia,,Dhurga,671,False,False
+gamilaraay,,557,gml,kld,{},-29.8333333333,149.5,Australia,,Gamilaraay,67,False,False
+yuwaalaraay,,557,yuw,kld,{},-29.5,148.0,Australia,,Yuwaalaraay,2014,False,False
+muruwari,,557,mrw,zmu,{},-28.75,147.0,Australia,,Muruwari,1729,False,False
+gunya,,560,gny,gyy,{},-26.5,146.5,Australia,,Gunya,537,False,False
+biri,,560,bii,bzr,{},-20.5,146.5,Australia,,Biri,1749,False,False
+nyawaygi,,560,nya,nyt,{},-19.0,146.166666667,Australia,,Nyawaygi,1367,False,False
+warrgamay,,560,wrg,wgy,{},-18.5833333333,146.083333333,Australia,,Warrgamay,1971,False,False
+yortayorta,,557,yyo,,{},-36.0,146.0,Australia,,Yorta Yorta,491,False,False
+yidiny,,560,yid,yii,{},-17.0,145.75,Australia,,Yidiny,2434,False,True
+djabugay,,560,dja,dyy,{},-16.75,145.583333333,Australia,,Djabugay,1450,False,False
+dyirbal,,560,dyi,dbl,{},-17.8333333333,145.583333333,Australia,,Dyirbal,2349,False,False
+woiwurrung,,557,wwr,,{},-37.5,145.5,Australia,,Woiwurrung,770,False,False
+ngiyambaa,,557,ngi,wyb,{},-31.75,145.5,Australia,,Ngiyambaa,2495,True,True
+auslan,,330,aus,asf,{},-30.0,145.0,Australia,,Auslan,278,False,False
+warrungu,,560,wgu,wrg,{},-18.0,145.0,Australia,,Warrongo,484,False,False
+mbabaram,,560,mbb,,{},-17.1666666667,145.0,Australia,,Mbabaram,1611,False,False
+kukuyalanji,,560,kya,gvn,{},-16.0,145.0,Australia,,Kuku-Yalanji,2164,False,False
+guuguyimidhirr,,560,guu,kky,{},-15.0,144.833333333,Australia,,Guugu Yimidhirr,2237,False,False
+lamulamu,,560,lla,lby,{},-14.8333333333,144.5,Australia,,Lamu-Lamu,553,False,False
+margany,,560,mny,zmc,{},-27.0,144.5,Australia,,Margany,1839,False,False
+wathawurrung,,557,wth,,{},-38.0,144.0,Australia,,Wathawurrung,1334,False,False
+colac,,557,clc,,{},-38.3333333333,143.5,Australia,,Colac,306,False,False
+umpila,,560,ump,ump,{},-13.5,143.5,Australia,,Umpila,2569,False,False
+thaypan,,560,thp,typ,{},-14.8333333333,143.166666667,Australia,,Thaypan,610,False,False
+kuukuyau,,560,kuu,kuy,{},-12.5833333333,143.083333333,Australia,,Kuuku Ya'u,1402,False,False
+broken,,331,bro,tcs,{},-10.1666666667,143.0,Australia,,Broken,918,False,False
+wangkumara,,558,wan,nbx,{},-27.3333333333,143.0,Australia,,Wangkumara,1433,False,False
+linngithig,,560,lnj,lnj,{},-12.5,142.83,Australia,,Linngithig,2565,False,False
+kunjen,,560,kjn,kjn,{},-16.5,142.5,Australia,,Kunjen,811,False,False
+warrnambool,,557,wrb,,{},-38.25,142.5,Australia,,Warrnambool,1055,False,False
+paakantyi,,558,pkn,drl,{},-32.5,142.5,Australia,,Paakantyi,1910,False,False
+pakanha,,560,pak,pkn,{},-14.5,142.416666667,Australia,,Pakanha,198,False,False
+uradhi,,560,uhi,urf,{},-11.9166666667,142.416666667,Australia,,Uradhi,2213,False,False
+kugunganhcara,,560,knc,uwa,{},-14.4166666667,142.0,Australia,,Kugu Nganhcara,1934,False,False
+yiryiront,,560,yir,yiy,{},-14.8333333333,141.833333333,Australia,,Yir Yiront,1152,False,False
+kuukthaayorre,,560,thy,thd,{},-14.5833333333,141.833333333,Australia,,Kuuk Thaayorre,1533,False,False
+anguthimri,,560,agt,lnj,{},-12.3333333333,141.833333333,Australia,,Anguthimri,1670,False,False
+wikmunkan,,560,wmu,wim,{},-13.9166666667,141.75,Australia,,Wik Munkan,1972,False,False
+wikngathana,,560,wn,wig,{},-13.9166666667,141.5,Australia,,Wik Ngathana,964,False,False
+ngawun,,560,ngw,nxn,{},-19.0,141.5,Australia,,Ngawun,1320,False,False
+mayiyapi,,560,myy,,{},-20.0,141.0,Australia,,Mayi-Yapi,718,False,False
+innamincka,,558,inn,ynd,{},-27.75,140.75,Australia,,Innamincka,2658,False,False
+gugadj,,560,ggd,ggd,{},-18.5,140.5,Australia,,Gugadj,2561,False,False
+ngarinyeri,,557,ngr,nay,{},-36.0,140.0,Australia,,Ngarinyeri,821,False,False
+pittapitta,,558,ppi,pit,{},-22.8333333333,140.0,Australia,,Pitta Pitta,2082,False,False
+yalarnnga,,560,ylr,ylr,{},-22.0,140.0,Australia,,Yalarnnga,2574,False,False
+adynyamathanha,,558,adn,adt,{},-30.5,139.5,Australia,,Adynyamathanha,1340,False,False
+kalkatungu,,560,kgu,ktg,{},-21.0,139.5,Australia,,Kalkatungu,2175,False,False
+kayardild,,52,kay,gyd,{},-17.05,139.5,Australia,,Kayardild,2501,True,True
+lardil,,52,lrd,lbz,{},-16.5,139.333333333,Australia,,Lardil,370,False,False
+diyari,,558,diy,dif,{},-28.0,139.0,Australia,,Diyari,2328,False,False
+yukulta,,52,yuk,gcd,{},-17.3333333333,138.833333333,Australia,,Yukulta,2162,False,False
+kaurna,,558,kaq,,{},-34.25,138.5,Australia,,Kaurna,355,False,False
+warluwara,,559,wlw,wrb,{},-22.0,138.5,Australia,,Warluwara,763,False,False
+bularnu,,559,bnu,,{},-21.0,138.0,Australia,,Bularnu,1162,False,False
+yanyuwa,,559,yny,jao,{},-16.4166666667,137.166666667,Australia,,Yanyuwa,1857,False,False
+garrwa,,47,grr,gbc,{},-17.0833333333,137.166666667,Australia,,Garrwa,2174,False,False
+banggarla,,558,bnl,bjb,{},-32.0,137.0,Australia,,Banggarla,511,False,False
+wangkangurru,,558,wgg,wgg,{},-27.0,137.0,Australia,,Wangkangurru,2571,False,False
+gaalpu,,559,glp,dhg,{},-12.6666666667,136.75,Australia,,Gaalpu,678,False,False
+anindilyakwa,,41,ann,aoi,{},-14.0,136.5,Australia,,Anindilyakwa,1341,False,False
+dhuwaldatiwuy,,559,dda,duj,{},-12.1666666667,136.25,Australia,,Dhuwal (Dätiwuy),51,False,False
+arabana,,558,abn,ard,{},-28.25,136.25,Australia,,Arabana,1860,False,False
+djapu,,559,djp,duj,{},-12.6666666667,136.0,Australia,,Djapu,2248,False,False
+arrerntemparntwe,,558,amp,aer,{},-24.0,136.0,Australia,,Arrernte (Mparntwe),2326,False,False
+gupapuyngu,,559,guf,guf,{},-12.0,136.0,Australia,,Gupapuyngu,2562,False,False
+wambaya,,561,wam,wmb,{},-18.6666666667,135.75,Australia,,Wambaya,2373,False,True
+nunggubuyu,,48,nug,nuy,{},-13.75,135.666666667,Australia,,Nunggubuyu,2452,False,True
+warndarang,,554,wrn,wnd,{},-14.4166666667,135.583333333,Australia,,Warndarang,1743,False,False
+gumatj,,559,gmt,gnn,{},-12.5,135.5,Australia,,Gumatj,94,False,False
+djambarrpuyngu,,559,djm,djr,{},-12.1666666667,135.5,Australia,,Djambarrpuyngu,1503,False,False
+ritharngu,,559,rit,rit,{},-12.8333333333,135.5,Australia,,Ritharngu,1703,False,False
+mara,,555,mra,mec,{},-15.0,135.166666667,Australia,,Mara,1936,False,False
+kriolngukurr,,331,knq,rop,{},-14.8333333333,135.0,Australia,,Kriol (Ngukurr),809,False,False
+ngandi,,32,ngn,nid,{},-13.8333333333,135.0,Australia,,Ngandi,1658,False,False
+alyawarra,,558,aly,aly,{},-22.5,135.0,Australia,,Alyawarra,2122,False,False
+djinang,,559,djn,dji,{},-12.3333333333,134.833333333,Australia,,Djinang,1303,False,False
+ngalkbun,,44,nkb,ngk,{},-13.5,134.833333333,Australia,,Ngalkbun,1414,False,False
+rembarnga,,40,rmb,rmb,{},-12.8333333333,134.583333333,Australia,,Rembarnga,949,False,False
+burarra,,31,bua,bvr,{},-12.25,134.583333333,Australia,,Burarra,1923,False,False
+warumungu,,559,wru,wrm,{},-19.5,134.5,Australia,,Warumungu,2573,False,False
+nakkara,,36,nkk,nck,{},-12.1166666667,134.416666667,Australia,,Nakkara,1045,False,False
+gurrgoni,,31,grg,gge,{},-12.25,134.416666667,Australia,,Gurr-goni,1393,False,False
+alawa,,556,alw,alh,{},-15.1666666667,134.25,Australia,,Alawa,2169,False,False
+ndjebbana,,35,ndj,djj,{},-12.1666666667,134.116666667,Australia,,Ndjébbana,1878,False,False
+arrernte,,558,arr,"aer, are",{},-24.0,134.0,Australia,,Arrernte,17,False,False
+wirangu,,558,wir,wiw,{},-32.0,134.0,Australia,,Wirangu,1207,False,False
+gunbalang,,44,gnb,wlg,{},-12.0,134.0,Australia,,Gunbalang,1506,False,False
+gugada,,559,gug,ktd,{},-30.0,134.0,Australia,,Gugada,1594,False,False
+djingili,,562,dji,jig,{},-17.75,134.0,Australia,,Djingili,2059,False,False
+ngalakan,,34,ngl,nig,{},-14.25,134.0,Australia,,Ngalakan,2271,False,False
+kaytej,,558,kyt,gbb,{},-21.0,134.0,Australia,,Kaytej,2564,False,False
+bininjgunwok,,44,bbw,gup,{},-12.5,133.75,Australia,,Bininj Gun-Wok,2172,False,False
+maung,,38,mau,mph,{},-11.9166666667,133.5,Australia,,Maung,2465,True,True
+mangarrayi,,55,myi,mpc,{},-14.6666666667,133.5,Australia,,Mangarrayi,2498,True,True
+gaagudju,,49,gaa,gbu,{},-12.5833333333,132.833333333,Australia,,Gaagudju,1352,False,False
+iwaidja,,38,iwa,ibd,{},-11.5,132.666666667,Australia,,Iwaidja,1507,False,False
+arrerntewestern,,558,awe,are,{},-24.0,132.5,Australia,,Arrernte (Western),1439,False,False
+warlpiri,,559,wrl,wbp,{},-20.0,132.333333333,Australia,,Warlpiri,2109,False,False
+mudburra,,559,mdb,mwd,{},-17.3333333333,132.083333333,Australia,,Mudburra,177,False,False
+yankuntjatjara,,559,ynk,kdd,{},-27.0,132.0,Australia,,Yankuntjatjara,966,False,False
+limilngan,,45,lml,lmc,{},-12.5,131.916666667,Australia,,Limilngan,1513,False,False
+bilinarra,,559,bnr,nbj,{},-16.0,131.666666667,Australia,,Bilinarra,916,False,False
+wagiman,,61,wag,waq,{},-14.0,131.25,Australia,,Wagiman,1096,False,False
+warayinaustralia,,57,wry,wrz,{},-13.1666666667,131.25,Australia,,Waray (in Australia),1970,False,False
+wardaman,,33,wrd,wrr,{},-15.5,131.0,Australia,,Wardaman,2395,False,True
+tiwi,,53,tiw,tiw,{},-11.5,131.0,Australia,,Tiwi,2499,True,True
+kamu,,54,kmw,xmu,{},-13.5833333333,130.833333333,Australia,,Kamu,1119,False,False
+laragia,,59,lar,lrg,{},-12.6666666667,130.833333333,Australia,,Laragia,1691,False,False
+gurindji,,559,gji,gue,{},-17.6666666667,130.666666667,Australia,,Gurindji,325,False,False
+ngarinyman,,559,ngy,nbj,{},-16.5,130.5,Australia,,Ngarinyman,187,False,False
+jaminjung,,39,jam,djd,{},-15.0833333333,130.5,Australia,,Jaminjung,1684,False,False
+ngankikurungkurr,,563,ngk,nam,{},-14.0,130.5,Australia,,Ngankikurungkurr,1939,False,False
+matngele,,54,mdl,zml,{},-13.8333333333,130.416666667,Australia,,Matngele,1128,False,False
+pungupungu,,43,pun,wdj,{},-13.5,130.416666667,Australia,,Pungupungu,1266,False,False
+ngangityemerri,,563,ngg,nam,{},-14.25,130.416666667,Australia,,Ngan'gityemerri,1319,False,False
+malakmalak,,51,mlk,mpb,{},-13.4166666667,130.416666667,Australia,,Malakmalak,2267,False,False
+tyeraity,,51,tye,woa,{},-13.0,130.333333333,Australia,,Tyeraity,846,False,False
+bachamal,,43,bac,wdj,{},-13.1666666667,130.166666667,Australia,,Bachamal,1212,False,False
+maringarr,,565,mrr,zmt,{},-14.25,130.0,Australia,,Maringarr,1041,False,False
+emmi,,564,emm,amy,{},-13.5,130.0,Australia,,Emmi,1167,False,False
+marrithiyel,,565,mrh,mfr,{},-13.8333333333,130.0,Australia,,Marrithiyel,1467,False,False
+maranungku,,564,mku,zmr,{},-13.6666666667,130.0,Australia,,Maranungku,2383,False,True
+pitjantjatjara,,559,pit,pjt,{},-26.0,130.0,Australia,,Pitjantjatjara,2386,False,True
+murrinhpatha,,37,mpa,mwf,{},-14.6666666667,129.666666667,Australia,,Murrinh-Patha,2157,False,False
+miriwung,,56,mir,mep,{},-15.6666666667,129.0,Australia,,Miriwung,886,False,False
+pintupi,,559,pin,piu,{},-23.0,129.0,Australia,,Pintupi,896,False,False
+mirniny,,559,mrj,nju,{},-31.0,129.0,Australia,,Mirniny,2566,False,False
+djaru,,559,djr,ddj,{},-18.75,128.0,Australia,,Djaru,2021,False,False
+kitja,,56,kij,gia,{},-17.5,127.75,Australia,,Kitja,137,False,False
+gunin,,29,gnn,gww,{},-14.25,126.666666667,Australia,,Gunin,1392,False,False
+ngaanyatjarra,,559,ntj,ntj,{},-26.0,126.5,Australia,,Ngaanyatjarra,1771,False,False
+gooniyandi,,30,goo,gni,{},-18.3333333333,126.333333333,Australia,,Gooniyandi,2481,True,True
+martuwangka,,559,mwa,mpj,{},-21.5,126.0,Australia,,Martu Wangka,716,False,False
+ungarinjin,,29,ung,ung,{},-16.3333333333,126.0,Australia,,Ungarinjin,2400,False,True
+walmatjari,,559,wlm,wmt,{},-19.5,125.75,Australia,,Walmatjari,963,False,False
+bunuba,,30,bnb,bck,{},-17.75,125.75,Australia,,Bunuba,1385,False,True
+mantjiltjara,,559,mnj,mpj,{},-22.6666666667,125.083333333,Australia,,Mantjiltjara,714,False,False
+worora,,29,wor,unp,{},-15.6666666667,124.666666667,Australia,,Worora,1150,False,False
+nyigina,,46,nyn,nyh,{},-18.0,124.333333333,Australia,,Nyigina,1323,False,False
+yulparija,,559,ylb,mpj,{},-21.0,124.0,Australia,,Yulparija,774,False,False
+ngadjumaja,,559,ngj,nju,{},-32.3333333333,123.833333333,Australia,,Ngadjumaja,1193,False,False
+warrwa,,46,wrw,wwr,{},-17.5,123.5,Australia,,Warrwa,1628,False,False
+wanman,,559,wbt,wbt,{},-22.0,123.0,Australia,,Wanman,2572,False,False
+bardi,,46,brd,bcj,{},-16.5833333333,122.916666667,Australia,,Bardi,1215,False,False
+nyulnyul,,46,nyu,nyv,{},-17.0,122.833333333,Australia,,Nyulnyul,1879,False,False
+yawuru,,46,ywr,ywr,{},-18.0,122.5,Australia,,Yawuru,1378,False,False
+nyungar,,559,nju,nys,{},-33.75,122.0,Australia,,Nyungar,424,False,False
+karadjeri,,559,krj,gbd,{},-19.0,122.0,Australia,,Karadjeri,1076,False,False
+nyangumarda,,559,nyr,nna,{},-20.0,121.0,Australia,,Nyangumarda,823,False,False
+balyku,,559,bly,nad,{},-22.0,120.0,Australia,,Balyku,2558,False,False
+ngarla,,559,nlr,nlr,{},-20.0,119.0,Australia,,Ngarla,2567,False,False
+nyamal,,559,nly,nly,{},-21.0,119.0,Australia,,Nyamal,2568,False,False
+kariera,,559,vka,vka,{},-20.5,118.5,Australia,,Kariera,2563,False,False
+panyjima,,559,pny,pnw,{},-22.8333333333,118.416666667,Australia,,Panyjima,1911,False,False
+badimaya,,559,bdm,bia,{},-27.6666666667,118.0,Australia,,Badimaya,1671,False,False
+yindjibarndi,,559,yin,yij,{},-21.75,117.916666667,Australia,,Yindjibarndi,1973,False,False
+ngarluma,,559,nlu,nrl,{},-20.8333333333,117.5,Australia,,Ngarluma,419,False,False
+watjarri,,559,wat,wbv,{},-26.0,117.5,Australia,,Watjarri,1854,False,False
+martuthunira,,559,mrt,vma,{},-20.8333333333,116.5,Australia,,Martuthunira,2489,True,True
+dhalandji,,559,dhl,dhl,{},-22.08,115.0,Australia,,Dhalandji,2560,False,False
+dhargari,,559,dhr,dhr,{},-23.75,114.916666667,Australia,,Dhargari,1448,False,False
+yingkarta,,559,yng,yia,{},-25.1666666667,114.833333333,Australia,,Yingkarta,1784,False,False
+nhanda,,559,nha,,{},-27.0,114.166666667,Australia,,Nhanda,1699,False,False
+bayungu,,559,bxj,bxj,{},-23.0,114.0,Australia,,Bayungu,2559,False,False

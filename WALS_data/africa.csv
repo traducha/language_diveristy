@@ -1,0 +1,608 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+mauritiancreole,,331,mcr,mfe,{},-20.3333333333,57.5,Africa,,Mauritian Creole,989,False,False
+soqotri,,10,soq,sqt,{},12.5,54.0,Africa,,Soqotri,1423,False,False
+malagasy,,73,mal,plt,{},-20.0,47.0,Africa,,Malagasy,2529,True,True
+somali,,545,som,som,{},3.0,45.0,Africa,,Somali,2364,False,False
+comorian,,274,com,swb,{},-12.0,44.0,Africa,,Comorian,308,False,False
+harari,,10,hrr,har,{},9.25,42.1666666667,Africa,,Harari,99,False,False
+qafar,,545,qaf,aar,{},12.0,42.0,Africa,,Qafar,1814,False,False
+oromoharar,,545,orh,hae,{},9.0,42.0,Africa,,Oromo (Harar),2513,True,True
+dahalo,,546,dah,dal,{},-2.33333333333,40.5,Africa,,Dahalo,1447,False,False
+makonde,,274,mkd,kde,{},-11.0,40.0,Africa,,Makonde,1040,False,False
+oromowaata,,545,orw,ssn,{},-3.33333333333,39.8333333333,Africa,,Oromo (Waata),1661,False,False
+saho,,545,sao,ssy,{},14.75,39.75,Africa,,Saho,591,False,False
+ekoti,,274,eko,eko,{},-16.5,39.5,Africa,,Ekoti,794,False,False
+matuumbi,,274,mtb,mgw,{},-8.5,39.0,Africa,,Matuumbi,1315,False,False
+mwera,,274,mwe,mwe,{},-9.0,39.0,Africa,,Mwera,1614,False,False
+swahili,,274,swa,swh,{},-6.5,39.0,Africa,,Swahili,2521,True,True
+dabida,,274,dbd,dav,{},-4.0,38.6666666667,Africa,,Dabida,670,False,False
+makua,,274,mua,"mgh, xsq",{},-15.0,38.6666666667,Africa,,Makua,1255,False,False
+oromoboraana,,545,orb,gax,{},4.5,38.5,Africa,,Oromo (Boraana),734,False,False
+soddo,,10,sod,gru,{},8.5,38.5,Africa,,Soddo,1276,False,False
+tigrinya,,10,tig,tir,{},14.5,38.5,Africa,,Tigrinya,1488,False,False
+bilin,,7,bln,byn,{},15.75,38.5,Africa,,Bilin,1922,False,False
+tigre,,10,tgr,tig,{},16.5,38.5,Africa,,Tigré,2291,False,False
+sidaama,,544,sid,sid,{},6.66666666667,38.5,Africa,,Sidaama,2603,False,False
+shambala,,274,shm,ksb,{},-4.25,38.25,Africa,,Shambala,1274,False,False
+muher,,10,muh,sgw,{},8.16666666667,38.1666666667,Africa,,Muher,178,False,False
+mbugu,,1,mbg,mhd,{},-4.33333333333,38.1666666667,Africa,,Mbugu,719,False,False
+kenyansignlanguage,,330,ksl,xki,{},0.0,38.0,Africa,,Kenyan Sign Language,133,False,False
+tigrebeniamer,,10,tbe,tig,{},15.5,38.0,Africa,,Tigré (Beni Amer),467,False,False
+kami,,274,kmi,kcu,{},-6.75,38.0,Africa,,Kami,695,False,False
+kamba,,274,kba,kam,{},-1.5,38.0,Africa,,Kamba,1398,False,False
+amharic,,10,amh,amh,{},10.0,38.0,Africa,,Amharic,2387,False,False
+chaha,,10,chh,sgw,{},8.112935,37.93267,Africa,,Chaha,1863,False,False
+koorete,,13,kjr,kqy,{},5.83333333333,37.8333333333,Africa,,Koorete,140,False,False
+burji,,545,brj,bji,{},5.5,37.8333333333,Africa,,Burji,661,False,False
+bayso,,545,bys,bsw,{},6.25,37.75,Africa,,Bayso,512,False,False
+wolaytta,,13,wly,wal,{},6.83333333333,37.75,Africa,,Wolaytta,1856,False,False
+narainethiopia,,314,nar,nrb,{},15.0833333333,37.5833333333,Africa,,Nara (in Ethiopia),2178,False,False
+rendille,,545,ren,rel,{},2.0,37.5,Africa,,Rendille,1048,False,False
+kemant,,7,kem,ahg,{},12.6666666667,37.4166666667,Africa,,Kemant,1760,False,False
+yemsa,,13,yms,jnj,{},7.83333333333,37.3333333333,Africa,,Yemsa,489,False,False
+zayse,,13,zay,zay,{},5.91666666667,37.3333333333,Africa,,Zayse,1745,False,False
+dullaygollango,,545,dug,gwd,{},5.5,37.25,Africa,,Dullay (Gollango),673,False,False
+gamo,,13,gam,gmo,{},6.66666666667,37.25,Africa,,Gamo,1545,False,False
+kullo,,13,kul,gmo,{},6.75,37.0833333333,Africa,,Kullo,1360,False,False
+oromowestcentral,,545,owc,gaz,{},9.0,37.0,Africa,,Oromo (West-Central),827,False,False
+chaga,,274,cga,old,{},-3.0,37.0,Africa,,Chaga,974,False,False
+kagulu,,274,kgr,kki,{},-6.33333333333,37.0,Africa,,Kagulu,1309,False,False
+meen,,322,mee,mym,{},5.0,37.0,Africa,,Me'en,1766,False,False
+kunama,,317,knm,kun,{},14.5,37.0,Africa,,Kunama,2415,False,True
+maale,,13,mle,mdy,{},6.0,36.9166666667,Africa,,Maale,1405,False,False
+arbore,,545,abo,arv,{},5.0,36.75,Africa,,Arbore,1211,False,False
+kikuyu,,274,kik,kik,{},-0.75,36.75,Africa,,Kikuyu,1898,False,False
+awngi,,7,awn,awn,{},10.8333333333,36.6666666667,Africa,,Awngi,1633,False,False
+aari,,9,aar,aiw,{},6.0,36.5833333333,Africa,,Aari,1668,False,False
+gorowa,,1,gor,gow,{},-4.5,36.5,Africa,,Gorowa,680,False,False
+pogoro,,274,pog,poy,{},-8.75,36.5,Africa,,Pogoro,897,False,False
+pare,,274,pre,asa,{},-4.0,36.5,Africa,,Pare,1567,False,False
+hamer,,9,hmr,amf,{},5.0,36.5,Africa,,Hamer,1799,False,False
+dizi,,538,diz,mdx,{},6.16666666667,36.5,Africa,,Dizi,2075,False,False
+dhaasanac,,545,dha,dsh,{},4.66666666667,36.3333333333,Africa,,Dhaasanac,1502,False,False
+kefa,,9,kef,kbr,{},7.25,36.25,Africa,,Kefa,1310,False,False
+dime,,9,dim,dim,{},6.16666666667,36.25,Africa,,Dime,1543,False,False
+shinassha,,13,ssh,bwo,{},10.4166666667,36.1666666667,Africa,,Shinassha,749,False,False
+mursi,,322,mur,muz,{},5.58333333333,36.0833333333,Africa,,Mursi,1470,False,False
+koegu,,322,koe,xwg,{},7.0,36.0833333333,Africa,,Koegu,1688,False,False
+hehe,,274,heh,heh,{},-8.0,36.0,Africa,,Hehe,1116,False,False
+langi,,274,lgi,lag,{},-4.5,36.0,Africa,,Langi,1182,False,False
+ngoni,,274,ngo,ngo,{},-11.0,36.0,Africa,,Ngoni,1698,False,False
+burunge,,1,brn,bds,{},-5.33333333333,36.0,Africa,,Burunge,2038,False,False
+maasai,,320,maa,mas,{},-3.0,36.0,Africa,,Maasai,2315,False,False
+beja,,3,bej,bej,{},18.0,36.0,Africa,,Beja,2401,False,True
+gumuz,,321,gmz,guk,{},12.5,35.8333333333,Africa,,Gumuz,1867,False,False
+alagwa,,1,agw,wbj,{},-5.5,35.75,Africa,,Alagwa,969,False,False
+gimira,,13,gim,bcq,{},7.0,35.75,Africa,,Gimira,1930,False,False
+moca,,13,moc,moy,{},7.58333333333,35.5,Africa,,Moca,404,False,False
+yaoinmalawi,,274,yao,yao,{},-14.5,35.5,Africa,,Yao (in Malawi),1056,False,False
+pokot,,320,pkt,pko,{},1.5,35.5,Africa,,Pokot,1734,False,False
+turkana,,320,tna,tuv,{},3.0,35.5,Africa,,Turkana,2281,False,False
+iraqw,,1,irq,irk,{},-4.0,35.5,Africa,,Iraqw,2453,False,True
+shabo,,310,shb,sbf,{},7.58333333333,35.4166666667,Africa,,Shabo,1330,False,False
+datooga,,320,dat,tcc,{},-4.33333333333,35.3333333333,Africa,,Datooga,312,False,False
+chai,,322,cai,suq,{},5.33333333333,35.3333333333,Africa,,Chai,1677,False,False
+sena,,274,sen,seh,{},-18.0,35.25,Africa,,Sena,596,False,False
+tirmaga,,322,trm,suq,{},5.75,35.25,Africa,,Tirmaga,1372,False,False
+hadza,,166,had,hts,{},-3.75,35.1666666667,Africa,,Hadza,1235,False,False
+tanzaniasignlanguage,,330,tsl,tza,{},-6.0,35.0,Africa,,Tanzania Sign Language,459,False,False
+majang,,322,maj,mpe,{},6.75,35.0,Africa,,Majang,1762,False,False
+sandawe,,214,sdw,sad,{},-5.0,35.0,Africa,,Sandawe,1776,False,False
+nandi,,320,nan,kln,{},0.25,35.0,Africa,,Nandi,2336,False,False
+gusii,,274,gus,guz,{},-0.75,34.8333333333,Africa,,Gusii,97,False,False
+pangwa,,274,png,pbr,{},-10.0,34.75,Africa,,Pangwa,1002,False,False
+so,,316,so,teu,{},2.58333333333,34.75,Africa,,So,2224,False,False
+luo,,320,luo,luo,{},-0.5,34.75,Africa,,Luo,2301,False,False
+bukusu,,274,buk,bxk,{},0.75,34.6666666667,Africa,,Bukusu,518,False,False
+rimi,,274,rim,rim,{},-5.0,34.6666666667,Africa,,Rimi,833,False,False
+berta,,319,ber,wti,{},10.3333333333,34.6666666667,Africa,,Berta,2132,False,False
+sebei,,320,seb,kpz,{},1.33333333333,34.5833333333,Africa,,Sebei,1815,False,False
+baale,,322,blj,koe,{},6.5,34.5,Africa,,Baale,509,False,False
+luyia,,274,luy,luy,{},0.416666666667,34.5,Africa,,Luyia,555,False,False
+karimojong,,320,kmj,kdj,{},3.0,34.1666666667,Africa,,Karimojong,1976,False,False
+ik,,316,ik,ikx,{},3.75,34.1666666667,Africa,,Ik,2262,False,False
+kinga,,274,kga,zga,{},-9.0,34.0,Africa,,Kinga,1246,False,False
+chichewa,,274,cic,nya,{},-14.0,34.0,Africa,,Chichewa,1950,False,False
+ingessana,,298,igs,tbi,{},11.5,34.0,Africa,,Ingessana,1956,False,False
+teso,,320,tes,teo,{},1.83333333333,33.8333333333,Africa,,Teso,1883,False,False
+komo,,300,kom,xom,{},8.75,33.75,Africa,,Komo,1997,False,False
+nyangi,,316,nyg,nyp,{},3.41666666667,33.5833333333,Africa,,Nyangi,1260,False,False
+didinga,,322,did,did,{},4.5,33.5,Africa,,Didinga,1927,False,False
+anywa,,320,any,anu,{},8.0,33.5,Africa,,Anywa,1946,False,False
+murle,,322,mrl,mur,{},6.5,33.5,Africa,,Murle,2384,False,True
+nyiha,,274,nyh,nih,{},-10.0,33.0,Africa,,Nyiha,891,False,False
+nubiankunuz,,307,nku,kzh,{},23.0,33.0,Africa,,Nubian (Kunuz),1476,False,False
+nyamwezi,,274,nym,nym,{},-5.0,33.0,Africa,,Nyamwezi,1773,False,False
+lango,,320,lan,laj,{},2.16666666667,33.0,Africa,,Lango,2512,True,True
+acholi,,320,acl,ach,{},3.0,32.6666666667,Africa,,Acholi,1886,False,False
+ugandansignlanguage,,330,ugs,ugn,{},1.0,32.5,Africa,,Ugandan Sign Language,480,False,False
+ronga,,274,rga,rng,{},-26.0,32.5,Africa,,Ronga,1091,False,False
+tennet,,322,ten,tex,{},4.41666666667,32.5,Africa,,Tennet,1882,False,False
+pari,,320,par,lkr,{},5.0,32.5,Africa,,Päri,2007,False,False
+luganda,,274,lda,lug,{},0.5,32.1666666667,Africa,,Luganda,2026,False,False
+nubi,,331,nub,kcn,{},0.666666666667,32.0833333333,Africa,,Nubi,574,False,False
+sukuma,,274,skm,suk,{},-2.83333333333,32.0,Africa,,Sukuma,837,False,False
+tsonga,,274,tsn,tso,{},-24.0,32.0,Africa,,Tsonga,843,False,False
+nuer,,320,nue,nus,{},8.33333333333,32.0,Africa,,Nuer,1909,False,False
+coptic,,8,cop,cop,{},26.0,32.0,Africa,,Coptic,2187,False,False
+shilluk,,320,shl,shk,{},9.66666666667,31.75,Africa,,Shilluk,1913,False,False
+kuku,,320,kuk,bfa,{},5.83333333333,31.6666666667,Africa,,Kukú,1124,False,False
+bari,,320,bar,bfa,{},5.0,31.6666666667,Africa,,Bari,2146,False,False
+haya,,274,hya,hay,{},-2.0,31.5,Africa,,Haya,1596,False,False
+madi,,304,mad,mhi,{},3.25,31.5,Africa,,Ma'di,2045,False,False
+nyambo,,274,nbo,now,{},-1.0,31.3333333333,Africa,,Nyambo,730,False,False
+runyororutooro,,274,rru,nyo,{},1.5,31.3333333333,Africa,,Runyoro-Rutooro,1092,False,False
+lafofa,,280,laf,laf,{},10.25,31.25,Africa,,Lafofa,709,False,False
+mambwe,,274,mmw,mgr,{},-9.08333333333,31.1666666667,Africa,,Mambwe,884,False,False
+rashad,,282,ras,ras,{},11.8333333333,31.05,Africa,,Rashad,1368,False,False
+zulunorthern,,274,zno,zul,{},-28.0,31.0,Africa,,Zulu (Northern),265,False,False
+karanga,,274,krg,sna,{},-20.0,31.0,Africa,,Karanga,350,False,False
+ghulfan,,307,nbh,ghl,{},12.0,31.0,Africa,,Ghulfan,822,False,False
+nobiin,,307,nob,fia,{},21.0,31.0,Africa,,Nobiin,1415,False,False
+swati,,274,swt,ssw,{},-26.5,31.0,Africa,,Swati,1532,False,False
+shona,,274,shn,sna,{},-18.0,31.0,Africa,,Shona,2105,False,False
+arabicegyptian,,10,aeg,arz,{},30.0,31.0,Africa,,Arabic (Egyptian),2518,True,True
+lugbara,,304,lug,lgg,{},3.08333333333,30.9166666667,Africa,,Lugbara,2314,False,False
+nsenga,,274,nse,nse,{},-14.5,30.8333333333,Africa,,Nsenga,1322,False,False
+orig,,282,ori,ras,{},12.1666666667,30.8333333333,Africa,,Orig,1523,False,False
+nubiandongolese,,307,nbd,kzh,{},18.25,30.75,Africa,,Nubian (Dongolese),2394,False,True
+otoro,,285,otr,otr,{},11.1666666667,30.5,Africa,,Otoro,580,False,False
+jomang,,281,jom,tlo,{},10.5833333333,30.5,Africa,,Jomang,1241,False,False
+lendu,,299,ldu,led,{},2.0,30.5,Africa,,Lendu,1725,False,False
+runyankore,,274,rny,nyn,{},-0.5,30.5,Africa,,Runyankore,1735,False,False
+ngiti,,299,nti,niy,{},1.33333333333,30.25,Africa,,Ngiti,2377,False,True
+moro,,285,mro,mor,{},11.0,30.1666666667,Africa,,Moro,2177,False,False
+zulusouthern,,274,zso,zul,{},-31.0,30.0,Africa,,Zulu (Southern),266,False,False
+logoti,,304,lgt,log,{},3.5,30.0,Africa,,Logoti,379,False,False
+mundu,,287,mdu,muh,{},4.5,30.0,Africa,,Mündü,722,False,False
+rundi,,274,rnd,run,{},-3.5,30.0,Africa,,Rundi,742,False,False
+venda,,274,ven,ven,{},-22.0,30.0,Africa,,Venda,1283,False,False
+dongo,,287,dgo,doo,{},3.0,30.0,Africa,,Dongo,1389,False,False
+masakin,,281,msk,jle,{},10.6666666667,30.0,Africa,,Masakin,1406,False,False
+shatt,,318,sht,shj,{},10.8333333333,30.0,Africa,,Shatt,1481,False,False
+avokaya,,304,avo,avu,{},4.66666666667,30.0,Africa,,Avokaya,1496,False,False
+kinyarwanda,,274,kin,kin,{},-2.0,30.0,Africa,,Kinyarwanda,1761,False,False
+jurmodo,,305,jmo,bex,{},6.0,30.0,Africa,,Jur Mödö,1932,False,False
+krongo,,198,kro,kgo,{},10.5,30.0,Africa,,Krongo,2497,True,True
+zulu,,274,zul,zul,{},-30.0,30.0,Africa,,Zulu,2516,True,True
+holoholo,,274,hol,hoo,{},-5.16666666667,29.9166666667,Africa,,Holoholo,1071,False,False
+nkorekiga,,274,nko,cgg,{},-0.916666666667,29.8333333333,Africa,,Nkore-Kiga,2421,False,True
+moru,,304,mou,mgd,{},4.75,29.75,Africa,,Moru,1906,False,False
+talinga,,274,tal,tlj,{},0.416666666667,29.6666666667,Africa,,Talinga,1052,False,False
+katcha,,198,ktc,xtc,{},10.8333333333,29.6666666667,Africa,,Katcha,1244,False,False
+kadugli,,198,kad,xtc,{},11.0,29.6666666667,Africa,,Kadugli,1685,False,False
+tabwa,,274,tbw,tap,{},-8.0,29.5,Africa,,Tabwa,1425,False,False
+temein,,297,tmn,teq,{},11.9166666667,29.4166666667,Africa,,Temein,1848,False,False
+katla,,284,ktl,kcr,{},11.8333333333,29.3333333333,Africa,,Katla,1723,False,False
+nyimang,,302,nyi,nyi,{},12.1666666667,29.3333333333,Africa,,Nyimang,1940,False,False
+bakainsudan,,305,bka,bdh,{},4.83333333333,29.25,Africa,,Baka (in Sudan),1441,False,False
+tima,,284,tia,tms,{},11.6666666667,29.25,Africa,,Tima,2577,False,False
+nande,,274,nde,nnb,{},-0.0833333333333,29.1666666667,Africa,,Nande,944,False,False
+lese,,303,les,les,{},2.0,29.0,Africa,,Lese,374,False,False
+sothonorthern,,274,stn,nso,{},-24.0,29.0,Africa,,Sotho (Northern),1424,False,False
+mamvu,,303,mmv,mdi,{},3.25,29.0,Africa,,Mamvu,1515,False,False
+ndebeleinsouthafrica,,274,ndb,nbl,{},-25.3333333333,29.0,Africa,,Ndebele (in South Africa),1810,False,False
+mayogo,,287,myg,mdm,{},3.0,29.0,Africa,,Mayogo,2587,False,False
+hunde,,274,hnd,hke,{},-1.16666666667,28.8333333333,Africa,,Hunde,1720,False,False
+bira,,274,bia,"bip, brf",{},1.0,28.75,Africa,,Bira,1103,False,False
+bongo,,305,bgo,bot,{},7.5,28.5,Africa,,Bongo,1674,False,False
+bemba,,274,bem,bmy,{},-10.0,28.25,Africa,,Bemba,1296,False,False
+nyanga,,274,nng,nyj,{},-1.25,28.1666666667,Africa,,Nyanga,575,False,False
+luwo,,320,jlu,lwo,{},8.0,28.0,Africa,,Luwo,802,False,False
+lamba,,274,lmb,lam,{},-13.0,28.0,Africa,,Lamba,1081,False,False
+ma,,287,ma,msj,{},3.5,28.0,Africa,,Ma,1187,False,False
+dinka,,320,din,dip,{},8.5,28.0,Africa,,Dinka,2203,False,False
+budu,,274,bdu,buu,{},2.0,28.0,Africa,,Budu,2594,False,False
+kalanga,,274,klz,kck,{},-20.5,27.5,Africa,,Kalanga,343,False,False
+hemba,,274,hem,hem,{},-6.25,27.1666666667,Africa,,Hemba,1070,False,False
+lega,,274,leg,lea,{},-2.83333333333,27.1666666667,Africa,,Lega,1184,False,False
+ndogo,,287,ndg,ndz,{},7.75,27.0,Africa,,Ndogo,415,False,False
+barambu,,287,bbu,brm,{},3.5,27.0,Africa,,Barambu,1345,False,False
+tongainzambia,,274,toz,toi,{},-17.0,27.0,Africa,,Tonga (in Zambia),1375,False,False
+xhosa,,274,xho,xho,{},-32.0,27.0,Africa,,Xhosa,1818,False,False
+sesotho,,274,ses,sot,{},-28.0,27.0,Africa,,Sesotho,1963,False,False
+ila,,274,ila,ilb,{},-15.5833333333,26.5,Africa,,Ila,1600,False,False
+mangbetu,,315,mbt,mdj,{},2.5,26.5,Africa,,Mangbetu,1653,False,False
+midob,,307,mid,mei,{},15.0833333333,26.25,Africa,,Midob,938,False,False
+tswana,,274,tsw,tsn,{},-24.0,26.0,Africa,,Tswana,844,False,False
+lozi,,274,loz,loz,{},-17.8333333333,26.0,Africa,,Lozi,933,False,False
+kiluba,,274,kil,lub,{},-8.0,26.0,Africa,,Kiluba,1311,False,False
+zande,,287,zan,zne,{},4.0,26.0,Africa,,Zande,2185,False,False
+aja,,301,aja,aja,{},7.33333333333,25.6666666667,Africa,,Aja,1099,False,False
+mituku,,274,mit,zmq,{},-1.66666666667,25.5,Africa,,Mituku,393,False,False
+berbersiwa,,4,bsi,siz,{},29.1666666667,25.5,Africa,,Berber (Siwa),915,False,False
+enya,,274,eny,gey,{},-0.5,25.25,Africa,,Enya,316,False,False
+dajudarfur,,318,ddf,daj,{},12.25,25.25,Africa,,Daju (Dar Fur),1225,False,False
+yulu,,305,yul,yul,{},8.5,25.25,Africa,,Yulu,2034,False,False
+birri,,305,brz,bvq,{},5.5,25.1666666667,Africa,,Birri,288,False,False
+binga,,305,big,yul,{},8.0,25.0,Africa,,Binga,865,False,False
+lebeo,,274,leb,agh,{},1.75,25.0,Africa,,Lebeo,1126,False,False
+mba,,287,mba,mfc,{},1.0,25.0,Africa,,Mba,1904,False,False
+fur,,306,fur,fvr,{},13.5,25.0,Africa,,Fur,2367,False,True
+hoan,,213,huc,huc,{},-25.5,25.0,Africa,,=|Hoan,2671,False,False
+subiya,,274,sub,sbs,{},-17.75,24.9166666667,Africa,,Subiya,602,False,False
+mbole,,274,mbl,mdq,{},-0.666666666667,24.6666666667,Africa,,Mbole,1087,False,False
+deti,,210,det,shg,{},-20.5,24.5,Africa,,Deti,1228,False,False
+kresh,,301,kre,krs,{},8.5,24.5,Africa,,Kresh,1804,False,False
+tetela,,274,tet,tll,{},-4.0,24.0,Africa,,Tetela,842,False,False
+lunda,,274,lbu,lun,{},-10.6666666667,24.0,Africa,,Lunda,1874,False,False
+kanyok,,274,kyo,kny,{},-7.33333333333,23.5833333333,Africa,,Kanyok,348,False,False
+yeyi,,274,yey,yey,{},-20.0,23.5,Africa,,Yeyi,1379,False,False
+doko,,274,dok,ngc,{},3.0,23.0833333333,Africa,,Doko,923,False,False
+ngombe,,274,nbe,ngc,{},3.0,23.0,Africa,,Ngombe,725,False,False
+nzakara,,287,nza,nzk,{},5.0,23.0,Africa,,Nzakara,1563,False,False
+karaincentralafricanrepublic,,305,kar,kah,{},10.0,23.0,Africa,,Kara (in Central African Republic),1643,False,False
+beria,,312,zag,zag,{},16.0,23.0,Africa,,Beria,2599,False,False
+kete,,274,kte,kcv,{},-7.0,22.8333333333,Africa,,Kete,1359,False,False
+kxoe,,210,kxo,xuu,{},-17.5,22.5,Africa,,Kxoe,1648,False,False
+gulaincentralafricanrepublic,,305,gul,glu,{},9.5,22.5,Africa,,Gula (in Central African Republic),1682,False,False
+songe,,274,sge,sop,{},-6.83333333333,22.0,Africa,,Songe,450,False,False
+ngbandi,,287,ndi,"nbw, ngb",{},3.75,22.0,Africa,,Ngbandi,571,False,False
+arabiceasternlibyan,,10,ael,ayl,{},32.0,22.0,Africa,,Arabic (Eastern Libyan),634,False,False
+miisiirii,,311,mii,tma,{},13.5,22.0,Africa,,Miisiirii,939,False,False
+afrikaans,,181,afr,afr,{},-31.0,22.0,Africa,,Afrikaans,1380,False,False
+ciluba,,274,cil,lua,{},-6.0,22.0,Africa,,CiLuba,1501,False,False
+tama,,311,tma,tma,{},14.5,22.0,Africa,,Tama,1846,False,False
+masalit,,313,msl,mls,{},13.3333333333,22.0,Africa,,Masalit,2101,False,False
+luvale,,274,luv,lue,{},-12.0,22.0,Africa,,Luvale,2460,True,True
+ani,,210,ani,hnh,{},-18.9166666667,21.9166666667,Africa,,//Ani,2090,False,False
+sila,,318,sil,dau,{},12.3333333333,21.75,Africa,,Sila,1051,False,False
+sungor,,311,sug,sjg,{},13.75,21.5,Africa,,Sungor,1009,False,False
+bushoong,,274,bsh,buf,{},-4.5,21.5,Africa,,Bushoong,1588,False,False
+mondunga,,287,mga,ndt,{},2.25,21.5,Africa,,Mondunga,1613,False,False
+xoo,,211,xoo,nmn,{},-24.0,21.5,Africa,,!Xóõ,2033,False,False
+benalulua,,274,blu,lua,{},-6.0,21.0,Africa,,Bena-Lulua,862,False,False
+xam,,211,xam,xam,{},-31.0,21.0,Africa,,/Xam,1336,False,False
+mongo,,274,mgo,lol,{},0.0,21.0,Africa,,Mongo,1411,False,False
+runga,,313,run,rou,{},10.3333333333,21.0,Africa,,Runga,1706,False,False
+juhoan,,212,juh,ktz,{},-19.0,21.0,Africa,,Ju|'hoan,2450,False,True
+arabicabbechechad,,10,abb,shu,{},13.8333333333,20.8333333333,Africa,,Arabic (Abbéché Chad),275,False,False
+maba,,313,mab,mde,{},13.75,20.8333333333,Africa,,Maba,2340,False,True
+linda,,287,lnd,liy,{},6.5,20.75,Africa,,Linda,2099,False,False
+bagiro,,305,bgr,fuu,{},4.33333333333,20.5833333333,Africa,,Bagiro,1634,False,False
+nharo,,210,nro,nhr,{},-22.3333333333,20.5,Africa,,Nharo,572,False,False
+korana,,210,krn,kqz,{},-29.5,20.5,Africa,,Korana,1957,False,False
+lucazi,,274,luc,lch,{},-14.0,20.0,Africa,,Lucazi,1127,False,False
+ngbakaminagende,,537,ngb,nga,{},3.5,20.0,Africa,,Ngbaka (Minagende),1321,False,False
+migama,,2,mig,mmy,{},12.1666666667,19.8333333333,Africa,,Migama,561,False,False
+ding,,274,dng,diz,{},-4.33333333333,19.5,Africa,,Ding,526,False,False
+kwangali,,274,kwn,kwn,{},-18.0,19.5,Africa,,Kwangali,1724,False,False
+gulairo,,279,gir,glj,{},10.25,19.4166666667,Africa,,Gula Iro,324,False,False
+herero,,274,her,her,{},-20.5833333333,19.0,Africa,,Herero,799,False,False
+bidiya,,2,bid,bid,{},11.9166666667,18.75,Africa,,Bidiya,1442,False,False
+lingala,,274,lin,lin,{},2.0,18.5,Africa,,Lingala,2002,False,False
+yakoma,,287,ykm,yky,{},4.41666666667,18.4166666667,Africa,,Yakoma,621,False,False
+munzombo,,287,mnz,moj,{},3.0,18.4166666667,Africa,,Munzombo,2588,False,False
+ngbakamabo,,287,nbm,nbm,{},3.56,18.36,Africa,,Ngbaka (Ma'bo),2679,False,False
+ntomba,,274,nto,nto,{},-2.0,18.3333333333,Africa,,Ntomba,997,False,False
+bolia,,274,bol,bli,{},-1.25,18.3333333333,Africa,,Bolia,1023,False,False
+dangaleatwestern,,2,dnw,daa,{},12.1666666667,18.3333333333,Africa,,Dangaléat (Western),1226,False,False
+mokilko,,2,mko,moz,{},11.9166666667,18.0833333333,Africa,,Mokilko,565,False,False
+xunekoka,,212,xun,knw,{},-19.6666666667,18.0,Africa,,!Xun (Ekoka),620,False,False
+yansi,,274,yns,yns,{},-3.83333333333,18.0,Africa,,Yansi,850,False,False
+kenga,,305,ken,kyq,{},12.0,18.0,Africa,,Kenga,1552,False,False
+sango,,287,san,sag,{},5.0,18.0,Africa,,Sango,2461,True,True
+khoekhoe,,210,kho,naq,{},-25.5,18.0,Africa,,Khoekhoe,2493,True,True
+day,,279,day,dai,{},8.75,17.8333333333,Africa,,Day,1302,False,False
+lua,,279,lua,nie,{},9.75,17.75,Africa,,Lua,1253,False,False
+laal,,227,laa,gdm,{},10.0,17.6666666667,Africa,,Laal,1649,False,False
+suku,,274,sku,sub,{},-6.0,17.6666666667,Africa,,Suku,2597,False,False
+kituba,,331,ktb,ktu,{},-5.0,17.5,Africa,,Kituba,360,False,False
+yaka,,274,yak,yaf,{},-7.0,17.5,Africa,,Yaka,486,False,False
+mbay,,305,mby,myb,{},8.25,17.5,Africa,,Mbay,2156,False,False
+gbeyabossangoa,,537,gbb,gbp,{},6.66666666667,17.5,Africa,,Gbeya Bossangoa,2276,False,False
+tumak,,2,tmk,tmc,{},9.5,17.3333333333,Africa,,Tumak,236,False,False
+sengele,,274,sgl,szg,{},-1.83333333333,17.3333333333,Africa,,Sengele,1050,False,False
+bobangi,,274,bob,bni,{},-1.33333333333,17.3333333333,Africa,,Bobangi,1218,False,False
+babole,,274,bbl,bvx,{},1.08333333333,17.25,Africa,,Babole,1342,False,False
+ndonga,,274,ndo,ndo,{},-18.0,17.0,Africa,,Ndonga,2003,False,False
+mango,,305,mgq,mge,{},8.75,17.0,Africa,,Mango,2600,False,False
+aka,,274,aka,axk,{},2.66666666667,16.25,Africa,,Aka,4,False,False
+ngambay,,305,ngm,sba,{},8.66666666667,16.0,Africa,,Ngambay,1961,False,False
+bagirmi,,305,bag,bmi,{},11.6666666667,16.0,Africa,,Bagirmi,2462,True,True
+kosop,,279,ksp,kia,{},9.91666666667,15.9166666667,Africa,,Kosop,139,False,False
+lele,,2,lel,lln,{},9.08333333333,15.5833333333,Africa,,Lele,2222,False,False
+kohlakka,,279,klk,xuo,{},8.0,15.5,Africa,,Koh (Lakka),882,False,False
+mbodomo,,537,mdo,gmm,{},4.5,15.5,Africa,,Mbodomo,1364,False,False
+masa,,11,mas,mcn,{},10.5,15.5,Africa,,Masa,1610,False,False
+mbosi,,274,mdw,mdw,{},-1.25,15.5,Africa,,Mbosi,2593,False,False
+mbara,,5,mbr,mpk,{},11.0,15.4166666667,Africa,,Mbara,1654,False,False
+ifumu,,274,ifm,ifm,{},-3.66666666667,15.3333333333,Africa,,Ifumu,800,False,False
+kotoko,,5,ktk,aal,{},11.3333333333,15.3333333333,Africa,,Kotoko,1312,False,False
+kera,,2,ker,ker,{},9.83333333333,15.0833333333,Africa,,Kera,2369,False,True
+mbalanhu,,274,mhu,lnb,{},-17.5,15.0,Africa,,Mbalanhu,990,False,False
+kanembu,,309,kbu,kbl,{},14.0,15.0,Africa,,Kanembu,1034,False,False
+umbundu,,274,umb,umb,{},-12.5,15.0,Africa,,UMbundu,1282,False,False
+gbayakara,,537,gbk,gya,{},6.0,15.0,Africa,,Gbaya Kara,1547,False,False
+tubu,,309,tbu,"dzg, tuq",{},16.0,15.0,Africa,,Tubu,2088,False,False
+kongo,,274,kon,"kng, kwy",{},-5.0,15.0,Africa,,Kongo,2313,False,True
+musgu,,5,mgu,mug,{},10.8333333333,14.9166666667,Africa,,Musgu,1907,False,False
+lagwan,,5,lag,kot,{},11.5,14.8333333333,Africa,,Lagwan,1607,False,False
+tupuri,,279,tpr,tui,{},10.1666666667,14.75,Africa,,Tupuri,845,False,False
+tekesouthern,,274,tks,kkw,{},-2.33333333333,14.5,Africa,,Teke (Southern),1203,False,False
+lame,,11,lam,lme,{},9.0,14.5,Africa,,Lamé,1251,False,False
+mundang,,279,mdg,mua,{},9.66666666667,14.5,Africa,,Mundang,1412,False,False
+buduma,,5,bud,bdm,{},13.5,14.5,Africa,,Buduma,1991,False,False
+giziga,,5,giz,"gis, giz",{},10.3333333333,14.1666666667,Africa,,Giziga,86,False,False
+madaincameroon,,5,mda,mxu,{},10.8333333333,14.1666666667,Africa,,Mada (in Cameroon),1082,False,False
+uldeme,,5,uld,udl,{},10.95,14.1166666667,Africa,,Uldeme,1781,False,False
+beembe,,274,bee,beq,{},-3.91666666667,14.0833333333,Africa,,Beembe,1216,False,False
+podoko,,5,pod,pbi,{},11.0,14.0833333333,Africa,,Podoko,1477,False,False
+gidar,,5,gdr,gid,{},10.0,14.0,Africa,,Gidar,85,False,False
+yagdii,,279,ygd,dur,{},8.0,14.0,Africa,,Yag Dii,250,False,False
+fiote,,274,fio,kng,{},-5.5,14.0,Africa,,Fiote,872,False,False
+mbere,,274,mbe,mdt,{},-0.5,14.0,Africa,,Mbere,1131,False,False
+mofugudur,,5,mof,mif,{},10.5,14.0,Africa,,Mofu-Gudur,1410,False,False
+mambai,,279,mmi,mcs,{},9.66666666667,14.0,Africa,,Mambai,2586,False,False
+vili,,274,vif,vif,{},-5.5,14.0,Africa,,Vili,2595,False,False
+mina,,5,hna,hna,{},10.3333333333,13.8333333333,Africa,,Mina,2602,False,False
+guduf,,5,gdf,gdf,{},11.2333333333,13.8,Africa,,Guduf,536,False,False
+daba,,5,dab,"dbq, dkx",{},10.1666666667,13.75,Africa,,Daba,522,False,False
+malgwa,,5,mlg,mfi,{},11.5,13.75,Africa,,Malgwa,1763,False,False
+hdi,,5,hdi,xed,{},11.8666666667,13.7166666667,Africa,,Hdi,876,False,False
+bana,,5,ban,bcw,{},10.4166666667,13.5833333333,Africa,,Bana,28,False,False
+ndumu,,274,ndu,nmd,{},-1.66666666667,13.5833333333,Africa,,Ndumu,1473,False,False
+bakaincameroon,,287,bak,bkc,{},2.58333333333,13.5833333333,Africa,,Baka (in Cameroon),1825,False,False
+lamang,,5,lmg,hia,{},11.25,13.5833333333,Africa,,Lamang,1836,False,False
+fulacameroonian,,276,fua,fub,{},9.16666666667,13.5,Africa,,Fula (Cameroonian),1892,False,False
+gude,,5,gud,gde,{},10.4166666667,13.4166666667,Africa,,Gude,2076,False,False
+kilba,,5,klb,hbb,{},10.3333333333,13.1666666667,Africa,,Kilba,359,False,False
+mbum,,279,mbm,mdd,{},7.75,13.1666666667,Africa,,Mbum,1959,False,False
+doyayo,,279,doy,dow,{},8.66666666667,13.0833333333,Africa,,Doyayo,2249,False,False
+duma,,274,dma,dma,{},-0.95,13.0,Africa,,Duma,980,False,False
+margi,,5,mrg,mrt,{},11.0,13.0,Africa,,Margi,2335,False,False
+kanuri,,309,knr,knc,{},12.0,13.0,Africa,,Kanuri,2500,False,True
+gaanda,,5,gnd,gqa,{},10.3333333333,12.5833333333,Africa,,Ga'anda,1168,False,False
+sambaleko,,279,sle,ndi,{},8.5,12.5,Africa,,Samba Leko,1421,False,False
+arabicbornonigerian,,10,arn,shu,{},8.58333333333,12.4166666667,Africa,,Arabic (Borno Nigerian),13,False,False
+burapabir,,5,bpa,bwr,{},10.5,12.25,Africa,,Bura-Pabir,40,False,False
+makaa,,274,mkz,mcp,{},3.41666666667,12.25,Africa,,Makaa,935,False,False
+iwoyo,,274,kwy,kwy,{},-5.5,12.25,Africa,,Iwoyo,2596,False,False
+ewondo,,274,ewo,ewo,{},4.0,12.0,Africa,,Ewondo,2135,False,False
+kanakuru,,6,knk,kna,{},10.0,12.0,Africa,,Kanakuru,2220,False,False
+sangu,,274,sgu,snq,{},-1.5,11.8333333333,Africa,,Sangu,1478,False,False
+tera,,5,ter,ttr,{},11.0,11.8333333333,Africa,,Tera,2242,False,False
+tikar,,274,tik,tik,{},5.83333333333,11.6666666667,Africa,,Tikar,1332,False,False
+mumuye,,279,mum,mzm,{},9.0,11.6666666667,Africa,,Mumuye,2240,False,False
+tuki,,274,tki,bag,{},4.58333333333,11.5,Africa,,Tuki,958,False,False
+mambila,,274,mla,"mcu, mzk",{},6.75,11.5,Africa,,Mambila,1608,False,False
+tsogo,,274,tgo,tsv,{},-1.5,11.3333333333,Africa,,Tsogo,904,False,False
+tangale,,6,tan,tan,{},9.75,11.3333333333,Africa,,Tangale,954,False,False
+fulanigombe,,276,fgo,fub,{},10.25,11.25,Africa,,Fulani (Gombe),65,False,False
+bole,,6,blq,bol,{},11.3333333333,11.25,Africa,,Bole,517,False,False
+gunu,,274,gun,yas,{},4.58333333333,11.25,Africa,,Gunu,681,False,False
+bafia,,274,bfi,ksf,{},5.0,11.1666666667,Africa,,Bafia,1156,False,False
+mbe,,274,mbz,mtk,{},6.28333333333,11.0833333333,Africa,,Mbe',170,False,False
+yamba,,274,yba,yam,{},6.41666666667,11.0833333333,Africa,,Yamba,252,False,False
+bulu,,274,buw,bum,{},3.0,11.0,Africa,,Bulu,519,False,False
+kwami,,6,kwm,ksq,{},10.4166666667,11.0,Africa,,Kwami,931,False,False
+pero,,6,per,pip,{},9.58333333333,11.0,Africa,,Pero,2129,False,False
+bamun,,274,bmn,bax,{},5.5,10.9166666667,Africa,,Bamun,27,False,False
+ngizim,,6,ngz,ngi,{},12.0833333333,10.9166666667,Africa,,Ngizim,2279,False,False
+lamnso,,274,lns,lns,{},6.16666666667,10.75,Africa,,Lamnso',146,False,False
+tunen,,274,tnn,baz,{},4.75,10.6666666667,Africa,,Tunen,1852,False,False
+noni,,274,non,nhu,{},6.41666666667,10.5833333333,Africa,,Noni,2128,False,False
+oku,,274,oku,oku,{},6.25,10.5,Africa,,Oku,194,False,False
+bade,,6,bad,bde,{},12.8333333333,10.5,Africa,,Bade,279,False,False
+basaa,,274,bas,bas,{},3.91666666667,10.5,Africa,,Basaá,1295,False,False
+jarawainnigeria,,274,jar,jar,{},9.5,10.5,Africa,,Jarawa (in Nigeria),1508,False,False
+fulanigerian,,276,fni,fuv,{},8.16666666667,10.5,Africa,,Fula (Nigerian),2227,False,False
+jukun,,283,juk,jbu,{},6.91666666667,10.4166666667,Africa,,Jukun,1756,False,False
+babungo,,274,bab,bav,{},6.11666666667,10.4166666667,Africa,,Babungo,2246,False,False
+kom,,274,kou,bkm,{},6.25,10.3333333333,Africa,,Kom,138,False,False
+arabictunisian,,10,atu,aeb,{},36.75,10.25,Africa,,Arabic (Tunisian),911,False,False
+mbili,,274,mbi,baw,{},6.11666666667,10.2,Africa,,Mbili,1556,False,False
+bujeba,,274,buj,nmg,{},3.0,10.1666666667,Africa,,Bujeba,292,False,False
+kpan,,283,kpa,kpk,{},7.58333333333,10.1666666667,Africa,,Kpan,1248,False,False
+fefe,,274,fef,fmp,{},5.25,10.1666666667,Africa,,Fe'fe',1304,False,False
+tuaregghat,,4,tgh,thv,{},25.0,10.1666666667,Africa,,Tuareg (Ghat),1430,False,False
+mankon,,274,mkq,nge,{},6.0,10.1666666667,Africa,,Mankon,2592,False,False
+yemba,,274,yem,ybb,{},5.41666666667,10.0833333333,Africa,,Yemba,254,False,False
+tarok,,283,tok,yer,{},9.0,10.0833333333,Africa,,Tarok,1279,False,False
+ngemba,,274,nge,nge,{},6.2,10.0,Africa,,Ngemba,188,False,False
+mungaka,,274,mgk,mhk,{},5.91666666667,10.0,Africa,,Mungaka,1256,False,False
+aghem,,274,agh,agq,{},6.66666666667,10.0,Africa,,Aghem,1381,False,False
+mundani,,274,mud,mnf,{},5.66666666667,9.91666666667,Africa,,Mundani,1044,False,False
+bafut,,274,baf,bfd,{},6.25,9.91666666667,Africa,,Bafut,1157,False,False
+goemai,,6,goe,ank,{},8.66666666667,9.75,Africa,,Goemai,1639,False,False
+miya,,6,miy,mkf,{},10.9166666667,9.66666666667,Africa,,Miya,2278,False,False
+bankon,,274,bnk,abb,{},4.41666666667,9.58333333333,Africa,,Bankon,1102,False,False
+kenyang,,274,kyg,ken,{},5.66666666667,9.5,Africa,,Kenyang,357,False,False
+mpongwe,,274,mpo,mye,{},-1.25,9.5,Africa,,Mpongwe,943,False,False
+angas,,6,anc,anc,{},9.5,9.5,Africa,,Angas,2070,False,False
+benga,,274,bga,bng,{},1.16666666667,9.41666666667,Africa,,Benga,513,False,False
+duala,,274,dua,dua,{},4.0,9.41666666667,Africa,,Duala,1451,False,False
+bakundu,,274,bkn,bdu,{},4.83333333333,9.33333333333,Africa,,Bakundu,510,False,False
+fyem,,283,fye,pym,{},9.58333333333,9.33333333333,Africa,,Fyem,2173,False,False
+bakueri,,274,bku,bri,{},4.25,9.25,Africa,,Bakueri,1343,False,False
+paa,,6,paa,pqa,{},11.0,9.25,Africa,,Pa'a,1733,False,False
+londo,,274,ldo,bdu,{},5.0,9.16666666667,Africa,,Londo,1403,False,False
+tuaregair,,4,tai,thv,{},19.0,9.0,Africa,,Tuareg (Air),1149,False,False
+tiv,,274,tiv,tiv,{},7.5,9.0,Africa,,Tiv,1204,False,False
+birom,,283,bir,bom,{},9.66666666667,8.83333333333,Africa,,Birom,2202,False,False
+mupun,,6,mup,sur,{},9.5,8.83333333333,Africa,,Mupun,2270,False,False
+ron,,6,ron,cla,{},9.0,8.75,Africa,,Ron,1328,False,False
+bubi,,274,bub,bvb,{},3.5,8.66666666667,Africa,,Bubi,919,False,False
+ejagham,,274,eja,etu,{},5.41666666667,8.66666666667,Africa,,Ejagham,1452,False,False
+amo,,286,amo,amo,{},10.3333333333,8.66666666667,Africa,,Amo,1920,False,False
+nkem,,274,nke,isi,{},6.58333333333,8.58333333333,Africa,,Nkem,945,False,False
+efik,,293,efi,efi,{},4.91666666667,8.5,Africa,,Efik,1865,False,False
+madainnigeria,,283,mdz,mda,{},8.75,8.25,Africa,,Mada (in Nigeria),156,False,False
+kagoma,,283,kgm,kdm,{},9.25,8.16666666667,Africa,,Kagoma,124,False,False
+gworok,,283,gwo,kcg,{},9.91666666667,8.16666666667,Africa,,Gworok,1114,False,False
+igede,,289,ige,ige,{},7.0,8.16666666667,Africa,,Igede,1353,False,False
+kohumono,,293,koh,bcs,{},6.0,8.11666666667,Africa,,Kohumono,1179,False,False
+izi,,272,izi,izi,{},6.33333333333,8.0,Africa,,Izi,1833,False,False
+leggbo,,293,agb,agb,{},6.0,8.0,Africa,,Leggbó,2575,False,False
+ibibio,,293,ibi,ibb,{},5.25,7.83333333333,Africa,,Ibibio,106,False,False
+obolo,,293,obo,ann,{},4.58333333333,7.83333333333,Africa,,Obolo,2049,False,False
+defaka,,288,def,afn,{},4.58333333333,7.5,Africa,,Defaka,523,False,False
+idoma,,289,ido,idu,{},6.91666666667,7.5,Africa,,Idoma,1171,False,False
+gade,,278,gad,ged,{},8.66666666667,7.41666666667,Africa,,Gade,530,False,False
+kana,,293,kan,ogo,{},4.75,7.41666666667,Africa,,Kana,2124,False,False
+principense,,331,pri,pre,{},1.61666666667,7.36666666667,Africa,,Príncipense,202,False,False
+gokana,,293,gok,gkn,{},4.58333333333,7.33333333333,Africa,,Gokana,1796,False,False
+igbo,,272,igb,ibo,{},6.0,7.33333333333,Africa,,Igbo,2410,False,True
+berberchaouia,,4,bch,shy,{},35.0,7.0,Africa,,Berber (Chaouia),1020,False,False
+ebira,,278,ebi,igb,{},8.16666666667,7.0,Africa,,Ebira,1030,False,False
+gwari,,278,gwa,gbr,{},9.5,7.0,Africa,,Gwari,2111,False,False
+hausa,,6,hau,hau,{},12.0,7.0,Africa,,Hausa,2531,True,True
+ogbronuagum,,293,obg,ogu,{},4.75,6.86666666667,Africa,,Ogbronuagum,1880,False,False
+degema,,295,deg,deg,{},4.75,6.75,Africa,,Degema,1388,False,False
+etsako,,295,ets,ets,{},7.25,6.5,Africa,,Etsako,59,False,False
+angolar,,331,ago,aoa,{},0.25,6.5,Africa,,Angolar,631,False,False
+engenni,,295,egn,enn,{},5.16666666667,6.38333333333,Africa,,Engenni,1993,False,False
+akwa,,286,awk,png,{},10.0833333333,6.33333333333,Africa,,Akwa,8,False,False
+isoko,,295,iso,iso,{},5.5,6.25,Africa,,Isoko,1238,False,False
+ogbia,,293,ogb,ogb,{},4.66666666667,6.25,Africa,,Ogbia,1261,False,False
+urhobo,,295,urh,urh,{},5.58333333333,6.0,Africa,,Urhobo,242,False,False
+tuaregahaggar,,4,tug,thv,{},23.0,6.0,Africa,,Tuareg (Ahaggar),1780,False,False
+emai,,295,ora,ema,{},7.08333333333,5.91666666667,Africa,,Emai,196,False,False
+bini,,295,bni,bin,{},6.41666666667,5.83333333333,Africa,,Bini,1384,False,False
+ghotuo,,295,gho,aaa,{},7.08333333333,5.75,Africa,,Ghotuo,84,False,False
+ijokolokuma,,288,ijo,ijc,{},4.91666666667,5.66666666667,Africa,,Ijo (Kolokuma),2300,False,False
+isekiri,,294,ise,its,{},5.66666666667,5.5,Africa,,Isekiri,690,False,False
+nupe,,278,nup,nup,{},9.16666666667,5.41666666667,Africa,,Nupe,1979,False,False
+berberwargla,,4,bou,oua,{},31.9166666667,5.33333333333,Africa,,Berber (Wargla),33,False,False
+duka,,286,duk,dud,{},11.1666666667,5.08333333333,Africa,,Duka,1794,False,False
+kabyle,,4,kbl,kab,{},36.5,5.0,Africa,,Kabyle,1757,False,False
+yoruba,,294,yor,yor,{},8.0,4.33333333333,Africa,,Yoruba,2503,True,True
+busa,,273,bus,bqp,{},9.66666666667,4.0,Africa,,Busa,1498,False,False
+berbermzab,,4,bmz,mzb,{},32.5,3.5,Africa,,Berber (Mzab),287,False,False
+boko,,273,bok,bqc,{},10.5,3.5,Africa,,Boko,917,False,False
+nigerianpidgin,,331,npi,pcm,{},6.5,3.33333333333,Africa,,Nigerian Pidgin,726,False,False
+wemenugbe,,275,wmn,wem,{},6.66666666667,2.5,Africa,,Wéménugbé,248,False,False
+bariba,,290,brb,bba,{},10.0,2.5,Africa,,Bariba,1160,False,False
+gungbe,,275,guw,guw,{},6.5,2.5,Africa,,Gungbe,2590,False,False
+fongbe,,275,fon,fon,{},6.41666666667,2.16666666667,Africa,,Fongbe,1305,False,False
+zarma,,308,zar,dje,{},13.8333333333,2.16666666667,Africa,,Zarma,1630,False,False
+ajagbe,,275,ajg,ajg,{},7.0,1.75,Africa,,Ajagbe,2589,False,False
+waama,,290,wwa,wwa,{},10.5833333333,1.66666666667,Africa,,Waama,2583,False,False
+nateni,,290,ntn,ntm,{},10.5,1.16666666667,Africa,,Nateni,414,False,False
+kabiye,,290,kby,kbp,{},9.66666666667,1.16666666667,Africa,,Kabiyé,1174,False,False
+eweanglo,,275,ewa,ewe,{},6.0,1.0,Africa,,Ewe (Anglo),317,False,False
+gurma,,290,grm,gux,{},12.25,1.0,Africa,,Gurma,326,False,False
+kposo,,275,kpo,kpo,{},7.5,0.833333333333,Africa,,Kposo,707,False,False
+gurmatogo,,290,gut,gux,{},10.75,0.666666666667,Africa,,Gurma (Togo),95,False,False
+ncam,,290,ncm,bud,{},9.33333333333,0.666666666667,Africa,,Ncàm,2584,False,False
+fulliptako,,276,fli,fuh,{},13.5,0.5,Africa,,Ful (Liptako),63,False,False
+tem,,290,tem,kdh,{},8.66666666667,0.5,Africa,,Tem,955,False,False
+lelemi,,275,llm,lef,{},7.33333333333,0.5,Africa,,Lelemi,2001,False,False
+avatime,,275,avt,avn,{},6.83333333333,0.416666666667,Africa,,Avatime,21,False,False
+ewe,,275,ewe,ewe,{},6.33333333333,0.416666666667,Africa,,Ewe,2443,False,True
+anufo,,275,anu,cko,{},10.0833333333,0.25,Africa,,Anufo,500,False,False
+chumburung,,275,cum,ncu,{},7.75,0.25,Africa,,Chumburung,666,False,False
+nkonya,,275,nkn,nko,{},7.16666666667,0.25,Africa,,Nkonya,1772,False,False
+konkomba,,290,kkb,xon,{},10.0,0.0833333333333,Africa,,Konkomba,705,False,False
+fulaburkinafaso,,276,fbf,fuh,{},14.0,0.0,Africa,,Fula (Burkina Faso),64,False,False
+bimoba,,290,bmb,bim,{},10.5,0.0,Africa,,Bimoba,1673,False,False
+koyraborosenni,,308,kse,ses,{},16.0,0.0,Africa,,Koyraboro Senni,2432,True,True
+adamorobesignlanguage,,330,ada,ads,{},5.83333333333,-0.166666666667,Africa,,Adamorobe Sign Language,268,False,False
+ga,,275,ga,gaa,{},5.66666666667,-0.166666666667,Africa,,Gã,1866,False,False
+bisa,,273,bis,bib,{},11.5,-0.5,Africa,,Bisa,1348,False,False
+dagbani,,290,dgb,dag,{},9.58333333333,-0.5,Africa,,Dagbani,2188,False,False
+tampulma,,290,tmp,tpm,{},10.4166666667,-0.583333333333,Africa,,Tampulma,1278,False,False
+mampruli,,290,mmp,maw,{},10.3333333333,-0.666666666667,Africa,,Mampruli,712,False,False
+gurenne,,290,grn,gur,{},10.8333333333,-0.916666666667,Africa,,Gurenne,874,False,False
+koromfe,,290,kfe,kfz,{},14.25,-0.916666666667,Africa,,Koromfe,2466,False,True
+buliinghana,,290,buy,bwu,{},10.5,-1.25,Africa,,Buli (in Ghana),39,False,False
+kasem,,290,ksm,xsm,{},11.25,-1.25,Africa,,Kasem,699,False,False
+moore,,290,moo,mos,{},12.8333333333,-1.25,Africa,,Mooré,1977,False,False
+akan,,275,akn,aka,{},6.5,-1.25,Africa,,Akan,2309,False,False
+kasim,,290,xsm,xsm,{},11.0,-1.33333333333,Africa,,Kàsim,2585,False,False
+konni,,290,kni,kma,{},10.25,-1.58333333333,Africa,,Konni,1606,False,False
+tamashek,,4,tsk,taq,{},20.0,-2.0,Africa,,Tamashek,2601,False,False
+vagla,,290,vag,vag,{},9.41666666667,-2.41666666667,Africa,,Vagla,962,False,False
+jamsay,,296,jms,djm,{},14.4166666667,-2.5,Africa,,Jamsay,2581,False,False
+nafaanra,,290,naf,nfr,{},8.0,-2.58333333333,Africa,,Nafaanra,723,False,False
+lyele,,290,lye,lee,{},12.5,-2.66666666667,Africa,,Lyele,382,False,False
+sisaala,,290,ssa,sld,{},10.8333333333,-2.66666666667,Africa,,Sisaala,751,False,False
+dagaare,,290,dga,dga,{},10.5,-2.66666666667,Africa,,Dagaare,1864,False,False
+kowinye,,290,kow,kst,{},11.8666666667,-2.91666666667,Africa,,Ko (Winye),548,False,False
+nuninorthern,,290,nnn,nuv,{},12.1666666667,-3.0,Africa,,Nuni (Northern),192,False,False
+koyrachiini,,308,kch,khq,{},17.0,-3.0,Africa,,Koyra Chiini,2352,False,False
+lobi,,290,lob,lob,{},10.5,-3.25,Africa,,Lobi,378,False,False
+toroso,,296,dts,dts,{},14.4166666667,-3.25,Africa,,Toro So,1229,False,False
+anyi,,275,ayi,any,{},7.0,-3.5,Africa,,Anyi,1016,False,False
+donnoso,,296,dds,dds,{},14.3333333333,-3.58333333333,Africa,,Donno So,2556,False,False
+bangime,,105,bgm,dba,{},14.9166666667,-3.83333333333,Africa,,Bangime,2598,False,False
+bozotigemaxo,,292,boz,boz,{},15.0,-4.0,Africa,,Bozo (Tigemaxo),867,False,False
+berberrif,,4,brf,rif,{},34.5,-4.0,Africa,,Berber (Rif),1826,False,False
+beng,,273,bnq,nhb,{},7.83333333333,-4.25,Africa,,Beng,284,False,False
+alladian,,275,ald,ald,{},5.16666666667,-4.33333333333,Africa,,Alladian,1210,False,False
+bobo madare northern,,292,bbf,bbo,{},12.4166666667,-4.33333333333,Africa,,Bobo Madaré (Northern),1219,False,False
+dyimini,,290,dym,dyi,{},8.41666666667,-4.41666666667,Africa,,Dyimini,674,False,False
+aizi,,277,aiz,ahp,{},5.25,-4.5,Africa,,Aizi,1154,False,False
+tenyer,,290,tny,kza,{},10.6666666667,-4.5,Africa,,Tenyer,1572,False,False
+abidji,,275,abd,abi,{},5.66666666667,-4.58333333333,Africa,,Abidji,628,False,False
+adioukrou,,275,adi,adj,{},5.41666666667,-4.58333333333,Africa,,Adioukrou,1821,False,False
+toussianwin,,290,tow,wib,{},10.8333333333,-4.66666666667,Africa,,Toussian (Win),235,False,False
+dyula,,292,dyu,dyu,{},9.83333333333,-4.66666666667,Africa,,Dyula,315,False,False
+berberaytseghrouchenmiddleatlas,,4,bse,tzm,{},33.3333333333,-4.66666666667,Africa,,Berber (Ayt Seghrouchen Middle Atlas),863,False,False
+toussian,,290,tou,"tsp, wib",{},11.0,-4.66666666667,Africa,,Toussian,1429,False,False
+kirma,,290,kir,cme,{},10.25,-4.83333333333,Africa,,Kirma,1512,False,False
+seme,,277,sme,sif,{},11.0,-4.91666666667,Africa,,Seme,1273,False,False
+fulfuldemaasina,,276,fum,ffm,{},15.0,-5.0,Africa,,Fulfulde (Maasina),66,False,False
+baule,,275,ble,bci,{},7.0,-5.0,Africa,,Baule,1383,False,False
+tashlhiyt,,4,tas,shi,{},31.0,-5.0,Africa,,Tashlhiyt,2194,False,False
+berbermiddleatlas,,4,bma,tzm,{},33.0,-5.0,Africa,,Berber (Middle Atlas),2473,True,True
+nanerge,,290,nrg,sen,{},11.75,-5.0,Africa,,Nanerge,2582,False,False
+vata,,277,vat,dic,{},5.83333333333,-5.41666666667,Africa,,Vata,245,False,False
+ega,,275,ega,ega,{},5.5,-5.5,Africa,,Ega,1230,False,False
+avikam,,275,avk,avi,{},5.16666666667,-5.5,Africa,,Avikam,2591,False,False
+supyire,,290,sup,spp,{},11.5,-5.58333333333,Africa,,Supyire,2530,True,True
+jeli,,292,jel,,{},9.5,-5.66666666667,Africa,,Jeli,1308,False,False
+dadjriwale,,277,ddj,god,{},5.25,-5.66666666667,Africa,,Dadjriwalé,2579,False,False
+godie,,277,gdi,god,{},5.41666666667,-5.83333333333,Africa,,Godié,1031,False,False
+wan,,273,wna,wan,{},7.83333333333,-5.86666666667,Africa,,Wan,2578,False,False
+guro,,273,gro,goa,{},7.0,-6.0,Africa,,Guro,96,False,False
+arabicmoroccan,,10,amr,ary,{},34.0,-6.0,Africa,,Arabic (Moroccan),2199,False,False
+neyo,,277,ney,ney,{},5.0,-6.0,Africa,,Neyo,2580,False,False
+senadi,,290,snd,sef,{},9.5,-6.25,Africa,,Senadi,1329,False,False
+bete,,277,bet,bev,{},6.25,-6.25,Africa,,Bété,1539,False,False
+wobe,,277,wob,wob,{},7.41666666667,-7.33333333333,Africa,,Wobe,768,False,False
+mauka,,292,mka,mxx,{},8.33333333333,-7.5,Africa,,Mauka,1937,False,False
+bambara,,292,bam,bam,{},12.5,-7.5,Africa,,Bambara,2375,False,True
+guere,,277,gue,"gxx, wec",{},6.66666666667,-7.75,Africa,,Guere,91,False,False
+dan,,273,dan,daf,{},7.5,-8.0,Africa,,Dan,2074,False,False
+grebo,,277,grb,grj,{},5.0,-8.0,Africa,,Grebo,2444,True,True
+danblowo,,273,dbw,daf,{},7.33333333333,-8.16666666667,Africa,,Dan (Blowo),49,False,False
+klao,,277,kla,klu,{},4.75,-8.75,Africa,,Klao,1645,False,False
+mano,,273,man,mev,{},7.0,-9.0,Africa,,Mano,1764,False,False
+loma,,292,lma,lom,{},8.0,-9.5,Africa,,Loma,148,False,False
+maninka,,292,mnk,emk,{},10.5,-9.5,Africa,,Maninka,166,False,False
+arabicbanihassan,,10,ahs,mey,{},20.0,-10.0,Africa,,Arabic (Bani-Hassan),502,False,False
+kpelle,,292,kpe,xpe,{},7.0,-10.0,Africa,,Kpelle,1958,False,False
+kisi,,291,kis,"kqs, kss",{},8.83333333333,-10.1666666667,Africa,,Kisi,2311,False,False
+bandi,,292,bnd,bza,{},8.08333333333,-10.25,Africa,,Bandi,29,False,False
+kisisouthern,,291,kss,kss,{},8.5,-10.25,Africa,,Kisi (Southern),1247,False,False
+xasonga,,292,xas,kao,{},14.25,-10.5,Africa,,Xasonga,249,False,False
+soninke,,292,snn,snk,{},15.0,-10.5,Africa,,Soninke,1331,False,False
+gola,,291,gol,gol,{},7.25,-10.8333333333,Africa,,Gola,1233,False,False
+maninkawestern,,292,maw,mlq,{},13.0,-11.0,Africa,,Maninka (Western),1902,False,False
+koranko,,292,kko,knk,{},9.33333333333,-11.25,Africa,,Koranko,706,False,False
+vai,,292,vai,vai,{},6.91666666667,-11.25,Africa,,Vai,2108,False,False
+mende,,292,mde,men,{},7.83333333333,-11.5,Africa,,Mende,2116,False,False
+loko,,292,lok,lok,{},9.33333333333,-12.0833333333,Africa,,Loko,380,False,False
+fulaguinean,,276,fgu,fuf,{},11.5,-12.5,Africa,,Fula (Guinean),529,False,False
+basari,,276,bsr,bsc,{},12.6666666667,-13.0,Africa,,Basari,1019,False,False
+susu,,292,sus,sus,{},10.0,-13.0,Africa,,Susu,1531,False,False
+temne,,291,tne,tem,{},8.66666666667,-13.0833333333,Africa,,Temne,2225,False,False
+konyagi,,276,kgi,cou,{},12.5,-13.25,Africa,,Konyagi,1038,False,False
+fulamauritanian,,276,fma,fuc,{},16.5,-13.75,Africa,,Fula (Mauritanian),677,False,False
+fulasenegal,,276,fus,fuc,{},15.0,-14.0,Africa,,Fula (Senegal),319,False,False
+bagasitemu,,291,bgs,bsp,{},10.5,-14.5,Africa,,Baga Sitemu,914,False,False
+guineabissaucrioulo,,331,gbc,pov,{},12.0,-15.0,Africa,,Guinea Bissau Crioulo,93,False,False
+biafada,,276,bfd,bif,{},11.4166666667,-15.1666666667,Africa,,Biafada,34,False,False
+balanta,,276,blz,"bjt, ble",{},12.25,-15.3333333333,Africa,,Balanta,1158,False,False
+mandinka,,292,mdk,mnk,{},13.0,-15.6666666667,Africa,,Mandinka,1129,False,False
+mankanya,,276,mkn,knf,{},12.0833333333,-15.9166666667,Africa,,Mankanya,167,False,False
+zenaga,,4,zen,zen,{},17.3333333333,-16.0,Africa,,Zenaga,907,False,False
+mandinkagambian,,292,mkg,mnk,{},13.4166666667,-16.0,Africa,,Mandinka (Gambian),1362,False,False
+wolof,,276,wlf,wol,{},15.25,-16.0,Africa,,Wolof,2342,False,False
+manjaku,,276,mjk,mfv,{},12.0,-16.25,Africa,,Manjaku,387,False,False
+diolafogny,,276,dio,dyo,{},13.0,-16.25,Africa,,Diola-Fogny,2390,False,True
+palor,,276,plr,fap,{},14.8333333333,-16.75,Africa,,Palor,830,False,False
+diolakasa,,276,csk,csk,{},12.5,-16.75,Africa,,Diola-Kasa,2553,False,False
+noon,,276,noo,snf,{},14.8333333333,-16.8333333333,Africa,,Noon,2119,False,False
+ndut,,276,ndt,ndv,{},14.9166666667,-16.9166666667,Africa,,Ndut,2047,False,False

@@ -3,10 +3,11 @@
 from matplotlib import pyplot as plt
 import simplejson as json
 import csv
-import matplotlib as mpl
-mpl.rcParams['font.family'] = 'serif'
+import os
 
-country_codes = 'country_codes.csv'
+
+country_codes = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'country_codes.csv')
+data_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'countries.json')
 countries = {}
 
 # https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
@@ -17,7 +18,7 @@ with open(country_codes, 'rb') as _file:
             'population': population.replace(' ', '').replace(',', '')
         }
 
-with open('countries.json', 'r') as _file:
+with open(data_file, 'r') as _file:
     data = json.load(_file)
 
 
@@ -134,6 +135,17 @@ def plot_all(aggr=False, cont=None):
     plt.tight_layout()
     plt.show()
     # plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf', format='pdf')
+
+
+def get_languages():
+    pops = []
+    langs = []
+    for code, lang_num in data.items():
+        if int(lang_num) != 0 and countries[code]['population'] != '':
+            pops.append(int(countries[code]['population']))
+            langs.append(int(lang_num))
+    return pops, langs
+
 
 if __name__ == '__main__':
     # plot_all_in_one(aggr=True)

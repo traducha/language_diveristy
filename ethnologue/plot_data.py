@@ -3,6 +3,7 @@
 from matplotlib import pyplot as plt
 import simplejson as json
 import pprint
+import os
 from population_data.read import get_population
 
 
@@ -62,57 +63,65 @@ translations = {
 population = get_population(1996)
 # pprint.pprint(population)
 
-with open('languages.json', 'rb') as _file:
+file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'languages.json')
+with open(file_path, 'rb') as _file:
     languages = json.load(_file)
 # pprint.pprint(languages)
 
-count_lang = {}
-wrong_count = set()
 check_l = 0
 check_d = 0
-for lang, vals in languages.items():
-    used = False
-    for c in vals['countries']:
-        if c in ['Asia', 'Europe']:
-            continue
-        country = translations.get(c) or c
-        if country in count_lang:
-            used = True
-            count_lang[country]['langs'] += 1
-            count_lang[country]['dials'] += 1 + len(vals['dialects'])
-        else:
-            try:
-                pop = population[country]
-            except:
-                wrong_count.add(country)
+
+
+def get_languages():
+    count_lang = {}
+    global check_l
+    global check_d
+    wrong_count = set()
+    for lang, vals in languages.items():
+        used = False
+        for c in vals['countries']:
+            if c in ['Asia', 'Europe']:
                 continue
-            used = True
-            count_lang[country] = {
-                'langs': 1,
-                'dials': 1 + len(vals['dialects']),
-                'pop': pop
-            }
-    if used:
-        check_l += 1
-        check_d += 1 + len(vals['dialects'])
+            country = translations.get(c) or c
+            if country in count_lang:
+                used = True
+                count_lang[country]['langs'] += 1
+                count_lang[country]['dials'] += 1 + len(vals['dialects'])
+            else:
+                try:
+                    pop = population[country]
+                except:
+                    wrong_count.add(country)
+                    continue
+                used = True
+                count_lang[country] = {
+                    'langs': 1,
+                    'dials': 1 + len(vals['dialects']),
+                    'pop': pop
+                }
+        if used:
+            check_l += 1
+            check_d += 1 + len(vals['dialects'])
 
-print('No country: {}'.format(wrong_count))
+    print('No country: {}'.format(wrong_count))
+    return count_lang
 
 
-dials_num = []
-langs_num = []
-langs_pop = []
-for country, vals in count_lang.items():
-    langs_pop.append(vals['pop'])
-    langs_num.append(vals['langs'])
-    dials_num.append(vals['dials'])
+if __name__ == '__main__':
+    dials_num = []
+    langs_num = []
+    langs_pop = []
+    for country, vals in get_languages().items():
+        langs_pop.append(vals['pop'])
+        langs_num.append(vals['langs'])
+        dials_num.append(vals['dials'])
 
-print 'Countries: {}'.format(len(langs_pop))
-print 'Languages: {}'.format(check_l)
-print 'Dialects: {}'.format(check_d)
+    print 'Countries: {}'.format(len(langs_pop))
+    print 'Languages: {}'.format(check_l)
+    print 'Dialects: {}'.format(check_d)
 
-plt.scatter(langs_pop, langs_num, color='blue')
-plt.scatter(langs_pop, dials_num, color='green')
-plt.xscale('log')
-plt.yscale('log')
-plt.show()
+    plt.scatter(langs_pop, langs_num, color='blue')
+    plt.scatter(langs_pop, dials_num, color='green')
+    plt.xscale('log')
+    plt.yscale('log')
+    plt.show()

@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import os
 import csv
 import pprint
 
@@ -10,9 +11,10 @@ FILE_PATH = 'WPP2015_DB02_Populations_Annual.csv'
 def get_population(year):
     countries = {}
 
-    with open(FILE_PATH, 'rb') as _file:
+    file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), FILE_PATH)
+    with open(file_path, 'rb') as _file:
         data = iter(csv.reader(_file, delimiter=',', quotechar='|'))
-        print next(data)
+        print 'columnws: ', next(data)
 
         for row in data:
             try:

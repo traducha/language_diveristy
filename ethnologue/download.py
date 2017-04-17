@@ -1,13 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-from bs4 import BeautifulSoup, SoupStrainer
 import urllib2
 import pprint
-from matplotlib import pyplot as plt
 import simplejson as json
-import csv
 
 
+RES_FILE = 'languages.json'
 TIMEOUT = 5
 headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
@@ -40,14 +38,62 @@ def download_one_letter(letter):
     for lang in content:
         lang = lang.replace('\r', '')
         lang = lang.replace('\n', '')
-        print(lang)
-    # content = [x for x in content if 'alt' not in x]
-    # pprint.pprint(content)
-    return len(content)
+
+        if 'alt' in lang:
+            continue
+        elif len(lang) == 0:
+            continue
+        elif 'lang' in lang:
+            lang_name = lang.split('[')[0][:-1]
+            countries = lang.split(']')[1].replace(' lang, ', '').split(', ')
+
+            if 'Korea' in countries:
+                if countries[countries.index('Korea') + 1] in ['North', 'South']:
+                    new_c = 'Korea, {}'.format(countries[countries.index('Korea') + 1])
+                    countries.remove(countries[countries.index('Korea') + 1])
+                    countries.remove('Korea')
+                    countries.append(new_c)
+            if 'Korea' in countries:  # the second Korea
+                if countries[countries.index('Korea') + 1] in ['North', 'South']:
+                    new_c = 'Korea, {}'.format(countries[countries.index('Korea') + 1])
+                    countries.remove(countries[countries.index('Korea') + 1])
+                    countries.remove('Korea')
+                    countries.append(new_c)
+
+            if lang_name in languages:
+                languages[lang_name]['countries'].extend(countries)
+            else:
+                languages[lang_name] = {'countries': countries, 'dialects': []}
+        elif 'dial' in lang:
+            dial_name, lang_name = lang.split(' dial of ')
+            lang_name = lang_name.split(' [')[0]
+            if lang_name in languages:
+                languages[lang_name]['dialects'].append(dial_name)
+            else:
+                languages[lang_name] = {'countries': [], 'dialects': [dial_name]}
+        else:
+            print 'WARNIG!', lang
+            # raise BaseException
 
 
 if __name__ == '__main__':
-    num = 0
     for l in letters:
-        num += download_one_letter(l)
-    print("languagaes {}".format(num))
+        download_one_letter(l)
+    pprint.pprint(languages)
+
+    print("languagaes {}".format(len(languages.keys())))
+    dials = []
+    for lang, vals in languages.items():
+        dials.extend(vals['dialects'])
+    print("dialects {}".format(len(set(dials))))
+
+    count = []
+    for lang, vals in languages.items():
+        if len(vals['countries']) != len(set(vals['countries'])):
+            print 'WARNING!', lang, vals
+            print len(vals['countries']), len(set(vals['countries']))
+        count.extend(vals['countries'])
+    print("countries {}".format(len(set(count))))
+
+    with open(RES_FILE, 'w+') as _file:
+        json.dump(languages, _file, indent=2)

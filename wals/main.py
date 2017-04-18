@@ -1,24 +1,42 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 from matplotlib import pyplot as plt
+from population_data.read import get_population
 import simplejson as json
+import pprint
 import csv
+import sys
 import os
 
 
-country_codes = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'country_codes.csv')
+translations = {
+    'Wallis and Futuna': 'Wallis and Futuna Islands',
+    'Bolivia, Plurinational State of': 'Bolivia (Plurinational State of)',
+    'Palestine, State of': 'State of Palestine',
+    'Korea, Republic of': 'Republic of Korea',
+    'Moldova, Republic of': 'Republic of Moldova',
+    'Macedonia, the Former Yugoslav Republic of': 'TFYR Macedonia',
+    'Micronesia, Federated States of': 'Micronesia (Fed. States of)',
+    "Cote d'Ivoire": "C\xf4te d'Ivoire",
+    'Congo, the Democratic Republic of the': 'Democratic Republic of the Congo',
+    "Korea, Democratic People's Republic of": "Dem. People's Republic of Korea",
+    'United States': 'United States of America',
+    'Tanzania, United Republic of': 'United Republic of Tanzania',
+    'Taiwan, Province of China': 'China',
+    'Iran, Islamic Republic of': 'Iran (Islamic Republic of)',
+}
+
+country_codes = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'codes.json')
 data_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'countries.json')
 countries = {}
 
-# https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
-with open(country_codes, 'rb') as _file:
-    for name, code, code_a3, number, population in csv.reader(_file, delimiter=';', quotechar='|'):
-        countries[code] = {
-            'name': name,
-            'population': population.replace(' ', '').replace(',', '')
-        }
 
-with open(data_file, 'r') as _file:
+with open(country_codes, 'rb') as _file:
+    c_codes = json.load(_file)
+for c_code in c_codes:
+    countries[c_code['Code']] = c_code['Name']
+
+with open(data_file, 'rb') as _file:
     data = json.load(_file)
 
 
@@ -138,15 +156,39 @@ def plot_all(aggr=False, cont=None):
 
 
 def get_languages():
+    population = get_population(2015)
     pops = []
     langs = []
+    count = {}
     for code, lang_num in data.items():
-        if int(lang_num) != 0 and countries[code]['population'] != '':
-            pops.append(int(countries[code]['population']))
-            langs.append(int(lang_num))
+        if int(lang_num) != 0:
+            try:
+                pop = population[countries[code]]
+                name = countries[code]
+            except:
+                try:
+                    pop = population[translations[countries[code]]]
+                    name = translations[countries[code]]
+                except:
+                    print 'No population for', countries[code], code
+                    continue
+            if code in count:
+                count[name]['langs'] += lang_num
+            else:
+                count[name] = {
+                    'langs': lang_num,
+                    'pop': pop,
+                }
+
+    for k, v in count.items():
+        pops.append(v['pop'])
+        langs.append(v['langs'])
+
     return pops, langs
 
 
 if __name__ == '__main__':
     # plot_all_in_one(aggr=True)
-    plot_all(aggr=True, cont=None)
+    # plot_all(aggr=True, cont=None)
+    pops, langs = get_languages()
+    print sorted(pops)[-4:]

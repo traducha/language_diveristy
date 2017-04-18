@@ -16,31 +16,33 @@ headers = {
     'Connection': 'keep-alive',
 }
 
-country_codes = 'country_codes.csv'
+country_codes = 'codes.json'
 countries = {}
 
 
 with open(country_codes, 'rb') as _file:
-    for name, code, code_a3, number, population in csv.reader(_file, delimiter=';', quotechar='|'):
-        countries[code] = 0
+    c_codes = json.load(_file)
+for c_code in c_codes:
+    countries[c_code['Code']] = 0
 
 
 for code in countries.keys():
     url_string = 'http://wals.info/country/{}'.format(code)
-    print 'requesting {}'.format(url_string)
+    # print 'requesting {}'.format(url_string)
 
     try:
         req = urllib2.Request(url_string, headers=headers)
         url_content = urllib2.urlopen(req, timeout=TIMEOUT).read()
     except urllib2.HTTPError:
+        print code
         continue
 
     for table in BeautifulSoup(url_content, 'lxml', parse_only=SoupStrainer('table')):
         if str(table) == 'html':
             continue
-        print(str(table).count('<tr>'))
+        # print(str(table).count('<tr>'))
         countries[code] = str(table).count('<tr>')
 
 
 with open('countries.json', 'w+') as _file:
-    json.dump(countries, _file)
+    json.dump(countries, _file, indent=2)

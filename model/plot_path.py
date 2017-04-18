@@ -10,6 +10,7 @@ import sys
 ticksize = 14
 axsize = 16
 
+
 def lin(x, a, b):
     if isinstance(x, list):
         return [a * i + b for i in x]

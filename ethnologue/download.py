@@ -79,7 +79,7 @@ def download_one_letter(letter):
 if __name__ == '__main__':
     for l in letters:
         download_one_letter(l)
-    pprint.pprint(languages)
+    # pprint.pprint(languages)
 
     print("languagaes {}".format(len(languages.keys())))
     dials = []
@@ -97,3 +97,6 @@ if __name__ == '__main__':
 
     with open(RES_FILE, 'w+') as _file:
         json.dump(languages, _file, indent=2)
+
+    # 6866 languages
+    # 9130 dialects

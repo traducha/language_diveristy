@@ -43,6 +43,19 @@ plt.plot(range(410, 4100, 2), lin(range(410, 4100, 2), popt[0], popt[1]), 'k-')
 print popt[0]
 plt.scatter(x, y, marker='s', s=20*2, color='orange')
 
+# with open('/home/tomaszraducha/Dropbox/DaneAxelrod/mgr/mgr/path/normal_paths_q3_av48.data', 'rb') as _file:
+#     path = pickle.load(_file)
+#
+# x, y = [], []
+# for k, v in path.items():
+#     if k < 4100:
+#         x.append(k)
+#         y.append(v)
+# popt, pcov = fit(lin, x, y)
+# plt.plot(range(410, 4100, 2), lin(range(410, 4100, 2), popt[0], popt[1]), 'k-')
+# print popt[0]
+# plt.scatter(x, y, marker='s', s=20*2, color='green')
+
 plt.xlim([300, 4300])
 plt.ylim([0, 27])
 plt.xlabel('N', fontsize=axsize)

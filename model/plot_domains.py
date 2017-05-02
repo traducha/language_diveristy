@@ -16,8 +16,8 @@ import numpy as np
 N_list = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
 styles = {2: 's', 5: 'o', 50: 'D', 100: '^'}
 
-ticksize = 14
-axsize = 16
+ticksize = 16
+axsize = 18
 
 
 def fetch_results():
@@ -62,11 +62,11 @@ def plot_results(res, qs, ymin=0, name=None):
             n_list.append(N)
 
         if 'high_k_cluster' in q_mode:
-            plt.scatter(n_list, com_av, color='#FF8340', marker=styles[q], s=20*2)
+            plt.scatter(n_list, com_av, color='#FF8340', marker=styles[q], s=40*2)
         elif 'cluster' in q_mode:
-            plt.scatter(n_list, com_av, color='#4E4661', marker=styles[q], s=20*2)
+            plt.scatter(n_list, com_av, color='#4E4661', marker=styles[q], s=40*2)
         elif 'normal' in q_mode:
-            plt.scatter(n_list, com_av, color='#72B62E', marker=styles[q], s=20*2)
+            plt.scatter(n_list, com_av, color='#72B62E', marker=styles[q], s=40*2)
 
     plt.xlabel('N', fontsize=axsize)
     plt.ylabel('Number of domains', fontsize=axsize)

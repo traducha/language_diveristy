@@ -62,12 +62,17 @@ def plot_results(res, qs, ymin=0, name=None):
             n_list.append(N)
 
         if 'high_k_cluster' in q_mode:
-            plt.scatter(n_list, com_av, color='#FF8340', marker=styles[q], s=40*2)
+            plt.scatter(n_list, com_av, color='#ffa517', marker=styles[q], s=40*2)
         elif 'cluster' in q_mode:
-            plt.scatter(n_list, com_av, color='#4E4661', marker=styles[q], s=40*2)
+            plt.scatter(n_list, com_av, color='#3591d0', marker=styles[q], s=40*2)
         elif 'normal' in q_mode:
-            plt.scatter(n_list, com_av, color='#72B62E', marker=styles[q], s=40*2)
-
+            plt.scatter(n_list, com_av, color='#96c824', marker=styles[q], s=40*2)
+    # blue 3591d0
+    # yellow ffd24d
+    # red f3363e
+    # purple d5a6f2
+    # orange ffa517
+    # green 96c824
     plt.xlabel('N', fontsize=axsize)
     plt.ylabel('Number of domains', fontsize=axsize)
     plt.xlim([50, 1050])

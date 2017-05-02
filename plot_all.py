@@ -5,6 +5,9 @@ from ethnologue import plot_data
 from wals import main
 import sys
 
+blue = '#3591d0'
+red = '#f3363e'
+green = '#96c824'
 
 bins = 10.0  # 15
 ticksize = 14
@@ -44,9 +47,9 @@ print lm3, m3
 print sorted(eth_pop)[-4:]
 
 
-plt.scatter(eth_pop, langs_eth, color='blue')
-plt.scatter(eth_pop, dials_eth, color='green')
-plt.scatter(wals_pops, wals_langs, color='red')
+plt.scatter(eth_pop, langs_eth, color=blue)
+plt.scatter(eth_pop, dials_eth, color=green)
+plt.scatter(wals_pops, wals_langs, color=red)
 plt.xlim([1.0, 2000000])
 plt.ylim([0.5, 10000])
 plt.ylabel('Number of languages/dialects', fontsize=axsize)
@@ -111,18 +114,18 @@ eth_aggr_pops_d, eth_aggr_dials, wd = aggregate(eth_pop, dials_eth)
 
 fig = plt.figure(figsize=[12, 4])
 ax1 = fig.add_subplot('131')
-ax1.bar(eth_aggr_pops, eth_aggr_langs, color='blue', align='center', width=wl)
+ax1.bar(eth_aggr_pops, eth_aggr_langs, color=blue, align='center', width=wl)
 ax1.set_ylabel('Number of languages/dialects', fontsize=axsize)
 ax1.set_xlabel('Population [MM]', fontsize=axsize)
 ax1.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax2 = fig.add_subplot('132')
-ax2.bar(eth_aggr_pops_d, eth_aggr_dials, color='green', align='center', width=wd)
+ax2.bar(eth_aggr_pops_d, eth_aggr_dials, color=green, align='center', width=wd)
 ax2.set_xlabel('Population [MM]', fontsize=axsize)
 ax2.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax3 = fig.add_subplot('133')
-ax3.bar(wals_aggr_pops, wals_aggr_langs, color='red', align='center', width=ww)
+ax3.bar(wals_aggr_pops, wals_aggr_langs, color=red, align='center', width=ww)
 ax3.set_xlabel('Population [MM]', fontsize=axsize)
 ax3.tick_params(axis='both', which='major', labelsize=ticksize)
 

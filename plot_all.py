@@ -4,14 +4,16 @@ from matplotlib import pyplot as plt
 from ethnologue import plot_data
 from wals import main
 import sys
+import matplotlib as mpl
+mpl.rcParams['font.family'] = 'serif'
 
-blue = '#3591d0'
-red = '#f3363e'
-green = '#96c824'
+blue = '#21759B'
+red = '#C40233'
+green = '#4B6F44'
 
 bins = 10.0  # 15
-ticksize = 14
-axsize = 16
+ticksize = 9 * 0.75 / 0.5
+axsize = 12 * 0.75 / 0.5
 
 
 wals_pops, wals_langs = main.get_languages()
@@ -58,9 +60,9 @@ plt.tick_params(axis='both', which='major', labelsize=ticksize)
 plt.xscale('log')
 plt.yscale('log')
 plt.tight_layout()
-plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf')
-# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps')
+# plt.show()
+plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf', transparent=True)
+plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps', transparent=True)
 plt.clf()
 
 
@@ -130,7 +132,7 @@ ax3.set_xlabel('Population [MM]', fontsize=axsize)
 ax3.tick_params(axis='both', which='major', labelsize=ticksize)
 
 plt.tight_layout()
-plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf')
-# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps')
+# plt.show()
+plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf', transparent=True)
+plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps', transparent=True)
 plt.clf()

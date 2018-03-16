@@ -1,9 +1,23 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+from scipy.optimize import curve_fit as fit
 from matplotlib import pyplot as plt
 from ethnologue import plot_data
 from wals import main
+import numpy as np
 import sys
+
+
+def linear_fit(x, a, b):
+    return a * x + b
+
+def r_2(xdata, ydata, params):
+    residuals = np.array(ydata) - linear_fit(np.array(xdata), *params)
+    ss_res = np.sum(residuals ** 2)
+    ss_tot = np.sum((np.array(ydata) - np.mean(ydata)) ** 2)
+    r_squared = 1.0 - (ss_res / ss_tot)
+    return r_squared
+
 
 blue = '#3591d0'
 red = '#f3363e'
@@ -46,7 +60,6 @@ print lm2, m2
 print lm3, m3
 print sorted(eth_pop)[-4:]
 
-
 plt.scatter(eth_pop, langs_eth, color=blue)
 plt.scatter(eth_pop, dials_eth, color=green)
 plt.scatter(wals_pops, wals_langs, color=red)
@@ -62,7 +75,6 @@ plt.show()
 # plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf')
 # plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps')
 plt.clf()
-
 
 
 for i in xrange(2):
@@ -114,17 +126,29 @@ eth_aggr_pops_d, eth_aggr_dials, wd = aggregate(eth_pop, dials_eth)
 
 fig = plt.figure(figsize=[12, 4])
 ax1 = fig.add_subplot('131')
+popt, pcov = fit(linear_fit, eth_pop, langs_eth)
+print popt
+print r_2(eth_aggr_pops, eth_aggr_langs, popt)
+plt.plot(eth_aggr_pops, [linear_fit(x, *popt) for x in eth_aggr_pops], color='black', linewidth=1.5)
 ax1.bar(eth_aggr_pops, eth_aggr_langs, color=blue, align='center', width=wl)
 ax1.set_ylabel('Number of languages/dialects', fontsize=axsize)
 ax1.set_xlabel('Population [MM]', fontsize=axsize)
 ax1.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax2 = fig.add_subplot('132')
+popt, pcov = fit(linear_fit, eth_pop, dials_eth)
+print popt
+print r_2(eth_aggr_pops_d, eth_aggr_dials, popt)
+plt.plot(eth_aggr_pops_d, [linear_fit(x, *popt) for x in eth_aggr_pops_d], color='black', linewidth=1.5)
 ax2.bar(eth_aggr_pops_d, eth_aggr_dials, color=green, align='center', width=wd)
 ax2.set_xlabel('Population [MM]', fontsize=axsize)
 ax2.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax3 = fig.add_subplot('133')
+popt, pcov = fit(linear_fit, wals_pops, wals_langs)
+print popt
+print r_2(wals_aggr_pops, wals_aggr_langs, popt)
+plt.plot(wals_aggr_pops, [linear_fit(x, *popt) for x in wals_aggr_pops], color='black', linewidth=1.5)
 ax3.bar(wals_aggr_pops, wals_aggr_langs, color=red, align='center', width=ww)
 ax3.set_xlabel('Population [MM]', fontsize=axsize)
 ax3.tick_params(axis='both', which='major', labelsize=ticksize)

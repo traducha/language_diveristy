@@ -20,10 +20,14 @@ ticksize = 16
 axsize = 18
 
 
+def linear_fit(x, a, b):
+    return a * x + b
+
+
 def fetch_results():
     res = {}
     pattern = re.compile(r'([a-zA-Z2_]*)_domains_number_N([0-9]{1,4})_q([0-9]{1,4})_av[0-9]{1,4}\.data')
-    for _file in glob.glob("/home/tomaszraducha/Dropbox/DaneAxelrod/mgr/mgr/domains_numbers/data/*.data"):
+    for _file in glob.glob("/home/tomasz/Dropbox/DaneAxelrod/mgr/mgr/domains_numbers/data/*.data"):
         match = pattern.match(_file.split('/')[-1])
         mode, N, q = match.groups()
         N = int(N)
@@ -64,6 +68,15 @@ def plot_results(res, qs, ymin=0, name=None):
         if 'high_k_cluster' in q_mode:
             plt.scatter(n_list, com_av, color='#ffa517', marker=styles[q], s=40*2)
         elif 'cluster' in q_mode:
+            popt, pcov = fit(linear_fit, n_list, com_av)
+            plt.plot(n_list, [linear_fit(x, *popt) for x in n_list], color='black')
+            print
+            print popt
+            residuals = np.array(com_av) - linear_fit(np.array(n_list), *popt)
+            ss_res = np.sum(residuals ** 2)
+            ss_tot = np.sum((np.array(com_av) - np.mean(com_av)) ** 2)
+            r_squared = 1.0 - (ss_res / ss_tot)
+            print r_squared
             plt.scatter(n_list, com_av, color='#3591d0', marker=styles[q], s=40*2)
         elif 'normal' in q_mode:
             plt.scatter(n_list, com_av, color='#96c824', marker=styles[q], s=40*2)

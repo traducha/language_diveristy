@@ -6,6 +6,8 @@ from ethnologue import plot_data
 from wals import main
 import numpy as np
 import sys
+import matplotlib as mpl
+mpl.rcParams['font.family'] = 'sans-serif'
 
 
 def linear_fit(x, a, b):
@@ -19,13 +21,13 @@ def r_2(xdata, ydata, params):
     return r_squared
 
 
-blue = '#3591d0'
-red = '#f3363e'
-green = '#96c824'
+blue = '#21759B'
+red = '#C40233'
+green = '#4B6F44'
 
 bins = 10.0  # 15
-ticksize = 14
-axsize = 16
+ticksize = 9 #* 0.75 / 0.5
+axsize = 12 #* 0.75 / 0.5
 
 
 wals_pops, wals_langs = main.get_languages()
@@ -60,9 +62,10 @@ print lm2, m2
 print lm3, m3
 print sorted(eth_pop)[-4:]
 
-plt.scatter(eth_pop, langs_eth, color=blue)
-plt.scatter(eth_pop, dials_eth, color=green)
-plt.scatter(wals_pops, wals_langs, color=red)
+fig = plt.figure(figsize=[8, 6])
+plt.scatter(eth_pop, dials_eth, marker='s', color=green, s=15*2)
+plt.scatter(eth_pop, langs_eth, marker='o', color=blue, s=15*2)
+plt.scatter(wals_pops, wals_langs, marker='^', color=red, s=15*2)
 plt.xlim([1.0, 2000000])
 plt.ylim([0.5, 10000])
 plt.ylabel('Number of languages/dialects', fontsize=axsize)
@@ -71,9 +74,9 @@ plt.tick_params(axis='both', which='major', labelsize=ticksize)
 plt.xscale('log')
 plt.yscale('log')
 plt.tight_layout()
-plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf')
-# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps')
+# plt.show()
+# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf', transparent=True)
+plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps', transparent=True, dpi=600)
 plt.clf()
 
 
@@ -124,7 +127,9 @@ wals_aggr_pops, wals_aggr_langs, ww = aggregate(wals_pops, wals_langs)
 eth_aggr_pops, eth_aggr_langs, wl = aggregate(eth_pop, langs_eth)
 eth_aggr_pops_d, eth_aggr_dials, wd = aggregate(eth_pop, dials_eth)
 
-fig = plt.figure(figsize=[12, 4])
+ticksize = 6
+axsize = 8
+fig = plt.figure(figsize=[7.5, 2.5])
 ax1 = fig.add_subplot('131')
 popt, pcov = fit(linear_fit, eth_pop, langs_eth)
 print popt
@@ -154,7 +159,7 @@ ax3.set_xlabel('Population [MM]', fontsize=axsize)
 ax3.tick_params(axis='both', which='major', labelsize=ticksize)
 
 plt.tight_layout()
-plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf')
-# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps')
+# plt.show()
+# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf', transparent=True)
+plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps', transparent=True, dpi=600)
 plt.clf()

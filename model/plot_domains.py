@@ -72,20 +72,31 @@ def plot_results(res, qs, ymin=0, name=None):
             n_list.append(N)
 
         if 'high_k_cluster' in q_mode:
+            popt, pcov = fit(linear_fit, n_list, com_av)
+            ax.plot([min(n_list), max(n_list)], [linear_fit(x, *popt) for x in [min(n_list), max(n_list)]], '--', color='#000000')
+            print 'high_k_cluster', q
+            print popt, np.sqrt(np.diag(pcov))
+            residuals = np.array(com_av) - linear_fit(np.array(n_list), *popt)
+            ss_res = np.sum(residuals ** 2)
+            ss_tot = np.sum((np.array(com_av) - np.mean(com_av)) ** 2)
+            r_squared = 1.0 - (ss_res / ss_tot)
+            print r_squared
+            print
             a = ax.scatter(n_list, com_av, color='#21759B', marker=styles[q], s=24*2)
             if a_ is None:
                 a_ = True
                 a.set_label('local rewiring 2')
         elif 'cluster' in q_mode:
             popt, pcov = fit(linear_fit, n_list, com_av)
-            plt.plot(n_list, [linear_fit(x, *popt) for x in n_list], color='black')
-            print
-            print popt
+            ax.plot([min(n_list), max(n_list)], [linear_fit(x, *popt) for x in [min(n_list), max(n_list)]], '--', color='#000000')
+            print 'cluster', q
+            print popt, np.sqrt(np.diag(pcov))
             residuals = np.array(com_av) - linear_fit(np.array(n_list), *popt)
             ss_res = np.sum(residuals ** 2)
             ss_tot = np.sum((np.array(com_av) - np.mean(com_av)) ** 2)
             r_squared = 1.0 - (ss_res / ss_tot)
             print r_squared
+            print
             b = ax.scatter(n_list, com_av, color='#C40233', marker=styles[q], s=24*2)
             if b_ is None:
                 b_ = True
@@ -121,7 +132,7 @@ if __name__ == '__main__':
     plot_results(res, [2, 5], ymin=-10, name='models_q2_5')
     plt.tight_layout()
 
-    # plt.show()
-    # plt.savefig('/home/tomaszraducha/Pulpit/{}.pdf'.format(name), transparent=True)
-    plt.savefig('/home/tomaszraducha/Pulpit/{}.eps'.format('domains'), transparent=True, dpi=600)
+    plt.show()
+    # plt.savefig('/home/tomasz/Desktop/{}.pdf'.format('domains'), transparent=True)
+    # plt.savefig('/home/tomasz/Desktop/{}.eps'.format('domains'), transparent=True, dpi=600)
     plt.clf()

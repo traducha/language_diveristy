@@ -15,8 +15,8 @@ def linear_fit(x, a, b):
 
 def r_2(xdata, ydata, params):
     residuals = np.array(ydata) - linear_fit(np.array(xdata), *params)
-    ss_res = np.sum(residuals ** 2)
-    ss_tot = np.sum((np.array(ydata) - np.mean(ydata)) ** 2)
+    ss_res = np.sum(residuals ** 2.0)
+    ss_tot = np.sum((np.array(ydata) - np.mean(ydata)) ** 2.0)
     r_squared = 1.0 - (ss_res / ss_tot)
     return r_squared
 
@@ -74,10 +74,11 @@ plt.tick_params(axis='both', which='major', labelsize=ticksize)
 plt.xscale('log')
 plt.yscale('log')
 plt.tight_layout()
-# plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf', transparent=True)
-plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps', transparent=True, dpi=600)
+plt.show()
+# plt.savefig('/home/tomasz/Desktop/all_languages.pdf')
+# plt.savefig('/home/tomasz/Desktop/all_languages.eps')
 plt.clf()
+
 
 
 for i in xrange(2):
@@ -131,35 +132,56 @@ ticksize = 6
 axsize = 8
 fig = plt.figure(figsize=[7.5, 2.5])
 ax1 = fig.add_subplot('131')
-popt, pcov = fit(linear_fit, eth_pop, langs_eth)
-print popt
-print r_2(eth_aggr_pops, eth_aggr_langs, popt)
-plt.plot(eth_aggr_pops, [linear_fit(x, *popt) for x in eth_aggr_pops], color='black', linewidth=1.5)
+x_for_fit, y_for_fit = [], []
+for pop, lang in zip(eth_aggr_pops, eth_aggr_langs):
+    if lang > 0.0:
+        x_for_fit.append(pop)
+        y_for_fit.append(lang)
+popt, pcov = fit(linear_fit, x_for_fit, y_for_fit)
+print popt, np.sqrt(np.diag(pcov))
+print r_2(x_for_fit, y_for_fit, popt)
+ax1.plot([0.0]+eth_aggr_pops, [linear_fit(x, *popt) for x in [0.0]+eth_aggr_pops], color='black', linewidth=1.5)
 ax1.bar(eth_aggr_pops, eth_aggr_langs, color=blue, align='center', width=wl)
 ax1.set_ylabel('Number of languages/dialects', fontsize=axsize)
 ax1.set_xlabel('Population [MM]', fontsize=axsize)
+ax1.set_xlim(xmin=0)
+ax1.set_ylim(ymin=0)
 ax1.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax2 = fig.add_subplot('132')
-popt, pcov = fit(linear_fit, eth_pop, dials_eth)
-print popt
-print r_2(eth_aggr_pops_d, eth_aggr_dials, popt)
-plt.plot(eth_aggr_pops_d, [linear_fit(x, *popt) for x in eth_aggr_pops_d], color='black', linewidth=1.5)
+x_for_fit, y_for_fit = [], []
+for pop, lang in zip(eth_aggr_pops_d, eth_aggr_dials):
+    if lang > 0.0:
+        x_for_fit.append(pop)
+        y_for_fit.append(lang)
+popt, pcov = fit(linear_fit, x_for_fit, y_for_fit)
+print popt, np.sqrt(np.diag(pcov))
+print r_2(x_for_fit, y_for_fit, popt)
+ax2.plot([0.0]+eth_aggr_pops_d, [linear_fit(x, *popt) for x in [0.0]+eth_aggr_pops_d], color='black', linewidth=1.5)
 ax2.bar(eth_aggr_pops_d, eth_aggr_dials, color=green, align='center', width=wd)
 ax2.set_xlabel('Population [MM]', fontsize=axsize)
+ax1.set_xlim(xmin=0)
+ax1.set_ylim(ymin=0)
 ax2.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax3 = fig.add_subplot('133')
-popt, pcov = fit(linear_fit, wals_pops, wals_langs)
-print popt
-print r_2(wals_aggr_pops, wals_aggr_langs, popt)
-plt.plot(wals_aggr_pops, [linear_fit(x, *popt) for x in wals_aggr_pops], color='black', linewidth=1.5)
+x_for_fit, y_for_fit = [], []
+for pop, lang in zip(wals_aggr_pops, wals_aggr_langs):
+    if lang > 0.0:
+        x_for_fit.append(pop)
+        y_for_fit.append(lang)
+popt, pcov = fit(linear_fit, x_for_fit, y_for_fit)
+print popt, np.sqrt(np.diag(pcov))
+print r_2(x_for_fit, y_for_fit, popt)
+ax3.plot(wals_aggr_pops, [linear_fit(x, *popt) for x in wals_aggr_pops], color='black', linewidth=1.5)
 ax3.bar(wals_aggr_pops, wals_aggr_langs, color=red, align='center', width=ww)
 ax3.set_xlabel('Population [MM]', fontsize=axsize)
+ax3.set_xlim(xmin=0)
+ax3.set_ylim(ymin=0)
 ax3.tick_params(axis='both', which='major', labelsize=ticksize)
 
 plt.tight_layout()
-# plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf', transparent=True)
-plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps', transparent=True, dpi=600)
+plt.show()
+# plt.savefig('/home/tomasz/Desktop/languages_hist.pdf')
+# plt.savefig('/home/tomasz/Desktop/languages_hist.eps')
 plt.clf()

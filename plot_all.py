@@ -12,8 +12,8 @@ red = '#C40233'
 green = '#4B6F44'
 
 bins = 10.0  # 15
-ticksize = 9 #* 0.75 / 0.5
-axsize = 12 #* 0.75 / 0.5
+ticksize = 12 #* 0.75 / 0.5
+axsize = 16 #* 0.75 / 0.5
 
 
 wals_pops, wals_langs = main.get_languages()
@@ -49,9 +49,12 @@ print lm3, m3
 print sorted(eth_pop)[-4:]
 
 fig = plt.figure(figsize=[8, 6])
-plt.scatter(eth_pop, dials_eth, marker='s', color=green, s=15*2)
-plt.scatter(eth_pop, langs_eth, marker='o', color=blue, s=15*2)
-plt.scatter(wals_pops, wals_langs, marker='^', color=red, s=15*2)
+a = plt.scatter(eth_pop, dials_eth, marker='s', color=green, s=15*2)
+a.set_label('dialects')
+b = plt.scatter(eth_pop, langs_eth, marker='o', color=blue, s=15*2)
+b.set_label('languages 1')
+c = plt.scatter(wals_pops, wals_langs, marker='^', color=red, s=15*2)
+c.set_label('languages 2')
 plt.xlim([1.0, 2000000])
 plt.ylim([0.5, 10000])
 plt.ylabel('Number of languages/dialects', fontsize=axsize)
@@ -60,11 +63,14 @@ plt.tick_params(axis='both', which='major', labelsize=ticksize)
 plt.xscale('log')
 plt.yscale('log')
 plt.tight_layout()
-# plt.show()
-# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf', transparent=True)
-plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps', transparent=True, dpi=600)
-plt.clf()
 
+# handles, labels = plt.get_legend_handles_labels()
+plt.legend(loc=2, fontsize=axsize, framealpha=0.0)
+
+plt.show()
+# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.pdf', transparent=True)
+# plt.savefig('/home/tomaszraducha/Pulpit/all_languages.eps', transparent=True, dpi=600)
+# plt.clf()
 
 
 for i in xrange(2):
@@ -114,27 +120,30 @@ wals_aggr_pops, wals_aggr_langs, ww = aggregate(wals_pops, wals_langs)
 eth_aggr_pops, eth_aggr_langs, wl = aggregate(eth_pop, langs_eth)
 eth_aggr_pops_d, eth_aggr_dials, wd = aggregate(eth_pop, dials_eth)
 
-ticksize = 6
-axsize = 8
+ticksize = 8
+axsize = 11
 fig = plt.figure(figsize=[7.5, 2.5])
 ax1 = fig.add_subplot('131')
 ax1.bar(eth_aggr_pops, eth_aggr_langs, color=blue, align='center', width=wl)
+ax1.text(15, 260, 'languages 1')
 ax1.set_ylabel('Number of languages/dialects', fontsize=axsize)
 ax1.set_xlabel('Population [MM]', fontsize=axsize)
 ax1.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax2 = fig.add_subplot('132')
 ax2.bar(eth_aggr_pops_d, eth_aggr_dials, color=green, align='center', width=wd)
+ax2.text(15, 780, 'dialects')
 ax2.set_xlabel('Population [MM]', fontsize=axsize)
 ax2.tick_params(axis='both', which='major', labelsize=ticksize)
 
 ax3 = fig.add_subplot('133')
 ax3.bar(wals_aggr_pops, wals_aggr_langs, color=red, align='center', width=ww)
+ax3.text(12, 173, 'languages 2')
 ax3.set_xlabel('Population [MM]', fontsize=axsize)
 ax3.tick_params(axis='both', which='major', labelsize=ticksize)
 
 plt.tight_layout()
-# plt.show()
+plt.show()
 # plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.pdf', transparent=True)
-plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps', transparent=True, dpi=600)
+# plt.savefig('/home/tomaszraducha/Pulpit/languages_hist.eps', transparent=True, dpi=600)
 plt.clf()

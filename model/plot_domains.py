@@ -83,8 +83,8 @@ def plot_results(res, qs, ymin=0, name=None):
                 c_ = True
                 c.set_label('uniform rewiring')
 
-    # handles, labels = ax.get_legend_handles_labels()
-    # ax.legend(loc=2, fontsize=axsize, framealpha=0.0)
+    handles, labels = ax.get_legend_handles_labels()
+    ax.legend(loc=2, fontsize=axsize, framealpha=0.0)
     # blue 3591d0
     # yellow ffd24d
     # red f3363e
@@ -101,14 +101,14 @@ def plot_results(res, qs, ymin=0, name=None):
 if __name__ == '__main__':
     res = fetch_results()
     # pprint.pprint(res)
-    fig = plt.figure(figsize=[10, 4])
-    ax = fig.add_subplot(121)
-    plot_results(res, [50, 100], ymin=-50, name='models_q50_100')
-    ax = fig.add_subplot(122)
+    fig = plt.figure(figsize=[7, 5])
+    ax = fig.add_subplot(111)
+    # plot_results(res, [50, 100], ymin=-50, name='models_q50_100')
+    # ax = fig.add_subplot(122)
     plot_results(res, [2, 5], ymin=-10, name='models_q2_5')
     plt.tight_layout()
 
-    # plt.show()
-    # plt.savefig('/home/tomaszraducha/Pulpit/{}.pdf'.format(name), transparent=True)
-    plt.savefig('/home/tomaszraducha/Pulpit/{}.eps'.format('domains'), transparent=True, dpi=600)
+    plt.show()
+    # plt.savefig('/home/tomaszraducha/Pulpit/{}.png'.format('models_q2_5'), transparent=True)
+    # plt.savefig('/home/tomaszraducha/Pulpit/{}.eps'.format('domains'), transparent=True, dpi=600)
     plt.clf()
